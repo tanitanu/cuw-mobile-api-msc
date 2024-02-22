@@ -1,0 +1,323 @@
+[
+  {
+    "CSLShopRequest": {
+      "ObjectName": "United.Persist.Definition.Shopping.CSLShopRequest",
+      "ShopRequest": {
+        "ApproxTimeOfDay": "ValueNotSet",
+        "Bereavement": "NoneSelected",
+        "Characteristics": "",
+        "MaxTrips": 150,
+        "MilitaryTravelType": "NotSet",
+        "SearchType": "ValueNotSet",
+        "SearchTypeSelection": "RoundTrip",
+        "ServiceType": "Boombox",
+        "VendorQuery": false,
+        "MarketingCarriers": "",
+        "OperatingCarriers": "",
+        "Midpoints": "",
+        "Routes": "",
+        "PaxInfoList": {
+          "PaxInfo": {
+            "PaxType": "Adult",
+            "DateOfBirth": "11/23/1996",
+            "PtcList": {
+              "string": "PPR"
+            },
+            "Characteristics": "",
+            "UMNROptIn": false,
+            "Age": 0
+          }
+        },
+        "RequiredAvailabilitySumAllFlights": "",
+        "Trips": {
+          "Trip": [
+            {
+              "CabinType": "ValueNotSet",
+              "ITAQueries": "",
+              "SearchFiltersIn": {
+                "AirportsDestinationList": "",
+                "AirportsOriginList": "",
+                "AirportsStopList": "",
+                "AirportsStopToAvoidList": "",
+                "CarriersMarketingList": "",
+                "CarriersOperatingList": "",
+                "EquipmentList": "",
+                "FareFamilyFilters": "",
+                "StopPrices": "",
+                "Warnings": ""
+              },
+              "SearchFiltersOut": {
+                "AirportsDestinationList": "",
+                "AirportsOriginList": "",
+                "AirportsStopList": "",
+                "AirportsStopToAvoidList": "",
+                "CarriersMarketingList": "",
+                "CarriersOperatingList": "",
+                "EquipmentList": "",
+                "FareFamilyFilters": "",
+                "StopPrices": "",
+                "Warnings": ""
+              },
+              "Flights": {
+                "Flight": {
+                  "PassPlusTypeValue": "None",
+                  "Connections": "",
+                  "Messages": "",
+                  "Products": {
+                    "Product": {
+                      "BookingClassList": "",
+                      "Fares": "",
+                      "Context": {
+                        "ReferenceFare": {
+                          "PricingDetails": "",
+                          "SegmentMappings": "",
+                          "AdditionalFees": ""
+                        },
+                        "ItaMiles": 32500,
+                        "NgrpMiles": 16900,
+                        "SubProducts": "",
+                        "NGRP": true,
+                        "DynamicCode": "E169H-L-Y",
+                        "FareFlavour": "displacement",
+                        "PriceDesignator": "$REFFARE",
+                        "DiagnosticId": "ARP:AM282/FAM282/OV101/RUP",
+                        "Rank": 17153.14,
+                        "PaxPrices": {
+                          "PaxPrice": ""
+                        },
+                        "StopOverCode": "",
+                        "Characteristics": ""
+                      },
+                      "Prices": {
+                        "PricingItem": [
+                          {
+                            "PricingDetails": "",
+                            "SegmentMappings": "",
+                            "AdditionalFees": ""
+                          },
+                          {
+                            "PricingDetails": "",
+                            "SegmentMappings": "",
+                            "AdditionalFees": ""
+                          },
+                          {
+                            "PricingDetails": "",
+                            "SegmentMappings": "",
+                            "AdditionalFees": ""
+                          }
+                        ]
+                      },
+                      "LmxLoyaltyTiers": "",
+                      "CreditType": "None",
+                      "SubProducts": "",
+                      "IsBundleProduct": false,
+                      "DisplayOrder": 0,
+                      "NumberOfPassengers": 0,
+                      "IsElf": false,
+                      "ColumnId": 4,
+                      "TripIndex": 0,
+                      "SegmentNumber": 0,
+                      "PricingBookingCodes": "",
+                      "AdditionalUpgrades": "",
+                      "UpgradeCabinKey": "NoneSpecified",
+                      "FareFamily": "MIN-ECONOMY-SURP-OR-DISP",
+                      "UpgradeMessages": ""
+                    }
+                  },
+                  "Rewards": "",
+                  "StopInfos": "",
+                  "ProductsNotSelected": {
+                    "Product": [
+                      {
+                        "BookingClassList": "",
+                        "Fares": "",
+                        "Context": {
+                          "ReferenceFare": {
+                            "PricingDetails": "",
+                            "SegmentMappings": "",
+                            "AdditionalFees": ""
+                          },
+                          "ItaMiles": 50000,
+                          "NgrpMiles": 29600,
+                          "SubProducts": "",
+                          "NGRP": true,
+                          "DynamicCode": "E296H-P-Y",
+                          "FareFlavour": "displacement",
+                          "PriceDesignator": "$REFFARE",
+                          "DiagnosticId": "ARP:AM302/OV106/RUP",
+                          "Rank": 30019.65,
+                          "PaxPrices": {
+                            "PaxPrice": ""
+                          },
+                          "StopOverCode": "",
+                          "Characteristics": ""
+                        },
+                        "Prices": {
+                          "PricingItem": [
+                            {
+                              "PricingDetails": "",
+                              "SegmentMappings": "",
+                              "AdditionalFees": ""
+                            },
+                            {
+                              "PricingDetails": "",
+                              "SegmentMappings": "",
+                              "AdditionalFees": ""
+                            },
+                            {
+                              "PricingDetails": "",
+                              "SegmentMappings": "",
+                              "AdditionalFees": ""
+                            }
+                          ]
+                        },
+                        "LmxLoyaltyTiers": "",
+                        "CreditType": "None",
+                        "SubProducts": "",
+                        "IsBundleProduct": false,
+                        "DisplayOrder": 0,
+                        "NumberOfPassengers": 0,
+                        "IsElf": false,
+                        "ColumnId": 112,
+                        "TripIndex": 0,
+                        "SegmentNumber": 0,
+                        "PricingBookingCodes": "",
+                        "AdditionalUpgrades": "",
+                        "UpgradeCabinKey": "NoneSpecified",
+                        "FareFamily": "MIN-BUSINESS-SURP-OR-DISP-NOT-MIXED",
+                        "UpgradeMessages": ""
+                      },
+                      {
+                        "BookingClassList": "",
+                        "Fares": "",
+                        "Context": {
+                          "ReferenceFare": {
+                            "PricingDetails": "",
+                            "SegmentMappings": "",
+                            "AdditionalFees": ""
+                          },
+                          "ItaMiles": 50000,
+                          "NgrpMiles": 29600,
+                          "SubProducts": "",
+                          "NGRP": true,
+                          "DynamicCode": "E296H-P-Y",
+                          "FareFlavour": "displacement",
+                          "PriceDesignator": "$REFFARE",
+                          "DiagnosticId": "ARP:AM302/OV106/RUP",
+                          "Rank": 30019.65,
+                          "PaxPrices": {
+                            "PaxPrice": ""
+                          },
+                          "StopOverCode": "",
+                          "Characteristics": ""
+                        },
+                        "Prices": {
+                          "PricingItem": [
+                            {
+                              "PricingDetails": "",
+                              "SegmentMappings": "",
+                              "AdditionalFees": ""
+                            },
+                            {
+                              "PricingDetails": "",
+                              "SegmentMappings": "",
+                              "AdditionalFees": ""
+                            },
+                            {
+                              "PricingDetails": "",
+                              "SegmentMappings": "",
+                              "AdditionalFees": ""
+                            }
+                          ]
+                        },
+                        "LmxLoyaltyTiers": "",
+                        "CreditType": "None",
+                        "SubProducts": "",
+                        "IsBundleProduct": false,
+                        "DisplayOrder": 0,
+                        "NumberOfPassengers": 0,
+                        "IsElf": false,
+                        "ColumnId": 111,
+                        "TripIndex": 0,
+                        "SegmentNumber": 0,
+                        "PricingBookingCodes": "",
+                        "AdditionalUpgrades": "",
+                        "UpgradeCabinKey": "NoneSpecified",
+                        "FareFamily": "MIN-BUSINESS-SURP-OR-DISP",
+                        "UpgradeMessages": ""
+                      }
+                    ]
+                  },
+                  "Warnings": "",
+                  "ProductsDroppedDueToUpgrade": "",
+                  "Availability": "",
+                  "Cabins": "",
+                  "DEIs": "",
+                  "EquipmentDisclosures": "",
+                  "FlightInfo": "",
+                  "FlightBlockTranslated": false,
+                  "Aircraft": "",
+                  "Indicators": "None",
+                  "Index": 0,
+                  "IsFlightSuppressedForUMNRCapacity": false,
+                  "IsCovidTestingRequired": false
+                }
+              },
+              "FlightsSched": "",
+              "FlightCount": 0
+            },
+            {
+              "CabinType": "ValueNotSet",
+              "ITAQueries": "",
+              "SearchFiltersIn": {
+                "AirportsDestinationList": "",
+                "AirportsOriginList": "",
+                "AirportsStopList": "",
+                "AirportsStopToAvoidList": "",
+                "CarriersMarketingList": "",
+                "CarriersOperatingList": "",
+                "EquipmentList": "",
+                "FareFamilyFilters": "",
+                "StopPrices": "",
+                "Warnings": ""
+              },
+              "SearchFiltersOut": {
+                "AirportsDestinationList": "",
+                "AirportsOriginList": "",
+                "AirportsStopList": "",
+                "AirportsStopToAvoidList": "",
+                "CarriersMarketingList": "",
+                "CarriersOperatingList": "",
+                "EquipmentList": "",
+                "FareFamilyFilters": "",
+                "StopPrices": "",
+                "Warnings": ""
+              },
+              "Flights": "",
+              "FlightsSched": "",
+              "FlightCount": 0
+            }
+          ]
+        },
+        "UpgradeTypes": "",
+        "LoyaltyPerson": {
+          "Documents": "",
+          "Nationality": "",
+          "Age": 0,
+          "Charges": "",
+          "LoyaltyProgramMemberID": "AW719636",
+          "LoyaltyProgramMemberTierLevel": "GeneralMember",
+          "AccountBalances": {
+            "LoyaltyAccountBalance": {
+              "Balance": 729859,
+              "Descriptions": "",
+              "Characteristics": "",
+              "BalanceType": "MilesBalance"
+            }
+          }
+        },
+        "QueryWithPinDown": false
+      }
+    }
+  }
+]

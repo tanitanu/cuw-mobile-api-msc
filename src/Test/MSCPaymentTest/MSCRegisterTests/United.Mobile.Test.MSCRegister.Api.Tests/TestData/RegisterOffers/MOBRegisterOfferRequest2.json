@@ -1,0 +1,42 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.69",
+        "minor": "4.1.69"
+      }
+    },
+    "cartId": "",
+    "cartKey": "",
+    "CheckinSessionId": "",
+    "continueToRegisterAncillary": false,
+    "deviceId": "640556f6-3e2d-4f8c-8644-c12a9632b867",
+    "flow": "VIEWRES",
+    "isContinue": false,
+    "languageCode": "en-US",
+    "merchandizingOfferDetails": [
+      {
+        "isAcceptChanges": false,
+        "isOfferRegistered": false,
+        "isReQuote": false,
+        "numberOfPasses": 0,
+        "productCode": "PCU",
+        "productIds": [
+          "110AB"
+        ],
+        "selectedTripProductIDs": [
+        ],
+        "subProductCode": "",
+        "tripIds": [
+        ]
+      }
+    ],
+    "pointofSale": "",
+    "sessionId": "230CFAEF599E4334AFA83D9C4C0C1BAE",
+    "transactionId": "640556f6-3e2d-4f8c-8644-c12a9632b867|87bf5355-8151-4dc4-ba61-4419ff8a3a84"
+  }
+]

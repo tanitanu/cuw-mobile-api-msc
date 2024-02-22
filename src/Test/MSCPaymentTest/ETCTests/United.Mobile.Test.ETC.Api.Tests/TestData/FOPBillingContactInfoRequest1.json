@@ -1,0 +1,179 @@
+[
+  {
+
+    "deviceId": "5524F792-AAB4-4170-98BC-290B72AE1B16",
+
+    "cartId": "45744EF6-B1DF-4864-B3DE-F4BF86135BA4",
+
+    "phone": {
+
+      "key": "oHU0Ry2UU6EbEJwZoS+OLMl/i7fOTP5e+CY0UcaMHeXlZZaASZYrmYDFdXjYRRUv",
+
+      "sharesCountryCode": "",
+
+      "countryCode": "US",
+
+      "deviceTypeCode": "PH",
+
+      "customerId": 122891368,
+
+      "isPrivate": false,
+
+      "wrongPhoneDate": "",
+
+      "deviceTypeDescription": "Phone",
+
+      "isProfileOwner": true,
+
+      "countryNumber": "",
+
+      "attention": "",
+
+      "languageCode": "EN",
+
+      "pagerPinNumber": "",
+
+      "mileagePlusId": "",
+
+      "discontinuedDate": "1/1/3001 9:00:00 AM",
+
+      "areaNumber": "872",
+
+      "countryPhoneNumber": "1",
+
+      "channelTypeSeqNumber": 4,
+
+      "effectiveDate": "12/10/2021 1:31:49 AM",
+
+      "isPrimary": true,
+
+      "phoneNumber": "722422",
+
+      "extensionNumber": "",
+
+      "description": ""
+
+    },
+
+    "sessionId": "45744EF6B1DF4864B3DEF4BF86135BA4",
+
+    "languageCode": "en-US",
+
+    "flow": "BOOKING",
+
+    "accessCode": "ACCESSCODE",
+
+    "application": {
+
+      "id": 1,
+
+      "name": "iOS",
+
+      "isProduction": false,
+
+      "version": {
+
+        "minor": "4.1.44",
+
+        "major": "4.1.44",
+
+        "displayText": "",
+
+        "build": ""
+
+      }
+
+    },
+
+    "transactionId": "5524F792-AAB4-4170-98BC-290B72AE1B16|6FBA583D-6225-4D82-A3A5-46A69C04D2A4",
+
+    "email": {
+
+      "emailAddress": "ramhari.nayak@united.com",
+
+      "isPrivate": false,
+
+      "key": "ONp1Ze55mWzPi8Es02ipmhCupOCrAwlj1NbFwr8TKwSRFlBEktTAGkYfQHuj8fED",
+
+      "channel": {
+
+        "channelCode": "E",
+
+        "channelDescription": "Email",
+
+        "channelTypeCode": "O",
+
+        "channelTypeDescription": "Other"
+
+      },
+
+      "isDefault": true,
+
+      "isPrimary": true
+
+    },
+
+    "billingAddress": {
+
+      "state": {
+
+        "name": "",
+
+        "code": "IL"
+
+      },
+
+      "jobTitle": "",
+
+      "apartmentNumber": "",
+
+      "isCorporate": false,
+
+      "channel": {
+
+        "channelCode": "A",
+
+        "channelDescription": "Address",
+
+        "channelTypeCode": "H",
+
+        "channelTypeDescription": "Home"
+
+      },
+
+      "isDefault": false,
+
+      "line3": "",
+
+      "key": "MIROPH4pgvFGyqGBayTtCSHxzCCJ8NLfHgqWUK1N3pVNRrdZfMVjTE/IMUlMlqOe",
+
+      "line1": "224 Lane",
+
+      "isPrivate": false,
+
+      "city": "Chicago",
+
+      "postalCode": "60606",
+
+      "companyName": "",
+
+      "isValidForTPIPurchase": true,
+
+      "country": {
+
+        "name": "United States",
+
+        "phoneCode": "",
+
+        "code": "US"
+
+      },
+
+      "isPrimary": true,
+
+      "line2": ""
+
+    }
+
+  }
+]

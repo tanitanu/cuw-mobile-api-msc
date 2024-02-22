@@ -1,0 +1,23 @@
+[
+
+  {
+    "DisplayCart": {
+      "DisplaySeats": [
+        {
+          "ArrivalAirportCode": "SAN"
+        }
+      ],
+      "DisplayPrices": [
+        {
+          "Type": "testtype",
+          "Description": null
+        },
+        {
+          "Type": "testtype1",
+          "Description": null
+        }
+      ]
+    },
+    "Errors": []
+  }
+]

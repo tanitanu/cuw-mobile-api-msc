@@ -1,0 +1,28 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.67",
+        "minor": "4.1.67"
+      }
+    },
+    "cartId": "89DBFF36-E730-4159-918B-3E36E225CAF3",
+    "continueToRegisterAncillary": false,
+    "destination": "DEN",
+    "deviceId": "c272907c-c4d2-40ea-91e4-891f36815ae7",
+    "flow": "RESHOP",
+    "isDone": false,
+    "languageCode": "en-US",
+    "origin": "ORD",
+    "paxIndex": "0",
+    "seatAssignment": "1B|0.0||||false",
+    "sessionId": "DA578E0B8D814FC8BB2D932D792065D2",
+    "sponsorEliteLevel": "",
+    "sponsorMPAccountId": "",
+    "transactionId": "c272907c-c4d2-40ea-91e4-891f36815ae7|1564f2fd-60d8-4d17-8354-27029e39f0d2"
+  }
+]

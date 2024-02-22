@@ -1,0 +1,32 @@
+[
+
+  {
+    "persistedApplyPromoCodeResponse": {
+      "shoppingCart": {
+        "promoCodeDetails": {
+          "promoCodes": [
+            {
+              "promoCode": "testcode",
+              "isRemove": true,
+              "Count": "1"
+
+            }
+          ]
+        }
+      }
+    },
+    "reservation": {
+
+    },
+    "eligibleFormofPayments": [
+      {
+
+      }
+    ],
+    "maxCountMessage": "",
+    "promoCodeRemovalAlertMessage": {
+
+    }
+  }
+
+]

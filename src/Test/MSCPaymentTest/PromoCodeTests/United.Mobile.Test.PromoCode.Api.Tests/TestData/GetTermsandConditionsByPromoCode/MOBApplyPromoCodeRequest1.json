@@ -1,0 +1,38 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.67",
+        "minor": "4.1.67"
+      }
+    },
+    "cartId": "7A5E0442-35F3-4C48-ACC2-9A3B71987680",
+    "continueToResetMoneyMiles": false,
+    "deviceId": "d820f3d9-b6d7-4b20-82a5-256d68b57fe8",
+    "flow": "VIEWRES",
+    "languageCode": "en-US",
+    "pointOfSale": "",
+    "promoCodes": [
+      {
+        "alertMessage": "20% off Economy Plus seat applied",
+        "isRemove": false,
+        "isSuccess": true,
+        "promoCode": "MORESPACE20",
+        "promoValue": 0,
+        "termsandConditions": {
+          "contentFull": "",
+          "contentShort": "",
+          "headLine": "Terms and conditions",
+          "locationCode": "",
+          "title": "Terms and conditions"
+        }
+      }
+    ],
+    "sessionId": "04946ADF6AF74312B6C35D7E904E5CE8",
+    "transactionId": "d820f3d9-b6d7-4b20-82a5-256d68b57fe8|f2136de2-058c-4dad-a3fd-3b6b2695fb01"
+  }
+]

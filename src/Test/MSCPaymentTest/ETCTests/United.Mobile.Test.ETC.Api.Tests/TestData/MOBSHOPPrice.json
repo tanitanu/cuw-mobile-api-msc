@@ -1,0 +1,15 @@
+{
+  "priceIndex": "1",
+  "currencyCode": "Euro",
+  "priceType": "abc",
+  "displayType": "ert",
+  "displayValue": "23",
+  "value": 2.0,
+  "totalBaseFare": "20",
+  "totalOtherTaxes": "23",
+  "formattedDisplayValue": "yes",
+  "status": "1",
+  "waived": true,
+  "billedSeperateText": "yes",
+  "paxTypeCode": "1"
+}

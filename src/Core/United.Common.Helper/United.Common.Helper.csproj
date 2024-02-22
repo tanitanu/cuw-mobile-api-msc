@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CorporateDirectModels" Version="2.0.191" />
+    <PackageReference Include="CssChannelProxy" Version="5.75.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="6.0.0" />
+    <PackageReference Include="United.Services.FlightShopping.Common" Version="2.0.0.345" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\DataAccess\Ancillary\United.Mobile.DataAccess.Ancillary\United.Mobile.DataAccess.Product.csproj" />
+    <ProjectReference Include="..\..\DataAccess\United.Mobile.DataAccess.Common\United.Mobile.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\..\DataAccess\United.Mobile.DataAccess.DynamoDB\United.Mobile.DataAccess.DynamoDB.csproj" />
+    <ProjectReference Include="..\..\Models\United.Mobile.Model.MSC\United.Mobile.Model.MSC.csproj" />
+    <ProjectReference Include="..\United.Utility\United.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

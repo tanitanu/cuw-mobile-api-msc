@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
+    <PackageReference Include="United.Services.FlightShopping.Common" Version="2.0.0.345" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\DataAccess\MSCPayment\United.Mobile.DataAccess.MSCPayment\United.Mobile.DataAccess.MSCPayment.csproj" />
+    <ProjectReference Include="..\..\..\DataAccess\United.Mobile.DataAccess.Common\United.Mobile.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\..\..\Models\United.Mobile.Model.MSC\United.Mobile.Model.MSC.csproj" />
+    <ProjectReference Include="..\..\United.Common.Helper\United.Common.Helper.csproj" />
+    <ProjectReference Include="..\..\United.Utility\United.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

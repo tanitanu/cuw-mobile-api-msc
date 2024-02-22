@@ -1,0 +1,118 @@
+[
+  {
+    "eligibleFormofPayments": [
+      {
+        "category": "CC",
+        "fullName": "Credit Card",
+        "code": "VI",
+        "fopDescription": "Visa",
+        "deleteOrder": false
+      },
+      {
+        "category": "CC",
+        "fullName": "Credit Card",
+        "code": "UP",
+        "fopDescription": "UnionPay",
+        "deleteOrder": false
+      },
+      {
+        "category": "CC",
+        "fullName": "Credit Card",
+        "code": "MPVI",
+        "fopDescription": "MileagePlus Visa",
+        "deleteOrder": false
+      },
+      {
+        "category": "CC",
+        "fullName": "Credit Card",
+        "code": "MC",
+        "fopDescription": "MasterCard",
+        "deleteOrder": false
+      },
+      {
+        "category": "CC",
+        "fullName": "Credit Card",
+        "code": "AX",
+        "fopDescription": "American Express",
+        "deleteOrder": false
+      },
+      {
+        "category": "CC",
+        "fullName": "Credit Card",
+        "code": "DS",
+        "fopDescription": "Discover Network",
+        "deleteOrder": false
+      },
+      {
+        "category": "CC",
+        "fullName": "Credit Card",
+        "code": "DC",
+        "fopDescription": "Diners Club",
+        "deleteOrder": false
+      },
+      {
+        "category": "CC",
+        "fullName": "Credit Card",
+        "code": "TP",
+        "fopDescription": "UATP",
+        "deleteOrder": false
+      },
+      {
+        "category": "CC",
+        "fullName": "Credit Card",
+        "code": "JC",
+        "fopDescription": "JCB",
+        "deleteOrder": false
+      },
+      {
+        "category": "MILES",
+        "fullName": "Miles and Money",
+        "code": "MM",
+        "fopDescription": "Miles and Money",
+        "deleteOrder": false
+      },
+      {
+        "category": "PP",
+        "fullName": "PayPal",
+        "code": "PP",
+        "fopDescription": "PayPal",
+        "deleteOrder": false
+      },
+      {
+        "category": "VCO",
+        "fullName": "Visa Checkout",
+        "code": "VCO",
+        "fopDescription": "Visa Checkout",
+        "deleteOrder": false
+      },
+      {
+        "category": "PPC",
+        "fullName": "PayPal Credit",
+        "code": "PPC",
+        "fopDescription": "PayPal Credit",
+        "deleteOrder": false
+      },
+      {
+        "category": "APP",
+        "fullName": "Apple Pay",
+        "code": "APP",
+        "fopDescription": "Apple Pay",
+        "deleteOrder": false
+      },
+      {
+        "category": "TRAVELCREDIT",
+        "fullName": "Travel Credit",
+        "code": "TC",
+        "fopDescription": "Travel Credit",
+        "deleteOrder": false
+      },
+      {
+        "category": "UPLIFT",
+        "fullName": "Pay Monthly",
+        "code": "UPLIFT",
+        "fopDescription": "Pay Monthly",
+        "deleteOrder": true
+      }
+    ]
+  }
+]

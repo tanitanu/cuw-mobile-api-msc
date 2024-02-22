@@ -1,0 +1,29 @@
+[
+
+  {
+    "content": [
+      {
+        "content": {
+          "labels": [
+            {
+              "content": {
+                "key": "Testkey",
+                "value": "Testvalue"
+              }
+            }
+          ]
+        },
+        "id": "3"
+
+      }
+    ],
+    "ErrorList": [
+      {
+        "Code": "Testcode",
+        "FieldName": "name",
+        "Message": "Testmessage"
+      }
+    ]
+  }
+]
+

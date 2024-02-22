@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://prod.merchservices.nam.coair.com/Services/v4.5.6/MerchandizingServices.svc?singleWsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, MerchandizingServices"
+    ],
+    "targetFramework": "netstandard2.1",
+    "typeReuseMode": "All"
+  }
+}

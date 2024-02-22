@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="apple-mobile-web-app-capable" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script type="text/javascript">
+	  function redirectToApp()
+	  {
+	      var w = (window.parent)?window.parent:window
+		  var str = 'ualpaypalcancel://?'+window.location.search.substring(1);
+		  w.location.assign(str)
+	  }
+	  
+		/*$(document).ready(function() {
+			$('#redirectAnchor')[0].click();
+		});*/
+				
+    </script>
+	
+	<style>
+		.btn {
+		  background: #003399;
+		  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+		  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+		  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+		  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+		  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+		  -webkit-border-radius: 28;
+		  -moz-border-radius: 28;
+		  border-radius: 28px;
+		  font-family: Arial;
+		  color: #ffffff;
+		  font-size: 45px;
+		  padding: 10px 20px 10px 20px;
+		  text-decoration: none;
+		  height:200px;width:100%;
+		  font-weight:bold;
+		}
+
+		.btn:hover {
+		  background: #3cb0fd;
+		  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+		  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+		  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+		  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+		  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+		  text-decoration: none;
+		}
+</style>
+
+</head>
+  <body>
+  <!-- <button  style="font-size:50px;height:200px;width:100%;"> </button>-->
+	<br/><br/><br/><br/>
+	<center><h1>You have chosen to cancel PayPal payment. Please click continue to return to the United app</h1><br/>
+	<a id="redirectAnchor" href="javascript:redirectToApp();" class="btn">Continue</a></center>
+  </body>
+</html>
+
+

@@ -1,0 +1,39 @@
+[
+
+  {
+    "mileagePlusNumber": "237843",
+    "hashValue": "Testvalue",
+    "isLoggedIn": true,
+    "customerId": "Testid",
+    "allPaxInTrans": "Tetstrans",
+    "allPaxNamesInPnr": "876",
+    "pnr": "Testpnr",
+    "flow": "Testflow",
+    "pnrType": "Testtype",
+    "flightSegments": [
+      {
+        "isEligible": true,
+        "departureDate": "2021-12-03",
+        "flightNumber": "345",
+        "arrivalAirport": "dej",
+        "departureAirport": "hyd",
+        "carrierCode": "UA",
+        "classOfService": "Testservice",
+        "isDBA": true,
+        "travelersDetails": [
+          {
+            "firstName": "monu",
+            "lastName": "siri",
+            "hasSavedCreditCard": true,
+            "fqtvNumber": "97265",
+            "airline": "india",
+            "employeeId": "8",
+            "savedCardInfo": "It is saved"
+          }
+        ]
+      }
+    ]
+  }
+]
+
+  

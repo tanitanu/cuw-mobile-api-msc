@@ -1,0 +1,29 @@
+[
+  {
+    "cartId": "8729F996-9D2D-4059-AEAA-39211ABB78F6",
+    "flow": "BOOKING",
+    "products": [
+      {
+        "code": "BAG",
+        "prodDescription": "xyz",
+        "prodTotalPrice": "380",
+        "prodDisplaySubTotal": "5677"
+      }
+    ],
+    "totalPrice": "30000",
+    "displayTotalPrice": "780",
+    "displaySubTotalPrice": "690",
+    "displayTaxesAndFees": "5000",
+    "totalMiles": "45",
+    "formofPaymentDetails": {
+      "formOfPaymentType": "online",
+      "emailAddress": "abc@gmail.com",
+      "travelCertificate": {
+        "certificateButtonText": "click",
+        "totalRedeemAmount": 3.0,
+        "displayTotalRedeemAmountText": "abcd",
+        "allowedETCAmount": 2.0
+      }
+    }
+  }
+]

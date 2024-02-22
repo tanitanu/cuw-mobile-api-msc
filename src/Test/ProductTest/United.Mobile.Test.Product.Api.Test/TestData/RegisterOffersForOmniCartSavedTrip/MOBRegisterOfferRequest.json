@@ -1,0 +1,28 @@
+{
+  "IsOmniCartSavedTripFlow": true,
+  "ContinueToRegisterAncillary": true,
+  "IsRemove": true,
+  "IsContinue": true,
+  "ClubPassPurchaseRequest": {
+    "FirstName": "xyz",
+    "LastName": "wert",
+    "Email": "abc@gmail.com",
+    "MileagePlusNumber": "AW3456",
+    "NumberOfPasses": 3,
+    "AmountPaid": 5678.89,
+    "IsTestSystem": true
+  },
+  "MerchandizingOfferDetails": [
+    {
+      "ProductCode": "RES",
+      "IsOfferRegistered": true,
+      "IsReQuote": true,
+      "IsAcceptChanges": true,
+      "NumberOfPasses": 2,
+      "SubProductCode": "QWE789",
+      "ProductIds": [],
+      "TripIds": [],
+      "SelectedTripProductIDs": []
+    }
+  ],
+ 

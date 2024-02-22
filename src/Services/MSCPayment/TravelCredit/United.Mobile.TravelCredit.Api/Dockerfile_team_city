@@ -1,0 +1,55 @@
+#See https://aka.ms/containerfastmode to understand how Visual Studio uses this Dockerfile to build your images for faster debugging.
+
+FROM artifactory.ual.com:443/v-docker/datadog/dotnet/runtime:3.1-1.28.7 AS base
+
+WORKDIR /app
+EXPOSE 80
+EXPOSE 443
+
+FROM artifactory.ual.com:443/dockerlocal/ms/dotnet/core/sdk:3.1 AS build
+WORKDIR /
+
+COPY ["src/Services/MSCPayment/TravelCredit/United.Mobile.TravelCredit.Api/United.Mobile.TravelCredit.Api.csproj", "src/Services/MSCPayment/TravelCredit/United.Mobile.TravelCredit.Api/"]
+COPY ["src/Services/MSCPayment/TravelCredit/United.Mobile.TravelCredit.Domain/United.Mobile.TravelCredit.Domain.csproj", "src/Services/MSCPayment/TravelCredit/United.Mobile.TravelCredit.Domain/"]
+COPY ["src/DataAccess/Ancillary/United.Mobile.DataAccess.Ancillary/United.Mobile.DataAccess.Product.csproj", "src/DataAccess/Ancillary/United.Mobile.DataAccess.Ancillary/"]
+COPY ["src/Models/United.Mobile.Model.MSC/United.Mobile.Model.MSC.csproj", "src/Models/United.Mobile.Model.MSC/"]
+COPY ["src/Models/United.Mobile.Model.Common/United.Mobile.Model.Common.csproj", "src/Models/United.Mobile.Model.Common/"]
+COPY ["src/DataAccess/United.Mobile.DataAccess.Common/United.Mobile.DataAccess.Common.csproj", "src/DataAccess/United.Mobile.DataAccess.Common/"]
+COPY ["src/Core/United.Utility/United.Utility.csproj", "src/Core/United.Utility/"]
+COPY ["src/Core/United.Ebs.Logging/United.Ebs.Logging.csproj", "src/Core/United.Ebs.Logging/"]
+COPY ["src/Core/United.Common.Helper/United.Common.Helper.csproj", "src/Core/United.Common.Helper/"]
+COPY ["src/DataAccess/United.Mobile.DataAccess.DynamoDB/United.Mobile.DataAccess.DynamoDB.csproj", "src/DataAccess/United.Mobile.DataAccess.DynamoDB/"]
+COPY ["src/Core/Common/United.Common.Helper.MSCPayment/United.Common.Helper.MSCPayment.csproj", "src/Core/Common/United.Common.Helper.MSCPayment/"]
+COPY ["src/DataAccess/United.DataAccess.MerchandizeService/United.DataAccess.MerchandizeService.csproj", "src/DataAccess/United.DataAccess.MerchandizeService/"]
+COPY ["src/DataAccess/MSCPayment/United.Mobile.DataAccess.MSCPayment/United.Mobile.DataAccess.MSCPayment.csproj", "src/DataAccess/MSCPayment/United.Mobile.DataAccess.MSCPayment/"]
+COPY ["src/Core/United.Utility.Middleware/United.Utility.Middleware.csproj", "src/Core/United.Utility.Middleware/"]
+
+ARG Username
+ARG PAT
+RUN echo '<?xml version="1.0" encoding="utf-8"?> \
+<configuration> \
+  <packageSources> \
+    <clear /> \
+    <add key="nuget.org" value="https://api.nuget.org/v3/index.json" /> \
+    <add key="ArtifactoryNuGetV3" value="https://artifactory.ual.com/artifactory/api/nuget/v3/nuget" protocolVersion="3" /> \
+    <add key="EmployeeRes" value="http://vcld36gdersas01.global.ual.com/EresNuget/nuget " /> \
+  </packageSources> \
+  <activePackageSource> \
+    <add key="All" value="(Aggregate source)" /> \
+  </activePackageSource> \
+</configuration>' > nuget.config && \
+if [ -n "$Username" ] && [ -n "$PAT" ]; then \
+sed -i "s|</configuration>|<packageSourceCredentials><Products><add key=\"Username\" value=\"PAT\" /><add key=\"ClearTextPassword\" value=\"${PAT}\" /></Products><DemoFeed><add key=\"Username\" value=\"${Username}\" /><add key=\"ClearTextPassword\" value=\"${PAT}\" /></DemoFeed></packageSourceCredentials></configuration>|" nuget.config; \
+fi && \
+cat ./nuget.config
+
+COPY . .
+WORKDIR "/src/Services/MSCPayment/TravelCredit/United.Mobile.TravelCredit.Api"
+
+FROM build AS publish
+RUN dotnet publish "United.Mobile.TravelCredit.Api.csproj" -c Release --self-contained -r linux-x64 -o /app/publish
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "United.Mobile.TravelCredit.Api.dll"]

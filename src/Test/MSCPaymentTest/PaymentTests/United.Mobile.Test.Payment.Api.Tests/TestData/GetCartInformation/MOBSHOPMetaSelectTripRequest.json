@@ -1,0 +1,32 @@
+[
+  {
+    "cartId": "B406B8FF-5394-4A64-ADCF-EE8A96A7A985",
+    "continueToResetMoneyMiles": false,
+    "flow": "BOOKING",
+    "pointOfSale": "US",
+    "promoCodes": [
+      {
+        "alertMessage": "",
+        "formattedPromoDisplayValue": "",
+        "isRemove": false,
+        "isSuccess": false,
+        "priceTypeDescription": "",
+        "promoCode": "123"
+      }
+    ],
+    "sessionId": "B406B8FF53944A64ADCFEE8A96A7A985",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.54",
+        "minor": "4.1.54"
+      }
+    },
+    "deviceId": "0aded482-8fa8-4d40-b0e9-3b101a88acfb",
+    "languageCode": "en-US",
+    "transactionId": "0aded482-8fa8-4d40-b0e9-3b101a88acfb|6e07e334-6c46-4526-8b14-de316af75d3c"
+  }
+]

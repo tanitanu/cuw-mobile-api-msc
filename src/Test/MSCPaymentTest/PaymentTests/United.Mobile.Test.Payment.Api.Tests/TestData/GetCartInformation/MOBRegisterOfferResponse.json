@@ -1,0 +1,30 @@
+[
+  {
+    "shoppingCart": {
+      "promoCodeDetails": {
+        "promoCodes": [
+          {
+            "promoCode": "testcode",
+            "isRemove": true
+
+          }
+        ]
+      }
+    },
+    "reservation": {
+
+    },
+    "eligibleFormofPayments": [
+      {
+
+      }
+    ],
+    "maxCountMessage": "",
+    "promoCodeRemovalAlertMessage": {
+
+    }
+  }
+]
+
+
+

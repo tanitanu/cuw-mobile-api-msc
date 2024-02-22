@@ -1,0 +1,39 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.69",
+        "minor": "4.1.69"
+      }
+    },
+    "cartId": "8A9DB17E-5DEA-4A68-AF7C-B35E094E738D",
+    "CheckinSessionId": "",
+    "combineCertificates": [
+      {
+        "currentValue": 0,
+        "editingIndex": 0,
+        "index": 0,
+        "initialValue": 0,
+        "isCertificateApplied": false,
+        "isForAllTravelers": false,
+        "isProfileCertificate": false,
+        "isRemove": false,
+        "newValueAfterRedeem": 0,
+        "pinCode": "76542345",
+        "recipientsLastName": "jeste",
+        "redeemAmount": 0,
+        "yearIssued": "2022"
+      }
+    ],
+    "deviceId": "0843672b-85a6-4ccd-9957-79badc7bac6d",
+    "flow": "VIEWRES",
+    "isRemove": false,
+    "languageCode": "en-US",
+    "sessionId": "D2F992AA727D4915BDD49E911179D97A",
+    "transactionId": "0843672b-85a6-4ccd-9957-79badc7bac6d|af6ec827-66fe-4b73-94ec-5b918997e8d1"
+  }
+]

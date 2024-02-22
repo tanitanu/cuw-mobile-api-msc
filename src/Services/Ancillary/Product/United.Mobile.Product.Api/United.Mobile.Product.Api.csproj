@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <UserSecretsId>a3d6ecd5-77ea-4370-83bd-a5c96633f9e6</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..\..\..</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
+    <PackageReference Include="CorporateDirectModels" Version="2.0.191" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.16" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.11.1" />
+    <PackageReference Include="United.Services.FlightShopping.Common" Version="2.0.0.345" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\United.Utility.Middleware\United.Utility.Middleware.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\United.Utility\United.Utility.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\United.Mobile.DataAccess.Common\United.Mobile.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\..\..\..\Models\United.Mobile.Model.MSC\United.Mobile.Model.MSC.csproj" />
+    <ProjectReference Include="..\United.Mobile.Product.Domain\United.Mobile.Product.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+
+</Project>

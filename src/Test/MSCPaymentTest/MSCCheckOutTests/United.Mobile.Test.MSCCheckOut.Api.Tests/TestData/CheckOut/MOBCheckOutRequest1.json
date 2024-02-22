@@ -1,0 +1,181 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "additionalData": "1e791353-f243-4cd3-b9bd-5c929250da37_0FC22AA7-3ABF-46D4-AFC8-66938F25B657",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.68",
+        "minor": "4.1.68"
+      }
+    },
+    "cartId": "0FC22AA7-3ABF-46D4-AFC8-66938F25B657",
+    "checkinSessionId": "",
+    "deviceId": "283321ce-9f14-474d-82f5-504847823bd0",
+    "fareLockAutoTicket": false,
+    "flow": "RESHOP",
+    "formofPaymentDetails": {
+      "billingAddress": {
+        "apartmentNumber": "",
+        "channel": {
+          "channelCode": "A",
+          "channelDescription": "Address",
+          "channelTypeCode": "H",
+          "channelTypeDescription": ""
+        },
+        "city": "houston",
+        "companyName": "",
+        "country": {
+          "code": "US",
+          "name": "",
+          "phoneCode": ""
+        },
+        "isCorporate": false,
+        "isDefault": true,
+        "isPrimary": true,
+        "isPrivate": false,
+        "isTemparory": false,
+        "isValidForTPIPurchase": true,
+        "jobTitle": "",
+        "key": "OacsHJZCg+N3EbRNIxvJpTWXs9R8JrS8RACZakmhSUfFMzBwt05E7dzjk9mqD7HW",
+        "line1": "609 Main Street12",
+        "line2": "",
+        "line3": "",
+        "postalCode": "77002",
+        "state": {
+          "code": "TX",
+          "name": ""
+        }
+      },
+      "creditCard": {
+        "accountNumberToken": "853eff24-b6ad-428e-af32-3c0eb53d0604",
+        "addressKey": "OacsHJZCg+N3EbRNIxvJpTWXs9R8JrS8RACZakmhSUfFMzBwt05E7dzjk9mqD7HW",
+        "cardDescription": 0,
+        "cardType": "AX",
+        "cardTypeDescription": "American Express",
+        "cCName": "test",
+        "cIDCVV2": "",
+        "creditCardTypeCode": 0,
+        "description": "",
+        "displayCardNumber": "XXXXXXXXXXXX4564",
+        "encryptedCardNumber": "",
+        "expireMonth": "1",
+        "expireYear": "2039",
+        "groupPaymentType": 0,
+        "inputCapability": 0,
+        "isCorporate": false,
+        "isMandatory": false,
+        "isOAEPPaddingCatalogEnabled": false,
+        "isPrimary": false,
+        "isTemparory": false,
+        "isValidForTPIPurchase": true,
+        "key": "rUpXXkpeeigFr5TlF/rwjUjnzwuBBPlrW9jTMxDypix2bQ3+pylRdKWZG8KfNzYyWETXRpJ4FcSZbqAzKRsyr0rOn5qQ+GINW47R64H8hcY=",
+        "message": "",
+        "persistentToken": "127671317644564",
+        "phoneKey": "",
+        "pinEntryCapability": 0,
+        "terminalAttended": 0,
+        "terminalCardholderActivated": 0,
+        "unencryptedCardNumber": "XXXXXXXXXXXX4564",
+        "walletCategory": 0
+      },
+      "email": {
+        "channel": {
+          "channelCode": "E",
+          "channelDescription": "Email",
+          "channelTypeCode": "H",
+          "channelTypeDescription": ""
+        },
+        "emailAddress": "jhansi.mekala@dxc.com",
+        "isDefault": true,
+        "isPrimary": true,
+        "isPrivate": false,
+        "key": "Ksolt/050JQHtZHBR8ktDT3zlOBy7xWeQ+B+qSEeOEIXPoDIxxsVTHgGFCWBNSg1"
+      },
+      "emailAddress": "jhansi.mekala@dxc.com",
+      "formOfPaymentType": "CreditCard",
+      "isOtherFOPRequired": false,
+      "phone": {
+        "areaNumber": "",
+        "attention": "",
+        "channelCode": "P",
+        "channelCodeDescription": "Phone",
+        "channelTypeCode": "H",
+        "channelTypeDescription": "",
+        "channelTypeSeqNumber": 15,
+        "countryCode": "US",
+        "countryNumber": "",
+        "countryPhoneNumber": "1",
+        "customerId": 123492960,
+        "description": "",
+        "deviceTypeCode": "PH",
+        "discontinuedDate": "1/1/3001 12:00:00 AM",
+        "effectiveDate": "12/14/2021 9:48:20 PM",
+        "extensionNumber": "",
+        "isPrimary": false,
+        "isPrivate": false,
+        "isProfileOwner": true,
+        "key": "Y5BaoSGVItbJmiL4GHApVrCA+IpZx/cUw7oEhdw1+F6zhSd8A0kKGlM3KoIsklli",
+        "languageCode": "",
+        "mileagePlusId": "",
+        "pagerPinNumber": "",
+        "phoneNumber": "8728721102",
+        "sharesCountryCode": "",
+        "wrongPhoneDate": ""
+      },
+      "travelFutureFlightCredit": {
+        "emailConfirmationFFCMessages": [
+        ],
+        "findFFCMessages": [
+          {
+            "contentFull": "To retrieve your future flight credits, please enter your email address below. If any future flight credits are linked to that email, you should receive them within a few minutes.",
+            "contentShort": "“”",
+            "headLine": "Find future flight credit",
+            "locationCode": "",
+            "title": "RTI.FutureFlightCredits.FindFFC"
+          },
+          {
+            "contentFull": "Find",
+            "contentShort": "Find",
+            "headLine": "Find future flight credits",
+            "locationCode": "",
+            "title": "RTI.FutureFlightCredits.FindFFC.BtnText"
+          }
+        ],
+        "futureFlightCredits": [
+        ],
+        "learnmoreTermsandConditions": [
+        ],
+        "lookUpFFCMessages": [
+          {
+            "contentFull": "Your future flight credit will be applied to the ticket price. If you're purchasing non-ticket items such as preferred seating, you’ll need to pay for those with a debit or credit card. <a href=\\\"https://www.united.com/en/us/fly/travel/credit.html\\\" target=\\\"\\\\\\'_blank '\\\">Learn more</a>",
+            "contentShort": "Find a future flight credit",
+            "headLine": "Look up a future flight credit",
+            "locationCode": "",
+            "title": "RTI.FutureFlightCredits.LookupFFC"
+          },
+          {
+            "contentFull": "Apply",
+            "contentShort": "Apply",
+            "headLine": "Look up a future flight credit",
+            "locationCode": "",
+            "title": "RTI.FutureFlightCredits.LookupFFC.BtnText"
+          }
+        ],
+        "reviewFFCMessages": [
+        ],
+        "totalRedeemAmount": 0
+      }
+    },
+    "isSecondaryPayment": false,
+    "isTPI": false,
+    "languageCode": "en-US",
+    "mileagePlusNumber": "PU021032",
+    "paymentAmount": "0",
+    "pointOfSale": "US",
+    "sessionId": "0F8371E8B6A54AFBB6D04AAC3DE3F4AE",
+    "transactionId": "283321ce-9f14-474d-82f5-504847823bd0|408025d1-8a82-41ec-a6b1-97ab830941f8"
+  }
+]

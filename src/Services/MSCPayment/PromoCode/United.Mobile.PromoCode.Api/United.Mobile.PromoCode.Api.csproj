@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <UserSecretsId>96edb7f9-d47d-4c90-91eb-0453a75c68e8</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..\..\..</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.16" />
+
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.11.1" />
+
+    <PackageReference Include="United.Services.FlightShopping.Common" Version="2.0.0.345" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\United.Utility.Middleware\United.Utility.Middleware.csproj" />
+    <ProjectReference Include="..\United.Mobile.PromoCode.Domain\United.Mobile.PromoCode.Domain.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="United.ECommerce.Framework.Utilities">
+			<HintPath>..\..\DataAccess\United.Mobile.DataAccess.Common\CSLModel\Profile\United.ECommerce.Framework.Utilities.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+</Project>

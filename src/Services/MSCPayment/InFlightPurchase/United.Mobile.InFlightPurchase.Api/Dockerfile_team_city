@@ -1,0 +1,36 @@
+#See https://aka.ms/containerfastmode to understand how Visual Studio uses this Dockerfile to build your images for faster debugging.
+
+FROM mcr.microsoft.com/dotnet/aspnet:3.1 AS base
+WORKDIR /app
+EXPOSE 80
+EXPOSE 443
+
+FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
+WORKDIR /src
+COPY ["src/Services/MSCPayment/InFlightPurchase/United.Mobile.InFlightPurchase.Api/United.Mobile.InFlightPurchase.Api.csproj", "src/Services/MSCPayment/InFlightPurchase/United.Mobile.InFlightPurchase.Api/"]
+COPY ["src/Core/United.Utility/United.Utility.csproj", "src/Core/United.Utility/"]
+COPY ["src/Core/United.Ebs.Logging/United.Ebs.Logging.csproj", "src/Core/United.Ebs.Logging/"]
+COPY ["src/Models/United.Mobile.Model.Common/United.Mobile.Model.Common.csproj", "src/Models/United.Mobile.Model.Common/"]
+COPY ["src/Services/MSCPayment/InFlightPurchase/United.Mobile.InFlightPurchase.Domain/United.Mobile.InFlightPurchase.Domain.csproj", "src/Services/MSCPayment/InFlightPurchase/United.Mobile.InFlightPurchase.Domain/"]
+COPY ["src/DataAccess/United.Mobile.DataAccess.DynamoDB/United.Mobile.DataAccess.DynamoDB.csproj", "src/DataAccess/United.Mobile.DataAccess.DynamoDB/"]
+COPY ["src/Models/United.Mobile.Model.MSC/United.Mobile.Model.MSC.csproj", "src/Models/United.Mobile.Model.MSC/"]
+COPY ["src/DataAccess/United.Mobile.DataAccess.Common/United.Mobile.DataAccess.Common.csproj", "src/DataAccess/United.Mobile.DataAccess.Common/"]
+COPY ["src/Core/Common/United.Common.Helper.MSCPayment/United.Common.Helper.MSCPayment.csproj", "src/Core/Common/United.Common.Helper.MSCPayment/"]
+COPY ["src/DataAccess/United.DataAccess.MerchandizeService/United.DataAccess.MerchandizeService.csproj", "src/DataAccess/United.DataAccess.MerchandizeService/"]
+COPY ["src/DataAccess/Ancillary/United.Mobile.DataAccess.Ancillary/United.Mobile.DataAccess.Product.csproj", "src/DataAccess/Ancillary/United.Mobile.DataAccess.Ancillary/"]
+COPY ["src/Core/United.Common.Helper/United.Common.Helper.csproj", "src/Core/United.Common.Helper/"]
+COPY ["src/DataAccess/MSCPayment/United.Mobile.DataAccess.MSCPayment/United.Mobile.DataAccess.MSCPayment.csproj", "src/DataAccess/MSCPayment/United.Mobile.DataAccess.MSCPayment/"]
+COPY ["src/Core/United.Utility.Middleware/United.Utility.Middleware.csproj", "src/Core/United.Utility.Middleware/"]
+RUN dotnet restore "src/Services/MSCPayment/InFlightPurchase/United.Mobile.InFlightPurchase.Api/United.Mobile.InFlightPurchase.Api.csproj" -s https://artifactory.ual.com/artifactory/api/nuget/nuget/  -s https://artifactory.ual.com/artifactory/api/nuget/CSLDotNetCoreRelease/ -s http://vcld36gdersas01.global.ual.com/EresNuget/nuget
+
+COPY . .
+WORKDIR "/src/src/Services/MSCPayment/InFlightPurchase/United.Mobile.InFlightPurchase.Api"
+RUN dotnet build "United.Mobile.InFlightPurchase.Api.csproj" -c Release -o /app/build
+
+FROM build AS publish
+RUN dotnet publish "United.Mobile.InFlightPurchase.Api.csproj" -c Release -o /app/publish
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "United.Mobile.InFlightPurchase.Api.dll"]

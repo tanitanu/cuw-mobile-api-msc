@@ -1,0 +1,23 @@
+[
+  {
+    "deviceId": "5524F792-AAB4-4170-98BC-290B72AE1B16",
+    "mileagePlusNumber": "AW719644",
+    "sessionId": "8C6056DED5C348BAA93DD2F29A932FA8",
+    "languageCode": "en-US",
+    "flow": "BOOKING",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 1,
+      "name": "iOS",
+      "isProduction": false,
+      "version": {
+        "minor": "4.1.44",
+        "major": "4.1.44",
+        "displayText": "",
+        "build": ""
+      }
+    },
+    "transactionId": "5524F792-AAB4-4170-98BC-290B72AE1B16|52F3C05E-4A1F-4A45-A9AE-E5DDAB698A37"
+  }
+]
+

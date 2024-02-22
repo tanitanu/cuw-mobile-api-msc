@@ -1,0 +1,34 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "amount": "94.99",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.67",
+        "minor": "4.1.67"
+      }
+    },
+    "cartId": "E9F59A99-C4A4-471A-B0E7-BAD59B728298",
+    "checkinSessionId": "",
+    "deviceId": "910e2370-9d70-4689-861f-9687c2380be7",
+    "flow": "CHECKIN",
+    "formofPaymentDetails": {
+      "emailAddress": "",
+      "formOfPaymentType": "PayPal",
+      "isOtherFOPRequired": false,
+      "payPal": {
+        "billingAddressCountryCode": "",
+        "currencyCode": "",
+        "payerID": "UFUSYEENKN8Q4",
+        "payPalTokenID": "EC-8Y1266415W200762K"
+      }
+    },
+    "isCCSelectedForContactless": false,
+    "languageCode": "en-US",
+    "sessionId": "F9B55C6F539740DBAA31E83B86D0F17D",
+    "transactionId": "910e2370-9d70-4689-861f-9687c2380be7|ed649c59-ace3-441c-8878-eef89da36454"
+  }
+]

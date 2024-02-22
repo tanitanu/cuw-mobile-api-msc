@@ -1,0 +1,1353 @@
+[
+  {
+    "pathEligible": true,
+    "failedRule": null,
+    "sessionId": "CC9CE97C4C2544D48396FA85F479D244",
+    "redirectURL": "https://dev32.united.com/en/US/manageres/tripdetails/WAOWUIw%7e%7evL0vyng7uimF4flHwWWOCS1omqF9SS8muAxxFZkD4ITTsD5c7hcxRSCa5Jv%7e%7eAdWI%2bmeKTb9yk59DMF2cawrlwMsO/mobile?changepath=true",
+    "awardTravel": false,
+    "sponsorMileagePlus": "",
+    "webShareToken": "",
+    "webSessionShareUrl": "",
+    "shuttleOffer": null,
+    "reservation": {
+      "sessionId": "",
+      "metaSessionId": null,
+      "recordLocator": "",
+      "searchType": "",
+      "cartId": "",
+      "isSignedInWithMP": false,
+      "trips": [],
+      "prices": [],
+      "taxes": [],
+      "numberOfTravelers": 0,
+      "travelers": null,
+      "travelersCSL": [],
+      "seatPrices": [],
+      "creditCards": [],
+      "reservationPhone": null,
+      "reservationEmail": {
+        "key": "",
+        "channel": null,
+        "emailAddress": "noah.leach@united.com",
+        "isPrivate": false,
+        "isDefault": false,
+        "isPrimary": false,
+        "isDayOfTravel": false
+      },
+      "warning": null,
+      "travelOptions": null,
+      "clubPassPurchaseRequest": null,
+      "seatMessage": "",
+      "travelOptionMessage": "",
+      "travelersRegistered": false,
+      "rewardPrograms": [
+        {
+          "programID": "7",
+          "type": "UA",
+          "description": "United MileagePlus"
+        },
+        {
+          "programID": "113",
+          "type": "A3",
+          "description": "Aegean Mile+Bonus"
+        },
+        {
+          "programID": "120",
+          "type": "EI",
+          "description": "Aer Lingus AerClub"
+        },
+        {
+          "programID": "8",
+          "type": "AC",
+          "description": "Air Canada Aeroplan"
+        },
+        {
+          "programID": "9",
+          "type": "CA",
+          "description": "Air China PhoenixMiles"
+        },
+        {
+          "programID": "134",
+          "type": "AI",
+          "description": "Air India Flying Returns"
+        },
+        {
+          "programID": "103",
+          "type": "NZ",
+          "description": "Air New Zealand Airpoints"
+        },
+        {
+          "programID": "29",
+          "type": "NH",
+          "description": "ANA Mileage Club"
+        },
+        {
+          "programID": "104",
+          "type": "OZ",
+          "description": "Asiana Club"
+        },
+        {
+          "programID": "105",
+          "type": "OS",
+          "description": "Austrian Miles & More"
+        },
+        {
+          "programID": "115",
+          "type": "AV",
+          "description": "Avianca LifeMiles"
+        },
+        {
+          "programID": "133",
+          "type": "AD",
+          "description": "Azul TudoAzul"
+        },
+        {
+          "programID": "123",
+          "type": "SN",
+          "description": "Brussels Airlines Miles & More"
+        },
+        {
+          "programID": "135",
+          "type": "CM",
+          "description": "Copa Airlines ConnectMiles"
+        },
+        {
+          "programID": "124",
+          "type": "OU",
+          "description": "Croatian Miles & More"
+        },
+        {
+          "programID": "106",
+          "type": "MS",
+          "description": "EGYPTAIR Plus"
+        },
+        {
+          "programID": "130",
+          "type": "ET",
+          "description": "Ethiopian Airlines ShebaMiles"
+        },
+        {
+          "programID": "3",
+          "type": "BR",
+          "description": "EVA Air Infinity MileageLands"
+        },
+        {
+          "programID": "137",
+          "type": "HO",
+          "description": "Juneyao Air Club"
+        },
+        {
+          "programID": "107",
+          "type": "LO",
+          "description": "LOT Polish Airlines Miles & More"
+        },
+        {
+          "programID": "26",
+          "type": "LH",
+          "description": "Lufthansa Miles & More"
+        },
+        {
+          "programID": "33",
+          "type": "SK",
+          "description": "SAS EuroBonus"
+        },
+        {
+          "programID": "131",
+          "type": "ZH",
+          "description": "Shenzhen PhoenixMiles"
+        },
+        {
+          "programID": "109",
+          "type": "SQ",
+          "description": "Singapore Airlines KrisFlyer"
+        },
+        {
+          "programID": "110",
+          "type": "SA",
+          "description": "South African Airways Voyager"
+        },
+        {
+          "programID": "126",
+          "type": "SR",
+          "description": "SWISS Miles & More"
+        },
+        {
+          "programID": "34",
+          "type": "TP",
+          "description": "TAP Miles & Go"
+        },
+        {
+          "programID": "35",
+          "type": "TG",
+          "description": "THAI Royal Orchid Plus"
+        },
+        {
+          "programID": "111",
+          "type": "TK",
+          "description": "Turkish Airlines Miles&Smiles"
+        },
+        {
+          "programID": "138",
+          "type": "UK",
+          "description": "Vistara Club Vistara"
+        }
+      ],
+      "creditCardsAddress": [],
+      "messages": [],
+      "fareRules": [],
+      "unregisterFareLock": false,
+      "tcdAdvisoryMessages": [],
+      "flightShareMessage": "",
+      "ineligibleToEarnCreditMessage": "",
+      "oaIneligibleToEarnCreditMessage": "",
+      "lmxFlights": null,
+      "lmxtravelers": null,
+      "overMileageLimitMessage": "You can earn up to 75,000 award miles per ticket. The 75,000 award miles cap may be applied to your posted flight activity in an order different than shown.",
+      "overMileageLimitAmount": "75000",
+      "isEmp20": false,
+      "isELF": false,
+      "isMetaSearch": false,
+      "isUpgradedFromEntryLevelFare": false,
+      "isCubaTravel": false,
+      "formOfPaymentType": "CreditCard",
+      "payPal": null,
+      "isReshopChange": true,
+      "checkedbagChargebutton": null,
+      "isBookingCommonFOPEnabled": false,
+      "isReshopCommonFOPEnabled": false,
+      "isPostBookingCommonFOPEnabled": false,
+      "reshopTrips": [
+        {
+          "originalTrip": {
+            "tripId": "",
+            "originDecoded": "Houston, TX (IAH)",
+            "destinationDecoded": "Chicago, IL (ORD)",
+            "flightCount": 0,
+            "totalFlightCount": 0,
+            "flattenedFlights": [
+              {
+                "tripId": "",
+                "flightId": "",
+                "productId": "",
+                "tripDays": "",
+                "cabinMessage": "",
+                "flights": [
+                  {
+                    "tripId": "",
+                    "flightId": "",
+                    "productId": "",
+                    "airfare": 0.0,
+                    "airfareDisplayValue": "",
+                    "seatsRemaining": 0,
+                    "cabin": "United Economy",
+                    "changeOfGauge": false,
+                    "gaugeChanges": [],
+                    "connections": [],
+                    "connectTimeMinutes": null,
+                    "departDate": "Thu., Feb. 10, 2022",
+                    "departTime": "5:16am",
+                    "destination": "ORD",
+                    "destinationDate": "Thu., Feb. 10, 2022",
+                    "destinationTime": "7:53am",
+                    "destinationDescription": "Chicago, IL (ORD)",
+                    "destinationCountryCode": "",
+                    "equipmentDisclosures": {
+                      "equipmentDescription": "Boeing 737-800",
+                      "equipmentType": "738",
+                      "isSingleCabin": false,
+                      "noBoardingAssistance": false,
+                      "nonJetEquipment": false,
+                      "wheelchairsNotAllowed": false
+                    },
+                    "fareBasisCode": "",
+                    "flightNumber": "2653",
+                    "groundTime": null,
+                    "internationalCity": "",
+                    "isCheapestAirfare": false,
+                    "isConnection": false,
+                    "marketingCarrier": "UA",
+                    "marketingCarrierDescription": "UA",
+                    "miles": "926",
+                    "onTimePerformance": null,
+                    "operatingCarrier": "UA",
+                    "operatingCarrierDescription": "",
+                    "origin": "IAH",
+                    "originDescription": "Houston, TX (IAH)",
+                    "originCountryCode": "",
+                    "rewards": [],
+                    "rewardPriceSummaries": [],
+                    "selected": false,
+                    "stopDestination": "",
+                    "stopInfos": [],
+                    "stops": 0,
+                    "travelTime": "2h 37m",
+                    "totalTravelTime": null,
+                    "messages": [
+                      {
+                        "tripId": "",
+                        "flightId": "",
+                        "connectionIndex": "",
+                        "flightNumberField": "",
+                        "messageCode": "United Economy (K)",
+                        "messageParameters": []
+                      },
+                      {
+                        "tripId": "",
+                        "flightId": "",
+                        "connectionIndex": "",
+                        "flightNumberField": "",
+                        "messageCode": "Snacks for Purchase",
+                        "messageParameters": []
+                      },
+                      {
+                        "tripId": "",
+                        "flightId": "",
+                        "connectionIndex": "",
+                        "flightNumberField": "",
+                        "messageCode": "None",
+                        "messageParameters": []
+                      }
+                    ],
+                    "meal": "Snacks for Purchase",
+                    "fpwSAir": false,
+                    "serviceClass": "",
+                    "serviceClassDescription": "United Economy (K)",
+                    "epaMessageTitle": "",
+                    "epaMessage": "",
+                    "showEPAMessage": false,
+                    "isCheckInWindow": false,
+                    "checkInWindowText": "",
+                    "departureDateTime": "2/10/2022 5:16:00 AM",
+                    "arrivalDateTime": "2/10/2022 7:53:00 AM",
+                    "departureDateTimeGMT": "2/10/2022 11:16:00 AM",
+                    "arrivalDateTimeGMT": "2/10/2022 1:53:00 PM",
+                    "matchServiceClassRequested": false,
+                    "hasWifi": false,
+                    "hasInSeatPower": false,
+                    "hasDirecTV": false,
+                    "hasAVOnDemand": false,
+                    "hasBeverageService": false,
+                    "hasEconomyLieFlatSeating": false,
+                    "hasEconomyMeal": false,
+                    "hasFirstClassMeal": false,
+                    "hasFirstClassLieFlatSeating": false,
+                    "shoppingProducts": [],
+                    "segID": "",
+                    "segNumber": 0,
+                    "flightDepartureDays": "",
+                    "flightArrivalDays": "",
+                    "corporateFareIndicator": "",
+                    "isAddCollectWaived": false,
+                    "addCollectProductId": null,
+                    "flightHash": null,
+                    "yaDiscount": "",
+                    "originStateCode": "",
+                    "destinationStateCode": "",
+                    "originDecodedWithCountry": "Houston, TX, US (IAH - Intercontinental)",
+                    "destinationDecodedWithCountry": "Chicago, IL, US (ORD - O'Hare)",
+                    "isCovidTestFlight": false,
+                    "isChangeFeeWaiver": false,
+                    "reshopFees": "",
+                    "flightSegmentAlerts": [],
+                    "departureDateFormated": null,
+                    "milesDisplayValue": "",
+                    "cabinDisclaimer": "",
+                    "availSeatsDisclaimer": "",
+                    "preferredCabinName": "",
+                    "preferredCabinMessage": "",
+                    "overnightConnection": "",
+                    "airportChange": "",
+                    "showSeatMap": false,
+                    "isStopOver": false,
+                    "pqdText": "",
+                    "pqmText": "",
+                    "rdmText": "",
+                    "yqyrMessage": "",
+                    "govtMessage": "",
+                    "isAwardSaver": false,
+                    "redEyeFlightDepDate": "",
+                    "nextDayFlightArrDate": "",
+                    "flightDateChanged": false,
+                    "bookingClassAvailability": null,
+                    "tripIndex": 0,
+                    "operatingCarrierFlightNumber": null,
+                    "lineOfFlightMessage": null
+                  }
+                ],
+                "isUADiscount": false,
+                "isAddCollectWaived": false,
+                "addCollectProductId": null,
+                "flightHash": "US",
+                "isIBELite": false,
+                "isIBE": false,
+                "isElf": false,
+                "isCovidTestFlight": false,
+                "isChangeFeeWaiver": false,
+                "flightLabelTextList": [],
+                "msgFlightCarrier": null,
+                "airportChange": null,
+                "flightBadges": []
+              }
+            ],
+            "flightSections": [],
+            "lastTripIndexRequested": 0,
+            "columns": [],
+            "yqyrMessage": "",
+            "pageCount": 0,
+            "originDecodedWithCountry": null,
+            "destinationDecodedWithCountry": null,
+            "showOriginDestinationForFlights": false,
+            "callDurationText": "",
+            "flightDateChangeMessage": "Please note this flight involves a date change",
+            "tripHasNonStopflightsOnly": false,
+            "origin": "IAH",
+            "originAllAirports": -1,
+            "destination": "ORD",
+            "destinationAllAirports": -1,
+            "departDate": "02/10/2022",
+            "arrivalDate": "",
+            "cabin": "",
+            "useFilters": false,
+            "searchFiltersIn": null,
+            "searchFiltersOut": null,
+            "searchNearbyOriginAirports": false,
+            "searchNearbyDestinationAirports": false,
+            "shareMessage": "",
+            "index": 0,
+            "changeType": "3"
+          },
+          "isReshopTrip": false,
+          "changeTrip": null,
+          "changeTripTitle": null,
+          "isUsed": false,
+          "originalUsedIndex": 0
+        },
+        {
+          "originalTrip": {
+            "tripId": "",
+            "originDecoded": "Chicago, IL (ORD)",
+            "destinationDecoded": "Houston, TX (IAH)",
+            "flightCount": 0,
+            "totalFlightCount": 0,
+            "flattenedFlights": [
+              {
+                "tripId": "",
+                "flightId": "",
+                "productId": "",
+                "tripDays": "",
+                "cabinMessage": "",
+                "flights": [
+                  {
+                    "tripId": "",
+                    "flightId": "",
+                    "productId": "",
+                    "airfare": 0.0,
+                    "airfareDisplayValue": "",
+                    "seatsRemaining": 0,
+                    "cabin": "United Economy",
+                    "changeOfGauge": false,
+                    "gaugeChanges": [],
+                    "connections": [],
+                    "connectTimeMinutes": null,
+                    "departDate": "Thu., Feb. 24, 2022",
+                    "departTime": "6:00am",
+                    "destination": "IAH",
+                    "destinationDate": "Thu., Feb. 24, 2022",
+                    "destinationTime": "8:55am",
+                    "destinationDescription": "Houston, TX (IAH)",
+                    "destinationCountryCode": "",
+                    "equipmentDisclosures": {
+                      "equipmentDescription": "Boeing 737-900",
+                      "equipmentType": "739",
+                      "isSingleCabin": false,
+                      "noBoardingAssistance": false,
+                      "nonJetEquipment": false,
+                      "wheelchairsNotAllowed": false
+                    },
+                    "fareBasisCode": "",
+                    "flightNumber": "2675",
+                    "groundTime": null,
+                    "internationalCity": "",
+                    "isCheapestAirfare": false,
+                    "isConnection": false,
+                    "marketingCarrier": "UA",
+                    "marketingCarrierDescription": "UA",
+                    "miles": "926",
+                    "onTimePerformance": null,
+                    "operatingCarrier": "UA",
+                    "operatingCarrierDescription": "",
+                    "origin": "ORD",
+                    "originDescription": "Chicago, IL (ORD)",
+                    "originCountryCode": "",
+                    "rewards": [],
+                    "rewardPriceSummaries": [],
+                    "selected": false,
+                    "stopDestination": "",
+                    "stopInfos": [],
+                    "stops": 0,
+                    "travelTime": "2h 55m",
+                    "totalTravelTime": null,
+                    "messages": [
+                      {
+                        "tripId": "",
+                        "flightId": "",
+                        "connectionIndex": "",
+                        "flightNumberField": "",
+                        "messageCode": "United Economy (K)",
+                        "messageParameters": []
+                      },
+                      {
+                        "tripId": "",
+                        "flightId": "",
+                        "connectionIndex": "",
+                        "flightNumberField": "",
+                        "messageCode": "Snacks for Purchase",
+                        "messageParameters": []
+                      },
+                      {
+                        "tripId": "",
+                        "flightId": "",
+                        "connectionIndex": "",
+                        "flightNumberField": "",
+                        "messageCode": "None",
+                        "messageParameters": []
+                      }
+                    ],
+                    "meal": "Snacks for Purchase",
+                    "fpwSAir": false,
+                    "serviceClass": "",
+                    "serviceClassDescription": "United Economy (K)",
+                    "epaMessageTitle": "",
+                    "epaMessage": "",
+                    "showEPAMessage": false,
+                    "isCheckInWindow": false,
+                    "checkInWindowText": "",
+                    "departureDateTime": "2/24/2022 6:00:00 AM",
+                    "arrivalDateTime": "2/24/2022 8:55:00 AM",
+                    "departureDateTimeGMT": "2/24/2022 12:00:00 PM",
+                    "arrivalDateTimeGMT": "2/24/2022 2:55:00 PM",
+                    "matchServiceClassRequested": false,
+                    "hasWifi": false,
+                    "hasInSeatPower": false,
+                    "hasDirecTV": false,
+                    "hasAVOnDemand": false,
+                    "hasBeverageService": false,
+                    "hasEconomyLieFlatSeating": false,
+                    "hasEconomyMeal": false,
+                    "hasFirstClassMeal": false,
+                    "hasFirstClassLieFlatSeating": false,
+                    "shoppingProducts": [],
+                    "segID": "",
+                    "segNumber": 0,
+                    "flightDepartureDays": "",
+                    "flightArrivalDays": "",
+                    "corporateFareIndicator": "",
+                    "isAddCollectWaived": false,
+                    "addCollectProductId": null,
+                    "flightHash": null,
+                    "yaDiscount": "",
+                    "originStateCode": "",
+                    "destinationStateCode": "",
+                    "originDecodedWithCountry": "Chicago, IL, US (ORD - O'Hare)",
+                    "destinationDecodedWithCountry": "Houston, TX, US (IAH - Intercontinental)",
+                    "isCovidTestFlight": false,
+                    "isChangeFeeWaiver": false,
+                    "reshopFees": "",
+                    "flightSegmentAlerts": [],
+                    "departureDateFormated": null,
+                    "milesDisplayValue": "",
+                    "cabinDisclaimer": "",
+                    "availSeatsDisclaimer": "",
+                    "preferredCabinName": "",
+                    "preferredCabinMessage": "",
+                    "overnightConnection": "",
+                    "airportChange": "",
+                    "showSeatMap": false,
+                    "isStopOver": false,
+                    "pqdText": "",
+                    "pqmText": "",
+                    "rdmText": "",
+                    "yqyrMessage": "",
+                    "govtMessage": "",
+                    "isAwardSaver": false,
+                    "redEyeFlightDepDate": "",
+                    "nextDayFlightArrDate": "",
+                    "flightDateChanged": false,
+                    "bookingClassAvailability": null,
+                    "tripIndex": 0,
+                    "operatingCarrierFlightNumber": null,
+                    "lineOfFlightMessage": null
+                  }
+                ],
+                "isUADiscount": false,
+                "isAddCollectWaived": false,
+                "addCollectProductId": null,
+                "flightHash": "US",
+                "isIBELite": false,
+                "isIBE": false,
+                "isElf": false,
+                "isCovidTestFlight": false,
+                "isChangeFeeWaiver": false,
+                "flightLabelTextList": [],
+                "msgFlightCarrier": null,
+                "airportChange": null,
+                "flightBadges": []
+              }
+            ],
+            "flightSections": [],
+            "lastTripIndexRequested": 0,
+            "columns": [],
+            "yqyrMessage": "",
+            "pageCount": 0,
+            "originDecodedWithCountry": null,
+            "destinationDecodedWithCountry": null,
+            "showOriginDestinationForFlights": false,
+            "callDurationText": "",
+            "flightDateChangeMessage": "Please note this flight involves a date change",
+            "tripHasNonStopflightsOnly": false,
+            "origin": "ORD",
+            "originAllAirports": -1,
+            "destination": "IAH",
+            "destinationAllAirports": -1,
+            "departDate": "02/24/2022",
+            "arrivalDate": "",
+            "cabin": "",
+            "useFilters": false,
+            "searchFiltersIn": null,
+            "searchFiltersOut": null,
+            "searchNearbyOriginAirports": false,
+            "searchNearbyDestinationAirports": false,
+            "shareMessage": "",
+            "index": 0,
+            "changeType": "3"
+          },
+          "isReshopTrip": false,
+          "changeTrip": null,
+          "changeTripTitle": null,
+          "isUsed": false,
+          "originalUsedIndex": 1
+        }
+      ],
+      "reshop": {
+        "ancillaryRefundFormOfPayment": null,
+        "recordLocator": "FYEVHG",
+        "flowType": null,
+        "lastName": "LSDM",
+        "reviewChangeBackBtnText": "Back to Reservation",
+        "fsrTitle": "Applicable change fees are included in price.",
+        "fsrChangeFeeTxt": "Prices include all applicable taxes and fees.",
+        "rtiChangeCancelTxt": null,
+        "checkinSessionKey": null,
+        "fsrSubHeading": null,
+        "ffcMessage": null,
+        "<isResidualFFCRAvailable>k__BackingField": false,
+        "refundFormOfPaymentMessage": "To electronic travel certificate",
+        "changeTripTitle": "Compare with original flight >",
+        "feeWaiverMessage": null,
+        "isLastTripFSR": false,
+        "isRefundBillingAddressRequired": false,
+        "refundAddress": null,
+        "ffcrAddress": {
+          "key": "",
+          "channel": null,
+          "companyName": "",
+          "jobTitle": "",
+          "line1": "4718 N. RACINE AVE",
+          "line2": "",
+          "line3": "",
+          "apartmentNumber": "",
+          "city": "CHICAGO",
+          "state": {
+            "code": "IL",
+            "name": ""
+          },
+          "country": {
+            "code": "US",
+            "name": "",
+            "phoneCode": ""
+          },
+          "isPrivate": false,
+          "isDefault": false,
+          "isPrimary": false,
+          "isCorporate": false,
+          "postalCode": "60640",
+          "isValidForTPIPurchase": false
+        },
+        "changeFlightHeaderText": "To change travel times and airports, select \"Change flight\".",
+        "flightHeaderText": "New Trip",
+        "isUsedPNR": false,
+        "isReshopWithFutureFlightCredit": false,
+        "displayNonResidualCreditMessage": false
+      },
+      "payPalPayor": null,
+      "cubaTravelInfo": null,
+      "awardTravel": false,
+      "pointOfSale": "",
+      "pkDispenserPublicKey": "",
+      "isRefundable": false,
+      "isInternational": false,
+      "isFlexibleSegmentExist": false,
+      "fareLock": null,
+      "getALLSavedTravelers": true,
+      "shopPriceBreakDown": null,
+      "priceBreakDown": null,
+      "elfMessagesForRTI": [],
+      "elfMessagesForVendorQuery": [],
+      "fopOptions": null,
+      "masterpassSessionDetails": null,
+      "masterpass": null,
+      "elfUpgradeMessagesForMetaSearch": null,
+      "isSSA": false,
+      "seatAssignmentMessage": [],
+      "shopReservationInfo": null,
+      "shopReservationInfo2": null,
+      "tripInsuranceInfo": null,
+      "tripInsuranceInfoBookingPath": null,
+      "alertMessages": [],
+      "isRedirectToSecondaryPayment": false
+    },
+    "responseStatusItem": null,
+    "shopResponse": null,
+    "pnrTravelers": [
+      {
+        "passengerName": {
+          "title": "",
+          "first": "FNAMEA",
+          "middle": "",
+          "last": "LSDM",
+          "suffix": ""
+        },
+        "knownTravelerNumber": "ASDGDFGDFS111",
+        "ktnDisplaySequence": "4",
+        "redressNumber": "DFGTHDFGH2123",
+        "redressDisplaySequence": "3",
+        "ssrDisplaySequence": "",
+        "sharesPosition": "1.1",
+        "mileagePlus": {
+          "accountBalance": 0,
+          "activeStatusCode": "",
+          "activeStatusDescription": "",
+          "allianceEliteLevel": 0,
+          "closedStatusCode": "",
+          "closedStatusDescription": "",
+          "currentEliteLevel": 1,
+          "currentEliteLevelDescription": "Premier Silver",
+          "currentYearMoneySpent": 0.0,
+          "eliteMileageBalance": 0,
+          "eliteSegmentBalance": 0,
+          "eliteSegmentDecimalPlaceValue": 0,
+          "encryptedPin": "",
+          "enrollDate": "",
+          "enrollSourceCode": "",
+          "enrollSourceDescription": "",
+          "flexPqmBalance": 0,
+          "futureEliteLevel": 0,
+          "futureEliteDescription": "",
+          "instantEliteExpirationDate": "",
+          "isCEO": false,
+          "isClosedPermanently": false,
+          "isClosedTemporarily": false,
+          "isCurrentTrialEliteMember": false,
+          "isFlexPqm": false,
+          "isInfiniteElite": false,
+          "isLifetimeCompanion": false,
+          "isLockedOut": false,
+          "isMergePending": false,
+          "isUnitedClubMember": false,
+          "isPresidentialPlus": false,
+          "key": "",
+          "lastActivityDate": "",
+          "lastExpiredMile": 0,
+          "lastFlightDate": "",
+          "lastStatementBalance": 0,
+          "lastStatementDate": "",
+          "lifetimeEliteLevel": 0,
+          "lifetimeEliteMileageBalance": 0,
+          "mileageExpirationDate": "",
+          "nextYearEliteLevel": 0,
+          "nextYearEliteLevelDescription": "",
+          "mileagePlusId": "AY305211",
+          "mileagePlusPin": "",
+          "priorUnitedAccountNumber": "",
+          "starAllianceEliteLevel": 0,
+          "mpCustomerId": 0,
+          "vendorCode": "UA",
+          "premierLevelExpirationDate": "",
+          "instantElite": null,
+          "travelBankAccountNumber": null,
+          "travelBankBalance": 0.0,
+          "travelBankCurrencyCode": null,
+          "travelBankExpirationDate": null
+        },
+        "oaRewardPrograms": [],
+        "isMPMember": false,
+        "sharesGivenName": "FNAMEA",
+        "selectedSpecialNeeds": [
+          {
+            "value": "false",
+            "displayDescription": "",
+            "type": null,
+            "code": "SSMF",
+            "displaySequence": "",
+            "subOptions": [],
+            "messages": [],
+            "registerServiceDescription": null,
+            "subOptionHeader": null
+          },
+          {
+            "value": "SSR",
+            "displayDescription": "DOCSUAHK1/////31AUG88/M//LSDM/FNAMEA-1LSDM/FNAMEA",
+            "type": null,
+            "code": "DOCS",
+            "displaySequence": "2",
+            "subOptions": [],
+            "messages": [],
+            "registerServiceDescription": null,
+            "subOptionHeader": null
+          },
+          {
+            "value": "SSR",
+            "displayDescription": "DOCOUAHK1//R/DFGTHDFGH2123///US-1LSDM/FNAMEA",
+            "type": null,
+            "code": "DOCO",
+            "displaySequence": "3",
+            "subOptions": [],
+            "messages": [],
+            "registerServiceDescription": null,
+            "subOptionHeader": null
+          },
+          {
+            "value": "SSR",
+            "displayDescription": "DOCOUAHK1//K/ASDGDFGDFS111///US-1LSDM/FNAMEA",
+            "type": null,
+            "code": "DOCO",
+            "displaySequence": "4",
+            "subOptions": [],
+            "messages": [],
+            "registerServiceDescription": null,
+            "subOptionHeader": null
+          },
+          {
+            "value": "SSR",
+            "displayDescription": "CTCEUAHK1/SUSHREE.LOPAMUDRA//UNITED.COM-1LSDM/FNAMEA",
+            "type": null,
+            "code": "CTCE",
+            "displaySequence": "5",
+            "subOptions": [],
+            "messages": [],
+            "registerServiceDescription": null,
+            "subOptionHeader": null
+          },
+          {
+            "value": "SSR",
+            "displayDescription": "TKNEUAHK1IAHORD2653K10FEB-1LSDM/FNAMEA.01623878260082C1",
+            "type": null,
+            "code": "TKNE",
+            "displaySequence": "6",
+            "subOptions": [],
+            "messages": [],
+            "registerServiceDescription": null,
+            "subOptionHeader": null
+          },
+          {
+            "value": "SSR",
+            "displayDescription": "TKNEUAHK1ORDIAH2675K24FEB-1LSDM/FNAMEA.01623878260082C2",
+            "type": null,
+            "code": "TKNE",
+            "displaySequence": "7",
+            "subOptions": [],
+            "messages": [],
+            "registerServiceDescription": null,
+            "subOptionHeader": null
+          },
+          {
+            "value": "SSR",
+            "displayDescription": "AY305211.2*SILVER",
+            "type": null,
+            "code": "FQTV",
+            "displaySequence": "1",
+            "subOptions": [],
+            "messages": [],
+            "registerServiceDescription": null,
+            "subOptionHeader": null
+          }
+        ],
+        "birthDate": "8/31/1988 12:00:00 AM",
+        "travelerTypeCode": "ADT",
+        "pricingPaxType": "",
+        "contact": {
+          "emails": [
+            {
+              "key": "5",
+              "channel": null,
+              "emailAddress": "SUSHREE.LOPAMUDRA@UNITED.COM",
+              "isPrivate": false,
+              "isDefault": false,
+              "isPrimary": false,
+              "isDayOfTravel": false
+            }
+          ],
+          "phoneNumbers": []
+        },
+        "earnedMiles": {
+          "firstName": "FNAMEA",
+          "lastName": "LSDM",
+          "awardMileTotalFormated": "938",
+          "pqmTotalFormated": "--",
+          "pqsTotalFormated": "--",
+          "pqdTotalFormated": "--",
+          "pqfTotalFormated": "2",
+          "pqpTotalFormated": "134",
+          "awardMileTotalShort": "938",
+          "pqmTotalShort": "",
+          "pqsTotalShort": "",
+          "pqdTotalShort": "",
+          "pqfTotalShort": "2",
+          "pqpTotalShort": "134",
+          "isMember": true,
+          "memberLevelText": "Premier Silver",
+          "nonMemberMessage": "",
+          "rowData": [
+            {
+              "segmentText": "IAH - ORD",
+              "tripText": "",
+              "awardMileText": "483",
+              "pqmText": "--",
+              "pqsText": "--",
+              "pqdText": "--",
+              "pqfText": "1",
+              "pqpText": "69",
+              "isElligibleForEarnings": true,
+              "ineligibleEarningsText": "",
+              "secondLineText": ""
+            },
+            {
+              "segmentText": "ORD - IAH",
+              "tripText": "",
+              "awardMileText": "455",
+              "pqmText": "--",
+              "pqsText": "--",
+              "pqdText": "--",
+              "pqfText": "1",
+              "pqpText": "65",
+              "isElligibleForEarnings": true,
+              "ineligibleEarningsText": "",
+              "secondLineText": ""
+            }
+          ],
+          "hasInelligibleSegment": false,
+          "earnedMilesType": "VBQ"
+        },
+        "loyaltyProgramProfile": {
+          "LoyaltyProgramCarrierCode": "UA",
+          "LoyaltyProgramID": "2",
+          "LoyaltyProgramMemberID": "AY305211",
+          "LoyaltyProgramMemberTierLevel": "SL",
+          "StarEliteLevel": "*S",
+          "LoyaltyProgramMemberTierDescription": "PremierSilver",
+          "Balances": [
+            {
+              "Descriptions": [],
+              "Characteristics": [
+                {
+                  "Code": "PQF",
+                  "Value": "2",
+                  "Description": "Premier Qualifying Flights",
+                  "Status": {
+                    "Description": "Trip Number"
+                  }
+                },
+                {
+                  "Code": "PQP",
+                  "Value": "134",
+                  "Description": "Premier Qualifying Points",
+                  "Status": {
+                    "Description": "Trip Number"
+                  }
+                },
+                {
+                  "Code": "RDM",
+                  "Value": "938",
+                  "Description": "Accruable Miles",
+                  "Status": {
+                    "Description": "Trip Number"
+                  }
+                },
+                {
+                  "Code": "PQF",
+                  "Value": "1",
+                  "Description": "Premier Qualifying Flights",
+                  "Status": {
+                    "Description": "Trip Number",
+                    "Key": "1"
+                  }
+                },
+                {
+                  "Code": "PQP",
+                  "Value": "69",
+                  "Description": "Premier Qualifying Points",
+                  "Status": {
+                    "Description": "Trip Number",
+                    "Key": "1"
+                  }
+                },
+                {
+                  "Code": "RDM",
+                  "Value": "483",
+                  "Description": "Accruable Miles",
+                  "Status": {
+                    "Description": "Trip Number",
+                    "Key": "1"
+                  }
+                },
+                {
+                  "Code": "PQF",
+                  "Value": "1",
+                  "Description": "Premier Qualifying Flights",
+                  "Status": {
+                    "Description": "Trip Number",
+                    "Key": "2"
+                  }
+                },
+                {
+                  "Code": "PQP",
+                  "Value": "65",
+                  "Description": "Premier Qualifying Points",
+                  "Status": {
+                    "Description": "Trip Number",
+                    "Key": "2"
+                  }
+                },
+                {
+                  "Code": "RDM",
+                  "Value": "455",
+                  "Description": "Accruable Miles",
+                  "Status": {
+                    "Description": "Trip Number",
+                    "Key": "2"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "employeeProfile": null,
+        "pnrCustomerID": "LSDM/FNAMEA"
+      }
+    ],
+    "pnrSegment": [
+      {
+        "operationoperatingCarrier": {
+          "code": "UA",
+          "name": "United Airlines",
+          "flightNumber": ""
+        },
+        "aircraft": {
+          "code": "738",
+          "shortName": "",
+          "longName": "Boeing 737-800",
+          "modelCode": "73Y"
+        },
+        "meal": "Snacks for Purchase",
+        "flightTime": "2 HR 37 MN",
+        "groundTime": "00:00:00",
+        "totalTravelTime": "",
+        "actualMileage": "926",
+        "mileagePlusMileage": "926",
+        "emp": "",
+        "totalMileagePlusMileage": "",
+        "ssrMeals": "",
+        "classOfService": "K",
+        "classOfServiceDescription": "United Economy",
+        "seats": [
+          {
+            "number": "10C",
+            "seatRow": "",
+            "seatLetter": "",
+            "passengerSHARESPosition": "1.1",
+            "seatStatus": "",
+            "segmentIndex": "1",
+            "origin": "IAH",
+            "destination": "ORD",
+            "eddNumber": "",
+            "eDocId": "",
+            "price": 0.0,
+            "currency": "",
+            "programCode": ""
+          }
+        ],
+        "numberOfStops": "",
+        "stops": [],
+        "isPlusPointSegment": false,
+        "scheduledDepartureDateTimeGMT": "2/10/2022 11:16 AM",
+        "scheduledArrivalDateTimeGMT": "2/10/2022 1:53 PM",
+        "codeshareCarrier": {
+          "code": "UA",
+          "name": "",
+          "flightNumber": "2653"
+        },
+        "codeshareFlightNumber": "",
+        "scheduleChangeInfo": [],
+        "upgradeVisibility": {
+          "carrierCode": "UA",
+          "classOfService": "K",
+          "departureDateTime": "02/10/2022 05:16 AM",
+          "destination": "ORD",
+          "flightNumber": 2653,
+          "origin": "IAH",
+          "previousSegmentActionCode": "NN",
+          "segmentActionCode": "HK1",
+          "segmentNumber": 1,
+          "upgradeRemark": "You are eligible for a space available complimentary upgrade to United First on this flight. When available, these upgrades are cleared automatically and in priority order on the day of departure. \n\nAfter checking in, view your status on the upgrade standby list by checking Flight Status on the United app. If you do not see your name on the list, please see a United representative at the airport.",
+          "decodedUpgradeMessage": "CPU Eligible",
+          "upgradeMessage": "SegmentIsQualifiedForComplimentaryUpgrade",
+          "upgradeMessageCode": "SpaceAvailableCpuToCabinOutsideWindowSilver",
+          "upgradeProperties": [
+            {
+              "key": "UpgradeClassOfService",
+              "value": "PZ"
+            },
+            {
+              "key": "UpgradeWindowHours",
+              "value": "24"
+            },
+            {
+              "key": "UpgradePremierLevel",
+              "value": "6"
+            },
+            {
+              "key": "None",
+              "value": "False"
+            },
+            {
+              "key": "None",
+              "value": "None"
+            }
+          ],
+          "upgradeStatus": "2",
+          "upgradeType": "ComplimentaryPremierUpgrade",
+          "waitlistSegments": []
+        },
+        "lowestEliteLevel": 1,
+        "upgradeable": false,
+        "upgradeableMessageCode": "",
+        "upgradeableMessage": "",
+        "upgradeableRemark": "",
+        "complimentaryInstantUpgradeMessage": "",
+        "remove": false,
+        "waitlisted": false,
+        "actionCode": "HK1",
+        "upgradeEligible": true,
+        "waitedCOSDesc": "",
+        "lmxProducts": [],
+        "cabinType": "United Economy",
+        "nonPartnerFlight": false,
+        "bundles": [],
+        "isElf": false,
+        "isIBE": false,
+        "tripNumber": "1",
+        "segmentNumber": 1,
+        "ticketCouponStatus": "",
+        "productCode": "",
+        "fareBasisCode": "KAA7TWEN",
+        "inCabinPetInfo": null,
+        "showSeatMapLink": true,
+        "isChangeOfGuage": false,
+        "marketingCarrier": {
+          "code": "UA",
+          "name": "United Airlines",
+          "flightNumber": "2653"
+        },
+        "flightNumber": "2653",
+        "departure": {
+          "code": "IAH",
+          "name": "Houston, TX (IAH)",
+          "city": "Houston"
+        },
+        "arrival": {
+          "code": "ORD",
+          "name": "Chicago, IL (ORD)",
+          "city": "Chicago"
+        },
+        "scheduledDepartureDateTime": "2/10/2022 5:16 AM",
+        "scheduledArrivalDateTime": "2/10/2022 7:53 AM",
+        "scheduledDepartureTimeGMT": "",
+        "scheduledArrivalTimeGMT": "",
+        "formattedScheduledDepartureDateTime": "",
+        "formattedScheduledArrivalDateTime": "",
+        "formattedScheduledDepartureDate": "",
+        "formattedScheduledArrivalDate": "",
+        "formattedScheduledDepartureTime": "",
+        "formattedScheduledArrivalTime": ""
+      },
+      {
+        "operationoperatingCarrier": {
+          "code": "UA",
+          "name": "United Airlines",
+          "flightNumber": ""
+        },
+        "aircraft": {
+          "code": "739",
+          "shortName": "",
+          "longName": "Boeing 737-900",
+          "modelCode": "739"
+        },
+        "meal": "Snacks for Purchase",
+        "flightTime": "2 HR 55 MN",
+        "groundTime": "00:00:00",
+        "totalTravelTime": "",
+        "actualMileage": "926",
+        "mileagePlusMileage": "926",
+        "emp": "",
+        "totalMileagePlusMileage": "",
+        "ssrMeals": "",
+        "classOfService": "K",
+        "classOfServiceDescription": "United Economy",
+        "seats": [
+          {
+            "number": "10D",
+            "seatRow": "",
+            "seatLetter": "",
+            "passengerSHARESPosition": "1.1",
+            "seatStatus": "",
+            "segmentIndex": "2",
+            "origin": "ORD",
+            "destination": "IAH",
+            "eddNumber": "",
+            "eDocId": "",
+            "price": 0.0,
+            "currency": "",
+            "programCode": ""
+          }
+        ],
+        "numberOfStops": "",
+        "stops": [],
+        "isPlusPointSegment": false,
+        "scheduledDepartureDateTimeGMT": "2/24/2022 12:00 PM",
+        "scheduledArrivalDateTimeGMT": "2/24/2022 2:55 PM",
+        "codeshareCarrier": {
+          "code": "UA",
+          "name": "",
+          "flightNumber": "2675"
+        },
+        "codeshareFlightNumber": "",
+        "scheduleChangeInfo": [],
+        "upgradeVisibility": {
+          "carrierCode": "UA",
+          "classOfService": "K",
+          "departureDateTime": "02/24/2022 06:00 AM",
+          "destination": "IAH",
+          "flightNumber": 2675,
+          "origin": "ORD",
+          "previousSegmentActionCode": "NN",
+          "segmentActionCode": "HK1",
+          "segmentNumber": 2,
+          "upgradeRemark": "You are eligible for a space available complimentary upgrade to United First on this flight. When available, these upgrades are cleared automatically and in priority order on the day of departure. \n\nAfter checking in, view your status on the upgrade standby list by checking Flight Status on the United app. If you do not see your name on the list, please see a United representative at the airport.",
+          "decodedUpgradeMessage": "CPU Eligible",
+          "upgradeMessage": "SegmentIsQualifiedForComplimentaryUpgrade",
+          "upgradeMessageCode": "SpaceAvailableCpuToCabinOutsideWindowSilver",
+          "upgradeProperties": [
+            {
+              "key": "UpgradeClassOfService",
+              "value": "PZ"
+            },
+            {
+              "key": "UpgradeWindowHours",
+              "value": "24"
+            },
+            {
+              "key": "UpgradePremierLevel",
+              "value": "6"
+            },
+            {
+              "key": "None",
+              "value": "False"
+            },
+            {
+              "key": "None",
+              "value": "None"
+            }
+          ],
+          "upgradeStatus": "2",
+          "upgradeType": "ComplimentaryPremierUpgrade",
+          "waitlistSegments": []
+        },
+        "lowestEliteLevel": 1,
+        "upgradeable": false,
+        "upgradeableMessageCode": "",
+        "upgradeableMessage": "",
+        "upgradeableRemark": "",
+        "complimentaryInstantUpgradeMessage": "",
+        "remove": false,
+        "waitlisted": false,
+        "actionCode": "HK1",
+        "upgradeEligible": true,
+        "waitedCOSDesc": "",
+        "lmxProducts": [],
+        "cabinType": "United Economy",
+        "nonPartnerFlight": false,
+        "bundles": [],
+        "isElf": false,
+        "isIBE": false,
+        "tripNumber": "2",
+        "segmentNumber": 2,
+        "ticketCouponStatus": "",
+        "productCode": "",
+        "fareBasisCode": "KAA4TWEN",
+        "inCabinPetInfo": null,
+        "showSeatMapLink": true,
+        "isChangeOfGuage": false,
+        "marketingCarrier": {
+          "code": "UA",
+          "name": "United Airlines",
+          "flightNumber": "2675"
+        },
+        "flightNumber": "2675",
+        "departure": {
+          "code": "ORD",
+          "name": "Chicago, IL (ORD)",
+          "city": "Chicago"
+        },
+        "arrival": {
+          "code": "IAH",
+          "name": "Houston, TX (IAH)",
+          "city": "Houston"
+        },
+        "scheduledDepartureDateTime": "2/24/2022 6:00 AM",
+        "scheduledArrivalDateTime": "2/24/2022 8:55 AM",
+        "scheduledDepartureTimeGMT": "",
+        "scheduledArrivalTimeGMT": "",
+        "formattedScheduledDepartureDateTime": "",
+        "formattedScheduledArrivalDateTime": "",
+        "formattedScheduledDepartureDate": "",
+        "formattedScheduledArrivalDate": "",
+        "formattedScheduledDepartureTime": "",
+        "formattedScheduledArrivalTime": ""
+      }
+    ],
+    "exceptionPolicyEligible": true,
+    "sameDayChangeEligible": false,
+    "advisoryInfo": [
+      {
+        "advisoryType": "INFORMATION",
+        "contentType": "RESHOPNEWTRIP",
+        "header": "About your new trip",
+        "subTitle": null,
+        "body": "If your new trip costs more than your original trip, any difference in price <u>will apply</u>.<br/><br/>If your new trip costs less than your original trip, any difference in price <u>will not be refunded</u>.",
+        "footer": null,
+        "buttontext": null,
+        "buttonlink": null,
+        "isBodyAsHtml": true,
+        "shouldExpand": true,
+        "isDefaultOpen": true,
+        "buttonItems": null,
+        "subItems": null
+      }
+    ],
+    "transactionId": "",
+    "languageCode": "en-US",
+    "machineName": "03",
+    "callDuration": 6294,
+    "exception": null
+  }
+]

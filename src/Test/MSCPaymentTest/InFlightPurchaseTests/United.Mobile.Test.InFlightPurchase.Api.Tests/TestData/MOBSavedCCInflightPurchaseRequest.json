@@ -1,0 +1,21 @@
+[
+  {
+    "formOfPaymentType": "ABC",
+    "emailAddress": "XYZ",
+    "billingAddress": {
+      "key": "IAS"
+    },
+    "channel": {
+      "companyName": "VIP",
+      "jobTitle": "DIS",
+      "apartmentNumber": "abc",
+      "city": "xyz"
+    },
+    "productInfo": [
+      {
+        "productDetail": "DEF",
+        "flights": "HIS"
+      }
+    ]
+  }
+]

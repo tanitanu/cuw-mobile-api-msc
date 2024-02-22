@@ -1,0 +1,465 @@
+{
+  "CartId": "04C1438A-302A-4B70-9D88-54A3880C8ED7",
+  "SessionId": "ba14cdb6-ae98-4d46-93f8-210133bf4b1b",
+  "Reservation": {
+    "Travelers": [
+      {
+        "Person": {
+          "Key": "1.1",
+          "DateOfBirth": "11/25/1996",
+          "Type": "ADT",
+          "InfantIndicator": "",
+          "ReservationIndex": "0",
+          "Age": 25,
+          "PricingPaxType": "ADT"
+        },
+        "LoyaltyProgramProfile": {
+          "LoyaltyProgramCarrierCode": "UA",
+          "LoyaltyProgramID": "UA",
+          "LoyaltyProgramMemberTierLevel": "0",
+          "LoyaltyProgramMemberTierDescription": 0
+        },
+        "Tickets": [ { "TicketingCarrierCode": "UA" } ]
+      }
+    ],
+    "FlightSegments": [
+      {
+        "FlightSegment": {
+          "DepartureAirport": {
+            "IATACode": "ORD",
+            "Name": "Chicago, IL, US (ORD)",
+            "IATACountryCode": { "CountryCode": "US" },
+            "StateProvince": { "StateProvinceCode": "IL" }
+          },
+          "ArrivalAirport": {
+            "IATACode": "LHR",
+            "Name": "London, GB (LHR)",
+            "IATACountryCode": { "CountryCode": "GB" },
+            "StateProvince": { "StateProvinceCode": "" }
+          },
+          "DepartureDateTime": "2021-11-25 17:55",
+          "ArrivalDateTime": "2021-11-26 07:55",
+          "FlightNumber": "931",
+          "OperatingAirlineCode": "UA",
+          "Equipment": {
+            "Model": {
+              "Description": "Boeing 767-300",
+              "Fleet": "763"
+            },
+            "CabinCount": 3
+          },
+          "MarketedFlightSegment": [
+            {
+              "MarketingAirlineCode": "UA",
+              "FlightNumber": "931"
+            }
+          ],
+          "MarriageGroup": "N",
+          "Distance": 3939,
+          "SegmentNumber": 1,
+          "BookingClasses": [
+            {
+              "Code": "V",
+              "Cabin": {
+                "Key": "UE",
+                "Name": "United Economy",
+                "Layout": "3"
+              }
+            }
+          ],
+          "FlightSegmentType": "NN",
+          "Message": [
+            { "Code": "ARRDAYDIFF" },
+            {
+              "Text": "VL700LGT",
+              "Code": "BASIS_CODE"
+            },
+            {
+              "Text": "False",
+              "Code": "PETS_DISALLOWED"
+            },
+            {
+              "Text": "United Airlines",
+              "Code": "OPERATINGCARRIERDESC"
+            },
+            {
+              "Text": "OBY",
+              "Code": "OB"
+            }
+          ],
+          "Characteristic": [
+            {
+              "Code": "PET_COUNT",
+              "Value": "0"
+            },
+            {
+              "Code": "ProductCode",
+              "Value": "IBE"
+            }
+          ],
+          "IsInternational": "True",
+          "AvailBookingClasses": [
+            {
+              "Code": "J",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "JN",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "C",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "D",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "Z",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "ZN",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "P",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "PN",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "PZ",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "IN",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "I",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "O",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "ON",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "A",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "R",
+              "Counts": { "Value": "1" }
+            },
+            {
+              "Code": "RN",
+              "Counts": { "Value": "1" }
+            },
+            {
+              "Code": "Y",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "YN",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "B",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "M",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "E",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "U",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "H",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "HN",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "Q",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "V",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "W",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "S",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "T",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "L",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "K",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "G",
+              "Counts": { "Value": "0" }
+            },
+            {
+              "Code": "N",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "XN",
+              "Counts": { "Value": "9" }
+            },
+            {
+              "Code": "X",
+              "Counts": { "Value": "9" }
+            }
+          ],
+          "UpgradeEligibilityStatus": 0,
+          "UpgradeVisibilityType": 0,
+          "InstantUpgradable": false
+        },
+        "IsConnection": "False",
+        "Characteristic": [
+          {
+            "Code": "SELECTED_FARE_TYPE",
+            "Value": "ECO-BASIC"
+          }
+        ],
+        "SegmentNumber": 1,
+        "TripNumber": "1"
+      }
+    ],
+    "Prices": [
+      {
+        "BasePrice": [
+          {
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 301.0
+          }
+        ],
+        "Taxes": [
+          {
+            "Code": "AY",
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 5.6,
+            "Description": "September 11th Security Fee",
+            "Status": "APPLIED"
+          },
+          {
+            "Code": "YQ",
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 170.0,
+            "Description": "International Surcharge",
+            "Status": "APPLIED"
+          },
+          {
+            "Code": "US",
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 19.1,
+            "Description": "U.S. Transportation Tax",
+            "Status": "APPLIED"
+          },
+          {
+            "Code": "XF",
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 4.5,
+            "Description": "U.S. Passenger Facility Charge",
+            "Status": "APPLIED"
+          }
+        ],
+        "Surcharges": [],
+        "Fees": [],
+        "Totals": [
+          {
+            "Name": "TaxTotal",
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 199.2
+          },
+          {
+            "Name": "GrandTotalForMileage",
+            "Currency": { "Code": "MIL" },
+            "Amount": 0.0
+          },
+          {
+            "Name": "GrandTotalForCurrency",
+            "Currency": {
+              "Code": "USD",
+              "DecimalPlace": 2
+            },
+            "Amount": 500.2
+          }
+        ],
+        "BasePriceEquivalent": {
+          "Currency": {
+            "Code": "USD",
+            "DecimalPlace": 2
+          },
+          "Amount": 301.0
+        },
+        "Type": {
+          "Key": "Revenue",
+          "Description": "fareFlavor",
+          "Value": "ADT"
+        },
+        "Rules": [ { "Description": "NONREF/NOASR" } ],
+        "FareCalculation": "CHI UA LON 301.00VL700LGT NUC 301.00 END ROE 1.00 XT 19.10US 5.60AY 170.00YQ 4.50XF ORD4.5",
+        "FareComponents": [
+          {
+            "AirlineCode": "UA",
+            "OriginCity": "CHI",
+            "DestinationCity": "LON",
+            "BasisCodes": [ "VL700LGT" ],
+            "TripType": "ONE-WAY-ONLY",
+            "BasePrice": [
+              {
+                "Currency": { "Code": "USD" },
+                "Amount": 301.0
+              }
+            ],
+            "DestinationAirportCode": "LON",
+            "OriginAirportCode": "CHI",
+            "SequenceNumber": 1,
+            "PassengerTypeCode": "ADT",
+            "Characteristic": []
+          }
+        ],
+        "Count": {
+          "CountType": "Pax Count",
+          "Value": "1"
+        },
+        "FareType": 0,
+        "PriceFlightSegments": [
+          {
+            "FareBasisCode": "VL700LGT",
+            "TicketDesignator": "",
+            "LOFNumber": 1,
+            "FareComponentSequenceNumber": 1,
+            "GlobalIndicator": "AT",
+            "DepartureAirport": {
+              "IATACode": "ORD",
+              "ShortName": "ORD"
+            },
+            "ArrivalAirport": {
+              "IATACode": "LHR",
+              "ShortName": "LHR"
+            },
+            "DepartureDateTime": "2021-11-25 17:55",
+            "ArrivalDateTime": "2021-11-26 07:55",
+            "FlightNumber": "931",
+            "MarketedFlightSegment": [ { "MarketingAirlineCode": "UA" } ],
+            "MarriageGroup": "N",
+            "SegmentNumber": 1,
+            "BookingClasses": [ { "Code": "V" } ],
+            "Legs": [
+              {
+                "Equipment": { "Model": { "Fleet": "763" } },
+                "CabinCount": 3
+              }
+            ],
+            "UpgradeEligibilityStatus": 0,
+            "UpgradeVisibilityType": 0,
+            "InstantUpgradable": false,
+            "AuxillaryText": "False"
+          }
+        ],
+        "PassengerTypeCode": "ADT",
+        "Characteristics": [],
+        "PassengerIDs": {
+          "Key": "1.1",
+          "Description": "ADT"
+        }
+      }
+    ],
+    "Type": [
+      { "Key": "NEW" },
+      { "Key": "REVENUE" }
+    ],
+    "Characteristic": [
+      {
+        "Code": "Refundable",
+        "Value": "False"
+      },
+      {
+        "Code": "ContentLookupID",
+        "Value": "Messages:123"
+      },
+      {
+        "Code": "BBXID",
+        "Value": "07cUmDQxGBhQ4Cx4z0aXoh"
+      },
+      {
+        "Code": "StationCode",
+        "Value": "HOU"
+      },
+      {
+        "Code": "TRIP_TYPE",
+        "Value": "OW",
+        "Description": "TRIP_TYPE"
+      },
+      {
+        "Code": "ProductCode",
+        "Value": "IBE"
+      }
+    ],
+    "NumberInParty": 1,
+    "GUID": { "ID": "04C1438A-302A-4B70-9D88-54A3880C8ED7" },
+    "PointOfSale": {
+      "Country": { "CountryCode": "US" },
+      "CurrencyCode": "USD"
+    },
+    "CartId": "04C1438A-302A-4B70-9D88-54A3880C8ED7"
+  },
+  "FareLock": {
+    "Characteristics": [
+      {
+        "Code": "FLIGHTRECOMMENDATIONSCALL",
+        "Value": "SHOPBOOKINGDETAILS",
+        "Description": "Booking the details"
+      }
+    ]
+  }
+}

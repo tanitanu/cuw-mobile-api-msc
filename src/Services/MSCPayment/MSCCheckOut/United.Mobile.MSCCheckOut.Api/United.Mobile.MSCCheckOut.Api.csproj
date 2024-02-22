@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <UserSecretsId>3da3846e-a748-4ebe-97b4-aa97cba8c1ac</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..\..\..</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.12" />
+
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
+
+    <PackageReference Include="United.Services.FlightShopping.Common" Version="2.0.0.345" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\United.Utility.Middleware\United.Utility.Middleware.csproj" />
+    <ProjectReference Include="..\United.Mobile.MSCCheckOut.Domain\United.Mobile.MSCCheckOut.Domain.csproj" />
+  </ItemGroup>
+	<ItemGroup>
+	<Reference Include="IDAutomation.NetStandard.PDF417.FontEncoder">
+		<HintPath>..\..\..\..\ExternalDLL\IDAutomation.NetStandard.PDF417.FontEncoder.dll</HintPath>
+	</Reference>
+		<Reference Include="United.ECommerce.Framework.Utilities">
+			<HintPath>..\..\..\..\ExternalDLL\Profile\United.ECommerce.Framework.Utilities.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+</Project>

@@ -1,0 +1,41 @@
+[
+  {
+    "captions": [
+      {
+        "key": "",
+        "value": ""
+      }
+    ],
+    "eligibleFormofPayments": [
+      {
+        "category": "test",
+        "fullName": "rose",
+        "code": "12345",
+        "fopDescription": "abcd",
+        "deleteOrder": true
+
+      }
+    ],
+    "shoppingCart": {
+      "formofPaymentDetails": {
+        "TravelCertificate": {
+          "Certificates": [
+            {
+              "pinCode": "51Y9X4CC5B"
+            }
+          ]
+        }
+      }
+    },
+    "reservation": {
+      "prices": [
+        {
+
+        }
+      ]
+    }
+  }
+
+]
+
+

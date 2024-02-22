@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <UserSecretsId>af3e6ae1-9e9a-4439-90be-d4ae3f638db4</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..\..\..</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
+
+    <PackageReference Include="United.Services.FlightShopping.Common" Version="2.0.0.345" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\United.Ebs.Logging\United.Ebs.Logging.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\United.Utility.Middleware\United.Utility.Middleware.csproj" />
+    <ProjectReference Include="..\United.Mobile.TravelCredit.Domain\United.Mobile.TravelCredit.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>

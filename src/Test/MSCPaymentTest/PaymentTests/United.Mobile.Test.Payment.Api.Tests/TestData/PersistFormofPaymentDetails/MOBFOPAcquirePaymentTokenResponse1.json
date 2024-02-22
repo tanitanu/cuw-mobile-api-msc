@@ -1,0 +1,341 @@
+[
+  {
+    "callDuration": 2634,
+    "checkinSessionId": "",
+    "eligibleFormofPayments": [
+      {
+        "category": "CC",
+        "code": "VI",
+        "deleteOrder": false,
+        "fopDescription": "Visa",
+        "fullName": "Credit Card"
+      },
+      {
+        "category": "CC",
+        "code": "UP",
+        "deleteOrder": false,
+        "fopDescription": "UnionPay",
+        "fullName": "Credit Card"
+      },
+      {
+        "category": "CC",
+        "code": "MPVI",
+        "deleteOrder": false,
+        "fopDescription": "MileagePlus Visa",
+        "fullName": "Credit Card"
+      },
+      {
+        "category": "CC",
+        "code": "MC",
+        "deleteOrder": false,
+        "fopDescription": "MasterCard",
+        "fullName": "Credit Card"
+      },
+      {
+        "category": "CC",
+        "code": "AX",
+        "deleteOrder": false,
+        "fopDescription": "American Express",
+        "fullName": "Credit Card"
+      },
+      {
+        "category": "CC",
+        "code": "DS",
+        "deleteOrder": false,
+        "fopDescription": "Discover Network",
+        "fullName": "Credit Card"
+      },
+      {
+        "category": "CC",
+        "code": "DC",
+        "deleteOrder": false,
+        "fopDescription": "Diners Club",
+        "fullName": "Credit Card"
+      },
+      {
+        "category": "CC",
+        "code": "TP",
+        "deleteOrder": false,
+        "fopDescription": "UATP",
+        "fullName": "Credit Card"
+      },
+      {
+        "category": "CC",
+        "code": "JC",
+        "deleteOrder": false,
+        "fopDescription": "JCB",
+        "fullName": "Credit Card"
+      },
+      {
+        "category": "PP",
+        "code": "PP",
+        "deleteOrder": false,
+        "fopDescription": "PayPal",
+        "fullName": "PayPal"
+      },
+      {
+        "category": "VCO",
+        "code": "VCO",
+        "deleteOrder": false,
+        "fopDescription": "Visa Checkout",
+        "fullName": "Visa Checkout"
+      },
+      {
+        "category": "PPC",
+        "code": "PPC",
+        "deleteOrder": false,
+        "fopDescription": "PayPal Credit",
+        "fullName": "PayPal Credit"
+      }
+    ],
+    "exception": null,
+    "flow": "VIEWRES",
+    "languageCode": "en-US",
+    "machineName": "ip-10-37-147-36",
+    "pkDispenserPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiS5xQZAwPM5WEdqcuOnwDLap9GWCD6+sthlWDpwTs4W9zpkc/esXfRAD9hq6KP6QcLm1Xg0Qc2CYMOpmqQAC8CdGxsn4RC+eRzr9UvdGsRyGWOADcIdtPXaUMyhue3MfWguifVHFeuMdFsK10BtAsBTIEnTeqpJHLUxfAdcmHgMo6LEDGKYQxp1aeN0TtrlvFg2qeeV7YrkRdL85P1ghgGc6yGoO+WzmID2NwxHMVgrJJl2ICkyNyXqnyu+UAk70NmvVu8MJwSfCWgVB7caGxQaPRfVb7dv4OQpnlSl6vFe60A8lzXZPThP96168Xc7tZB2q4otoFuzJxQp39S5uMwIDAQAB",
+    "profiles": null,
+    "reservation": null,
+    "sessionId": "F9B55C6F539740DBAA31E83B86D0F17D",
+    "shoppingCart": {
+      "alertMessages": [
+      ],
+      "bundleCartId": null,
+      "captions": [
+        {
+          "currentValue": "Payment information",
+          "id": "PaymentPage_Title",
+          "saveToPersist": false
+        },
+        {
+          "currentValue": "Price details",
+          "id": "PaymentPage_SubHeader",
+          "saveToPersist": false
+        },
+        {
+          "currentValue": "Thank you for your purchase",
+          "id": "PaymentPage_ConfirmationMessage",
+          "saveToPersist": false
+        }
+      ],
+      "cartId": "E9F59A99-C4A4-471A-B0E7-BAD59B728298",
+      "certificateTravelers": [
+      ],
+      "confirmationPageAlertMessages": [
+      ],
+      "couponCode": null,
+      "couponOfferDescription": null,
+      "cslWorkFlowType": 0,
+      "currencyCode": "",
+      "disableCouponEditOption": false,
+      "displayMessage": [
+      ],
+      "displaySubTotalPrice": "",
+      "displayTaxesAndFees": "",
+      "displayTotalMiles": null,
+      "displayTotalPoints": "",
+      "displayTotalPrice": "$94.99",
+      "elfLimitations": [
+      ],
+      "flightShareMessage": "",
+      "flow": "VIEWRES",
+      "formofPaymentDetails": {
+        "applePayInfo": null,
+        "billingAddress": null,
+        "clientCardType": false,
+        "creditCard": null,
+        "email": null,
+        "emailAddress": null,
+        "formOfPaymentType": "PayPal",
+        "internationalBilling": {
+          "BillingAddressProperties": null
+        },
+        "isOtherFOPRequired": false,
+        "masterPass": null,
+        "masterPassSessionDetails": null,
+        "milesFOP": null,
+        "moneyPlusMilesCredit": null,
+        "payPal": {
+          "billingAddressCountryCode": "",
+          "currencyCode": "",
+          "payerID": "UFUSYEENKN8Q4",
+          "payPalTokenID": "EC-8Y1266415W200762K"
+        },
+        "payPalPayor": {
+          "payPalBillingAddress": {
+            "apartmentNumber": "",
+            "channel": null,
+            "city": "ongole",
+            "companyName": "",
+            "country": {
+              "code": "US",
+              "name": "United States",
+              "phoneCode": ""
+            },
+            "isCorporate": false,
+            "isDefault": false,
+            "isPrimary": false,
+            "isPrivate": false,
+            "isValidForTPIPurchase": false,
+            "jobTitle": "",
+            "key": "",
+            "line1": "ertyui",
+            "line2": "",
+            "line3": "",
+            "postalCode": "96940",
+            "state": {
+              "code": "PW",
+              "name": "PW"
+            }
+          },
+          "payPalContactEmailAddress": "us@united.com",
+          "payPalContactPhoneNumber": "",
+          "payPalGivenName": "Test",
+          "payPallCustomerID": "UFUSYEENKN8Q4",
+          "payPalStatus": "VERIFIED",
+          "payPalSurname": null
+        },
+        "phone": null,
+        "secondaryCreditCard": null,
+        "travelBankDetails": null,
+        "travelCertificate": null,
+        "travelCreditDetails": null,
+        "travelFutureFlightCredit": null,
+        "uplift": null
+      },
+      "inFlightContactlessPaymentEligibility": null,
+      "isCouponApplied": false,
+      "isCouponEligibleProduct": false,
+      "isHidePaymentMethod": false,
+      "isMultipleTravelerEtcFeatureClientToggleEnabled": false,
+      "omniCart": null,
+      "partialCouponEligibleMessage": null,
+      "partialCouponEligibleUrl": null,
+      "paymentAlerts": [
+      ],
+      "paymentTarget": "SEATASSIGNMENTS",
+      "pointofSale": "",
+      "prices": [
+        {
+          "billedSeperateText": null,
+          "currencyCode": "USD",
+          "displayType": "GRAND TOTAL",
+          "displayValue": "94.99",
+          "formattedDisplayValue": "$94.99",
+          "paxTypeCode": null,
+          "paxTypeDescription": null,
+          "priceIndex": "",
+          "priceType": "GRAND TOTAL",
+          "priceTypeDescription": null,
+          "productId": "",
+          "promoDetails": null,
+          "status": "",
+          "strikeThroughDescription": "",
+          "strikeThroughDisplayValue": "",
+          "totalBaseFare": "",
+          "totalOtherTaxes": "",
+          "value": 94.99,
+          "waived": false
+        }
+      ],
+      "products": [
+        {
+          "code": "SEATASSIGNMENTS",
+          "couponDetails": [
+          ],
+          "lineItems": [
+          ],
+          "prodDescription": "",
+          "prodDisplayOtherPrice": "",
+          "prodDisplaySubTotal": "",
+          "prodDisplayTaxesAndFees": "",
+          "prodDisplayTotalMiles": null,
+          "prodDisplayTotalPoints": null,
+          "prodDisplayTotalPrice": "$94.99",
+          "prodOriginalPrice": null,
+          "prodOtherPrice": "",
+          "prodTotalMiles": 0,
+          "prodTotalPoints": 0,
+          "prodTotalPrice": "94.99",
+          "segments": [
+            {
+              "productId": "",
+              "productIds": [
+              ],
+              "segmentId": "",
+              "segmentInfo": "ORD - LAS",
+              "subSegmentDetails": [
+                {
+                  "arrivalTime": "0001-01-01T00:00:00",
+                  "departureTime": "0001-01-01T00:00:00",
+                  "displayMiles": "",
+                  "displayOriginalPrice": "$0.00",
+                  "displayPrice": "$94.99",
+                  "displayStrikeOffMiles": "",
+                  "displayStrikeOffPrice": "",
+                  "flightNumber": "1527",
+                  "isPurchaseFailure": false,
+                  "miles": 0,
+                  "orginalPrice": "0.00",
+                  "passenger": "1 Traveler",
+                  "paxDetails": [
+                  ],
+                  "price": "94.99",
+                  "prodDetailDescription": [
+                  ],
+                  "productDescription": null,
+                  "promoDetails": null,
+                  "seatCode": "EPU",
+                  "segmentDescription": "Economy Plus Seat",
+                  "segmentInfo": null,
+                  "strikeOffMiles": 0,
+                  "strikeOffPrice": ""
+                }
+              ],
+              "tripId": ""
+            }
+          ],
+          "termAndCondition": {
+            "contentFull": "<b>Economy Plus</b><br/><ul><li>An Economy Plus seat purchase reserves a seat within the Preferred Zone seating area. Specific seat assignments are not guaranteed.</li><li>Any customer-requested changes to any portion of itinerary will result in loss of Economy Plus seats for the modified segments.</li><li>Economy Plus purchases are automatically refunded after scheduled departure in the event of flight cancellation. In all other cases Economy Plus purchases are nonrefundable.</li><li>Economy Plus may be repurchased, if available, for the revised portions of the itinerary.</li><li>An Economy Plus purchase is processed based on seat availability at the time of purchase.</li><li>Valid for travel on United and United Express® only. StarAlliance® or marketed codeshare flights do not provide Economy Plus seating</li><li>Offer subject to change without notice.</ul>",
+            "contentShort": "By clicking \"Agree and purchase\" you agree to all terms and conditions associated with this purchase",
+            "headLine": "United Travel Options terms and conditions",
+            "locationCode": "",
+            "title": "Terms and conditions"
+          }
+        }
+      ],
+      "profileTravelerCertificates": [
+      ],
+      "promoCodeDetails": {
+        "isDisablePromoOption": false,
+        "isHidePromoOption": false,
+        "promoCodes": [
+        ]
+      },
+      "scTravelers": [
+      ],
+      "taxes": [
+      ],
+      "termsAndConditions": [
+        {
+          "contentFull": "<b>Economy Plus</b><br/><ul><li>An Economy Plus seat purchase reserves a seat within the Preferred Zone seating area. Specific seat assignments are not guaranteed.</li><li>Any customer-requested changes to any portion of itinerary will result in loss of Economy Plus seats for the modified segments.</li><li>Economy Plus purchases are automatically refunded after scheduled departure in the event of flight cancellation. In all other cases Economy Plus purchases are nonrefundable.</li><li>Economy Plus may be repurchased, if available, for the revised portions of the itinerary.</li><li>An Economy Plus purchase is processed based on seat availability at the time of purchase.</li><li>Valid for travel on United and United Express® only. StarAlliance® or marketed codeshare flights do not provide Economy Plus seating</li><li>Offer subject to change without notice.</ul>",
+          "contentShort": "By clicking \"Agree and purchase\" you agree to all terms and conditions associated with this purchase",
+          "headLine": "United Travel Options terms and conditions",
+          "locationCode": "",
+          "title": "Terms and conditions"
+        }
+      ],
+      "totalMiles": null,
+      "totalPoints": "",
+      "totalPrice": "94.99",
+      "travelers": null,
+      "tripInfoForUplift": null,
+      "trips": [
+      ],
+      "tripShare": null,
+      "upgradeCabinProducts": [
+      ]
+    },
+    "transactionId": "910e2370-9d70-4689-861f-9687c2380be7|ed649c59-ace3-441c-8878-eef89da36454"
+  }
+
+]

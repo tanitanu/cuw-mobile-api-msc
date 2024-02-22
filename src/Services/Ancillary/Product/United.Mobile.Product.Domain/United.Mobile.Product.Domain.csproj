@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="United.Services.FlightShopping.Common" Version="2.0.0.345" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.Product\United.Common.Helper.Product.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\United.Common.Helper\United.Common.Helper.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\United.Mobile.DataAccess.DynamoDB\United.Mobile.DataAccess.DynamoDB.csproj" />
+    <ProjectReference Include="..\..\..\..\Models\United.Mobile.Model.MSC\United.Mobile.Model.MSC.csproj" />
+    <ProjectReference Include="..\..\..\MSCPayment\TravelCredit\United.Mobile.TravelCredit.Domain\United.Mobile.TravelCredit.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

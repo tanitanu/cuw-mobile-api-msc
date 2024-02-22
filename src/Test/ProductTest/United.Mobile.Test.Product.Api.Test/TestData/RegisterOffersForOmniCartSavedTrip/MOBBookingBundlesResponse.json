@@ -1,0 +1,26 @@
+[
+  {
+    "ObjectName": "United.Definition.Shopping.Bundles.MOBBookingBundlesResponse",
+    "TotalAmount": 3000,
+    "Flow": "BOOKING",
+    "SessionId": "3764e754-d7aa-47da-a42d-18655af5b98f",
+    "CartId": "8729F996-9D2D-4059-AEAA-39211ABB78F6",
+    "ClearOption": "Yes",
+    "BookingBundlesTitle": "Bundles",
+    "Products": [
+      {
+        "ProductID": "P0001",
+        "ProductCode": "WRT890",
+        "Amount": 5600,
+        "ProductIndex": 1,
+        "ProductIDs": [],
+        "BundleProductCodes": [],
+        "Detail": {
+
+        }
+
+      }
+    ]
+
+  }
+]

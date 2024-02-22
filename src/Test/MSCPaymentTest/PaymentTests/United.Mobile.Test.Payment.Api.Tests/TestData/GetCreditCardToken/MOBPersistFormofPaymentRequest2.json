@@ -1,0 +1,97 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "amount": "199.00",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.69",
+        "minor": "4.1.69"
+      }
+    },
+    "cartId": "11BE733A-E626-447B-9E86-D93EDA03D59F",
+    "checkinSessionId": "",
+    "deviceId": "640556f6-3e2d-4f8c-8644-c12a9632b867",
+    "flow": "VIEWRES",
+    "formofPaymentDetails": {
+      "billingAddress": {
+        "channel": {
+          "channelCode": "A",
+          "channelDescription": "Address",
+          "channelTypeCode": "H",
+          "channelTypeDescription": "Home"
+        },
+        "city": "Houston",
+        "country": {
+          "code": "US",
+          "name": "United States",
+          "phoneCode": "+1"
+        },
+        "isCorporate": false,
+        "isDefault": false,
+        "isPrimary": false,
+        "isPrivate": false,
+        "isTemparory": false,
+        "isValidForTPIPurchase": false,
+        "line1": "609",
+        "line2": "",
+        "line3": "",
+        "postalCode": "77002",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        }
+      },
+      "creditCard": {
+        "cardDescription": 0,
+        "cardType": "AX",
+        "cardTypeDescription": "American Express",
+        "cCName": "test",
+        "cIDCVV2": "1000",
+        "creditCardTypeCode": 0,
+        "displayCardNumber": "XXXXXXXXXXXX4564",
+        "encryptedCardNumber": "ezK/DRoE5V5BDeti6GapNQ48URqQN0NnwjKqXUrdG0ceS02XyPdP33FuORo7adh3KZP7X4+HqN2V\n0YxhqwzxA+h3tGnvnrvvLKDVGUi4ZMMRziP5TR2gF/HIdpoI21CgIN9nFWO5vJWvW3PzebXM/6Gs\nG+d9K/KwgkqlXzegZ8KKkm9ybxIErzaRTwmobgewNugKG4eRrC4DVut9WgHss5MLQOmj7/Ea/REX\nkoi8DGGx8rV7zOiA80B9/dWf6dYAGkpIYEIwg/cn2CmUyHdq3ftj911ECjXuC1jMdiYgwQ4i8kSE\nAIe3khr4BSJQRXAsu1MKBiMUIj6ZZwmUr2x4WA==\n",
+        "expireMonth": "01",
+        "expireYear": "39",
+        "groupPaymentType": 0,
+        "inputCapability": 0,
+        "isCorporate": false,
+        "isMandatory": false,
+        "isOAEPPaddingCatalogEnabled": true,
+        "isPrimary": false,
+        "isTemparory": false,
+        "isValidForTPIPurchase": false,
+        "pinEntryCapability": 0,
+        "terminalAttended": 0,
+        "terminalCardholderActivated": 0,
+        "unencryptedCardNumber": "XXXXXXXXXXXX4564",
+        "walletCategory": 0
+      },
+      "email": {
+        "emailAddress": "xyz@gmai.com",
+        "isDefault": false,
+        "isPrimary": false,
+        "isPrivate": false
+      },
+      "emailAddress": "xyz@gmai.com",
+      "formOfPaymentType": "CREDITCARD",
+      "isOtherFOPRequired": false,
+      "phone": {
+        "areaNumber": "906",
+        "channelTypeSeqNumber": 0,
+        "countryCode": "US",
+        "customerId": 0,
+        "isPrimary": false,
+        "isPrivate": false,
+        "isProfileOwner": false,
+        "phoneNumber": "4897325"
+      }
+    },
+    "isCCSelectedForContactless": true,
+    "languageCode": "en-US",
+    "sessionId": "230CFAEF599E4334AFA83D9C4C0C1BAE",
+    "transactionId": "640556f6-3e2d-4f8c-8644-c12a9632b867|8d7b36b2-11b1-4048-839f-a1b0b7aa2404"
+  }
+]

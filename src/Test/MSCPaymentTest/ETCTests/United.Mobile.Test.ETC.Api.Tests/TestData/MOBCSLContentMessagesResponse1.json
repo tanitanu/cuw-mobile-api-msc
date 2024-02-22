@@ -1,0 +1,18 @@
+{
+  "Messages": [
+    {
+      "Title": "RTI.FutureFlightCredits.EmailConfirmation"
+    }
+  ],
+      "Errors": [
+        {
+          "MajorCode": "4.1.22",
+          "MajorDescription": "not valid",
+          "MinorCode": "2.1.34",
+          "MinorDescription": "not valid",
+          "Message": "failure",
+          "CallTime": "04:00"
+
+        }
+      ]
+    }

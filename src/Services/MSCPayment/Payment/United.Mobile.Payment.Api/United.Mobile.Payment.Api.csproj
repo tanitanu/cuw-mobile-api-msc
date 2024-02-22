@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <UserSecretsId>584c61a9-a5bb-41bc-bd01-905df0b43b21</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..\..\..</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.16" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
+
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
+
+    <PackageReference Include="United.Services.FlightShopping.Common" Version="2.0.0.345" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\United.Utility.Middleware\United.Utility.Middleware.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\United.Utility\United.Utility.csproj" />
+    <ProjectReference Include="..\..\..\..\Models\United.Mobile.Model.MSC\United.Mobile.Model.MSC.csproj" />
+    <ProjectReference Include="..\United.Mobile.Payment.Domain\United.Mobile.Payment.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="deeplink\MasterpassReturn.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+	<None Update="deeplink\PartnerProvisionCancel.html">
+		<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	</None>
+	<None Update="deeplink\PartnerProvisionReturn.html">
+		<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	</None>
+    <None Update="deeplink\PayPalCancel.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="deeplink\PayPalReturn.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+
+</Project>

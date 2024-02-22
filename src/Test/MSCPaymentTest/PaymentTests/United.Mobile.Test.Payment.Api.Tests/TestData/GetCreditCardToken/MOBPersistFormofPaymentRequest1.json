@@ -1,0 +1,98 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "amount": "88.60",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.68",
+        "minor": "4.1.68"
+      }
+    },
+    "cartId": "CD561473-82B6-4E6F-ACC4-6DA46612A626",
+    "checkinSessionId": "",
+    "deviceId": "7e34ca88-600b-4cf8-a381-52079bac1e77",
+    "flow": "BOOKING",
+    "formofPaymentDetails": {
+      "billingAddress": {
+        "channel": {
+          "channelCode": "A",
+          "channelDescription": "Address",
+          "channelTypeCode": "H",
+          "channelTypeDescription": "Home"
+        },
+        "city": "houston",
+        "country": {
+          "code": "US",
+          "name": "United States",
+          "phoneCode": "+1"
+        },
+        "isCorporate": false,
+        "isDefault": false,
+        "isPrimary": false,
+        "isPrivate": false,
+        "isTemparory": false,
+        "isValidForTPIPurchase": false,
+        "line1": "609 main street",
+        "line2": "",
+        "line3": "",
+        "postalCode": "77002",
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        }
+      },
+      "creditCard": {
+        "cardDescription": 0,
+        "cardType": "VI",
+        "cardTypeDescription": "Visa",
+        "cCName": "test",
+        "cIDCVV2": "123",
+        "creditCardTypeCode": 0,
+        "displayCardNumber": "XXXXXXXXXXXX5678",
+        "encryptedCardNumber": "aFP9K4Fhrs1IPK6M9Rig1cHzKVayas506NkyGnS5+WawvKn/LeJZVAAOdn0OoPfHGpxcJudu2Fw4\nvzNUxD2eoercn+OPlIQfOwvYD1+1u0JdWTiwLc3vC9c+haIypnzz6FJCiezD66q/nqwEL8Dh/BjY\n9IyNk7EG4e/p14Jvr3r7B0hkkMI/+h8jF8DgeA+aC1jE2ttr8i6oGZQik4gYFG1YtyZp3O4KRmLt\n5sLsrF3qc/s57Mjw2Cls0PVRXNIqD50ppZnJmuVDtKoARRYlWj0W79BD8kzXGKDthExi9gy0y9iD\nm6jJ2t8jgsjKXQYUK+QOek8BPoElK/CEnabqRQ==\n",
+        "expireMonth": "01",
+        "expireYear": "39",
+        "groupPaymentType": 0,
+        "inputCapability": 0,
+        "isCorporate": false,
+        "isMandatory": false,
+        "isOAEPPaddingCatalogEnabled": true,
+        "isPrimary": false,
+        "isTemparory": false,
+        "isValidForTPIPurchase": false,
+        "kid": "3ca7bd2e-892b-408f-9120-59ced3dfcb4e",
+        "pinEntryCapability": 0,
+        "terminalAttended": 0,
+        "terminalCardholderActivated": 0,
+        "unencryptedCardNumber": "XXXXXXXXXXXX5678",
+        "walletCategory": 0
+      },
+      "email": {
+        "emailAddress": "nishmitha.mallangi@dxc.com",
+        "isDefault": false,
+        "isPrimary": false,
+        "isPrivate": false
+      },
+      "emailAddress": "nishmitha.mallangi@dxc.com",
+      "formOfPaymentType": "CREDITCARD",
+      "isOtherFOPRequired": false,
+      "phone": {
+        "areaNumber": "872",
+        "channelTypeSeqNumber": 0,
+        "countryCode": "US",
+        "customerId": 0,
+        "isPrimary": false,
+        "isPrivate": false,
+        "isProfileOwner": false,
+        "phoneNumber": "871101"
+      }
+    },
+    "isCCSelectedForContactless": true,
+    "languageCode": "en-US",
+    "sessionId": "CD56147382B64E6FACC46DA46612A626",
+    "transactionId": "7e34ca88-600b-4cf8-a381-52079bac1e77|5172303f-72c7-4e7a-a753-3b6b2c6ebca6"
+  }
+]

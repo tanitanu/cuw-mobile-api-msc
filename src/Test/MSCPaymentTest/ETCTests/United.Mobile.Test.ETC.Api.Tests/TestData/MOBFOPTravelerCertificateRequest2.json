@@ -1,0 +1,49 @@
+[
+  {
+    "Application": {
+      "Id": 1,
+      "Name": "XYZ",
+      "Version": {
+        "Major": "4.2.1",
+        "SessionId": "45744EF6B1DF4864B3DEF4BF86135BA4"
+      }
+    },
+
+    "Certificate": {
+      "pinCode": "52100",
+      "yearIssued": "202233",
+      "recipientsLastName": "raj",
+      "recipientsFirstName": "anil",
+      "travelerNameIndex": "2",
+      "redeemAmount": 3.0,
+      "initialValue": 4.0,
+      "currentValue": 2.0,
+      "isForAllTravelers": true,
+      "newValueAfterRedeem": 2.0,
+      "displayRedeemAmount": "yes",
+      "displayNewValueAfterRedeem": "yes",
+      "index": 1,
+      "certificateTraveler": {
+
+        "travelerNameIndex": "1",
+        "name": "raj",
+        "isCertificateApplied": true,
+        "individualTotalAmount": 3.0,
+        "paxID": 0
+      }
+
+    },
+    "combineCertificates": [
+      {
+        "pinCode": "52100",
+        "yearIssued": "2022"
+      }
+    ],
+
+    "certificateButtonText": "ABC",
+    "totalRedeemAmount": "2.0",
+    "displayTotalRedeemAmountText": "XYZ",
+    "maxNumberOfETCsAllowed": 1,
+    "isRemove": false
+  }
+]

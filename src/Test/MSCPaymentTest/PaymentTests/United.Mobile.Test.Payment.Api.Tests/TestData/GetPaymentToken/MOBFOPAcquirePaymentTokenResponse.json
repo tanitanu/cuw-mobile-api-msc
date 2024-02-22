@@ -1,0 +1,13 @@
+{
+  "cartId": "9525D3D2-C824-4C3E-BEA5-5E91F871F82D",
+  "token": "https://www.sandbox.paypal.com/checkoutnow?token=EC-5VR14514GW1906331",
+  "cslSessionId": "",
+  "sessionId": "9525D3D2C8244C3EBEA55E91F871F82D",
+  "checkinSessionId": "",
+  "flow": "BOOKING",
+  "transactionId": "ebe225b1-c4a6-42dc-8d1b-77c720a1ccf5|3181ead7-6603-4a04-b730-0d79c5c019ee",
+  "languageCode": "en-US",
+  "machineName": "03",
+  "callDuration": 0,
+  "exception": null
+}

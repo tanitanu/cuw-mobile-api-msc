@@ -1,0 +1,17 @@
+[
+  {
+    "flow": "",
+    "state": "Telanagana",
+    "hideInflightPurchaseSection": true,
+    "isEligibleToAddNewCCForInflightPurchase": true,
+    "publicDispenserKey": "",
+    "productInfo": [
+      {
+        "productDetail": "",
+        "flights": ""
+      }
+    ]
+  }
+]
+
+      

@@ -1,0 +1,36 @@
+{
+  "ObjectName": "United.Persist.Definition.Merchandizing.GetOffers",
+  "Offers": [
+    {
+      "ProductInformation": {
+        "ProductDetails": [
+          {
+            "Product": {
+              "PaymentDetails": [
+                {
+                  "Code": "TPI",
+                  "SubProducts": [
+                    {
+                      "SubGroupCode": "yu89",
+                      "GroupCode": "TY67",
+                      "IsDefault": "true",
+                      "ID": "2",
+                      "Region": "Medi",
+                      "Name": "XYZ",
+                      "Prices": [
+                        {
+                          "ID": "2"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "Code" : ""
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="United.Services.FlightShopping.Common" Version="2.0.0.345" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Core\Common\United.Common.Helper.MSCPayment\United.Common.Helper.MSCPayment.csproj" />
+    <ProjectReference Include="..\..\..\..\Core\United.Common.Helper\United.Common.Helper.csproj" />
+    <ProjectReference Include="..\..\..\..\DataAccess\MSCPayment\United.Mobile.DataAccess.MSCPayment\United.Mobile.DataAccess.MSCPayment.csproj" />
+    <ProjectReference Include="..\..\..\..\Models\United.Mobile.Model.MSC\United.Mobile.Model.MSC.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+[
+  {
+    "MOBBookingBundlesResponse": {
+      "TransactionId": "",
+      "LanguageCode": "en-US",
+      "MachineName": "03",
+      "CallDuration": "0",
+      "BookingBundlesTitle": "Traveler Information",
+      "TotalAmount": "0",
+      "ClearOption": "CLEARBUNDLES",
+      "_xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+    }
+  }
+]

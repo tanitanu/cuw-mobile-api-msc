@@ -1,0 +1,54 @@
+[
+  {
+    "hashPinCode": "98A3562A3BE781050042C85CEFD8A1BE2B178192",
+    "lastName": "LSDM",
+    "mileagePlusNumber": "AY305211",
+    "override24HrFlex": false,
+    "overrideATREEligible": false,
+    "recordLocator": "FYEVHG",
+    "sessionId": "CC9CE97C4C2544D48396FA85F479D244",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.41",
+        "minor": "4.1.41"
+      }
+    },
+    "deviceId": "2a04f532-614d-4fa8-a284-856e72798008",
+    "languageCode": "en-US",
+    "transactionId": "2a04f532-614d-4fa8-a284-856e72798008|588dd5bb-7831-4123-b8fd-4ba324136ecf",
+    "CartId": "",
+    "IsOmniCartSavedTripFlow": true,
+    "IsRemove": true,
+    "Flow": "Booking"
+  },
+  {
+    "hashPinCode": "98A3562A3BE781050042C85CEFD8A1BE2B178192",
+    "lastName": "LSDM",
+    "mileagePlusNumber": "AY305211",
+    "override24HrFlex": false,
+    "overrideATREEligible": false,
+    "recordLocator": "FYEVHG",
+    "sessionId": "CC9CE97C4C2544D48396FA85F479D244",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.41",
+        "minor": "4.1.41"
+      }
+    },
+    "deviceId": "2a04f532-614d-4fa8-a284-856e72798008",
+    "languageCode": "en-US",
+    "transactionId": "2a04f532-614d-4fa8-a284-856e72798008|588dd5bb-7831-4123-b8fd-4ba324136ecf",
+     "CartId": "375D3212-9BFF-42F7-94A6-42342E2E24D2",
+    "IsOmniCartSavedTripFlow": false,
+    "IsRemove": false
+  }
+]
+

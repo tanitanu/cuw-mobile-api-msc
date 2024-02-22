@@ -1,0 +1,2152 @@
+﻿[
+  {
+    "Reservation": {
+      "SearchType": "OW",
+      "FlightShareMessage": "United itinerary: Apr 20, 1 traveler, one way, Economy. Flight 2246 from ORD to IAH .",
+      "PKDispenserPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA80JAOtzR9OLzEBxujnjZu/tFVRy4wtQUGLJHgG1oSzzolE0x3m5NhaKxk4eqcncGnfqYjqZAL7wZpBarOfEA5nGhceFwjl0L5E/I7Wb6Y5pu2vKXjmTw2IHvz7O1DnnIELpD1dxFwrNCxq7jnkqnjrx3IQ1zHGnQJYYJLLM6Uts6dmSElVimcTyO4ugtT9abPVrPKNpP+kbLS5o8MKW/Q+T+HjQ0FcPN8uG1ame9Q9k7w/SpT1yUtNDwylZUlk8FlMPZCjjdW2qBjsKT2cP1HvvLUme5aqiO3XGrzNVjVSvTFLYkDtcKPL7yMLn9NMfY/ig36sN1LwGZczS66DE3BwIDAQAB",
+      "ObjectName": "United.Persist.Definition.Shopping.Reservation",
+      "SessionId": "45744EF6B1DF4864B3DEF4BF86135BA4",
+      "CartId": "45744EF6-B1DF-4864-B3DE-F4BF86135BA4",
+      "IsSignedInWithMP": "true",
+      "Trips": {
+        "MOBSHOPTrip": {
+          "Origin": "ORD",
+          "Destination": "IAH",
+          "DepartDate": "04/20/2022",
+          "ArrivalDate": "04/20/2022",
+          "Cabin": "",
+          "UseFilters": "false",
+          "SearchNearbyOriginAirports": "false",
+          "SearchNearbyDestinationAirports": "false",
+          "ShareMessage": "",
+          "ChangeType": "ChangeFlight",
+          "YqyrMessage": "",
+          "TripId": "0K2cloyUZkPQPxlsj0QSsLQ",
+          "OriginDecoded": "Chicago, IL (ORD)",
+          "DestinationDecoded": "Houston, TX (IAH)",
+          "FlattenedFlights": {
+            "MOBSHOPFlattenedFlight": {
+              "TripId": "0K2cloyUZkPQPxlsj0QSsLQ",
+              "FlightId": "GkmeMfQojjYgfpBd",
+              "CabinMessage": "",
+              "ProductId": "",
+              "Flights": {
+                "MOBSHOPFlight": {
+                  "FlightSegmentAlerts": "",
+                  "IsChangeFeeWaiver": "false",
+                  "IsCovidTestFlight": "false",
+                  "OriginStateCode": "IL",
+                  "DestinationStateCode": "TX",
+                  "IsAddcollectWaived": "false",
+                  "CorporateFareIndicator": "",
+                  "MilesDisplayValue": "",
+                  "CabinDisclaimer": "",
+                  "AvailSeatsDisclaimer": "",
+                  "PreferredCabinName": "",
+                  "PreferredCabinMessage": "",
+                  "OvernightConnection": "",
+                  "ShowSeatMap": "false",
+                  "IsStopOver": "false",
+                  "TripId": "0K2cloyUZkPQPxlsj0QSsLQ",
+                  "FlightId": "GkmeMfQojjYgfpBd",
+                  "ProductId": "",
+                  "Airfare": "134.0",
+                  "AirfareDisplayValue": "$134",
+                  "SeatsRemaining": "0",
+                  "Cabin": "Coach",
+                  "ChangeOfGauge": "false",
+                  "GaugeChanges": "",
+                  "Connections": "",
+                  "ConnectTimeMinutes": "",
+                  "DepartDate": "Wed., Apr. 20, 2022",
+                  "DepartTime": "5:45am",
+                  "Destination": "IAH",
+                  "DestinationDate": "Wed., Apr. 20, 2022",
+                  "DestinationTime": "8:38am",
+                  "DestinationDescription": "Houston, TX (IAH)",
+                  "DestinationCountryCode": "US",
+                  "EquipmentDisclosures": {
+                    "EquipmentDescription": "Boeing 737-900",
+                    "EquipmentType": "739",
+                    "IsSingleCabin": "false",
+                    "NoBoardingAssistance": "false",
+                    "NonJetEquipment": "false",
+                    "WheelchairsNotAllowed": "false"
+                  },
+                  "FareBasisCode": "TAX2PFEN",
+                  "FlightNumber": "2246",
+                  "GroundTime": "0",
+                  "InternationalCity": "",
+                  "IsCheapestAirfare": "false",
+                  "IsConnection": "false",
+                  "MarketingCarrier": "UA",
+                  "MarketingCarrierDescription": "United Airlines",
+                  "Miles": "925",
+                  "OperatingCarrier": "UA",
+                  "OperatingCarrierDescription": "",
+                  "Origin": "ORD",
+                  "OriginDescription": "Chicago, IL (ORD)",
+                  "OriginCountryCode": "US",
+                  "Rewards": "",
+                  "RewardPriceSummaries": "",
+                  "Selected": "false",
+                  "StopDestination": "",
+                  "StopInfos": "",
+                  "Stops": "0",
+                  "TravelTime": "2h 53m",
+                  "TotalTravelTime": "2h 53m",
+                  "Messages": {
+                    "MOBSHOPMessage": [
+                      {
+                        "TripId": "",
+                        "FlightId": "",
+                        "ConnectionIndex": "",
+                        "FlightNumberField": "",
+                        "MessageCode": "United Economy (T)",
+                        "MessageParameters": ""
+                      },
+                      {
+                        "TripId": "",
+                        "FlightId": "",
+                        "ConnectionIndex": "",
+                        "FlightNumberField": "",
+                        "MessageCode": "Snacks for Purchase",
+                        "MessageParameters": ""
+                      }
+                    ]
+                  },
+                  "Meal": "Snacks for Purchase",
+                  "FPWSAir": "false",
+                  "ServiceClass": "T",
+                  "ServiceClassDescription": "United Economy",
+                  "EPAMessageTitle": "",
+                  "EPAMessage": "",
+                  "ShowEPAMessage": "false",
+                  "IsCheckInWindow": "false",
+                  "CheckInWindowText": "",
+                  "DepartureDateTime": "04/20/2022 05:45 AM",
+                  "ArrivalDateTime": "04/20/2022 08:38 AM",
+                  "DepartureDateTimeGMT": "04/20/2022 11:45 AM",
+                  "ArrivalDateTimeGMT": "04/20/2022 02:38 PM",
+                  "MatchServiceClassRequested": "false",
+                  "HasInSeatPower": "false",
+                  "HasWifi": "false",
+                  "HasDirecTV": "false",
+                  "HasAVOnDemand": "false",
+                  "HasBeverageService": "false",
+                  "HasEconomyLieFlatSeating": "false",
+                  "HasEconomyMeal": "false",
+                  "HasFirstClassMeal": "false",
+                  "HasFirstClassLieFlatSeating": "false",
+                  "ShoppingProducts": {
+                    "MOBSHOPShoppingProduct": {
+                      "ProductId": "5NSet6QzgxKQHBTwKpnobM007",
+                      "Type": "ECONOMY",
+                      "SubType": "",
+                      "LongCabin": "",
+                      "Cabin": "",
+                      "Description": "",
+                      "Price": "$134",
+                      "MilesDisplayValue": "",
+                      "PriceAmount": "134.0",
+                      "MilesDisplayAmount": "0",
+                      "Meal": "Snacks for Purchase",
+                      "ProductDetail": {
+                        "Title": "",
+                        "Header": "",
+                        "Body": "",
+                        "ProductDetails": "",
+                        "ProductDetailsFsrRedesign": "",
+                        "PqdText": "",
+                        "PqmText": "",
+                        "RdmText": "",
+                        "ProductCabinMessages": ""
+                      },
+                      "IsMixedCabin": "false",
+                      "MixedCabinSegmentMessages": "",
+                      "AwardType": "",
+                      "AllCabinButtonText": "",
+                      "IsSelectedCabin": "false",
+                      "MileageButton": "-1",
+                      "SeatsRemaining": "0",
+                      "PqdText": "",
+                      "PqmText": "",
+                      "RdmText": "",
+                      "ISPremierCabinSaver": "false",
+                      "IsUADiscount": "false",
+                      "IsELF": "false",
+                      "CabinType": "Coach",
+                      "PriceFromText": "for",
+                      "IsIBELite": "false",
+                      "IsIBE": "false",
+                      "ProductCode": "",
+                      "ProductBadges": ""
+                    }
+                  },
+                  "SegID": "",
+                  "SegmentNumber": "0",
+                  "FlightDepartureDays": "",
+                  "FlightArrivalDays": "",
+                  "PqdText": "",
+                  "PqmText": "",
+                  "RdmText": "",
+                  "YqyrMessage": "",
+                  "GovtMessage": "",
+                  "IsAwardSaver": "false",
+                  "RedEyeFlightDepDate": "",
+                  "NextDayFlightArrDate": "",
+                  "FlightDateChanged": "false",
+                  "TripIndex": "1",
+                  "FlightHash": "110-2246-UA",
+                  "AirportChange": "",
+                  "OperatingCarrierFlightNumber": "2246",
+                  "LineOfFlightMessage": "United Economy (T) / Snacks for Purchase"
+                }
+              },
+              "TripDays": "",
+              "IsUADiscount": "false",
+              "IsAddcollectWaived": "false",
+              "FlightHash": "110-2246-UA",
+              "IsIBELite": "false",
+              "IsIBE": "false",
+              "IsElf": "false",
+              "IsChangeFeeWaiver": "false",
+              "IsCovidTestFlight": "false",
+              "FlightLabelTextList": "",
+              "FlightBadges": ""
+            }
+          },
+          "FlightSections": "",
+          "FlightCount": "1",
+          "TotalFlightCount": "0",
+          "LastTripIndexRequested": "0",
+          "Columns": "",
+          "CallDurationText": "",
+          "PageCount": "0",
+          "FlightDateChangeMessage": "Please note this flight involves a date change:",
+          "TripHasNonStopflightsOnly": "false"
+        }
+      },
+      "Prices": {
+        "MOBSHOPPrice": [
+          {
+            "PaxTypeCode": "ADT",
+            "Waived": "false",
+            "Status": "",
+            "PriceIndex": "",
+            "CurrencyCode": "USD",
+            "PriceType": "",
+            "DisplayType": "TRAVELERPRICE",
+            "DisplayValue": "110.70",
+            "TotalBaseFare": "",
+            "TotalOtherTaxes": "",
+            "FormattedDisplayValue": "$110.70",
+            "Value": "110.7",
+            "PriceTypeDescription": "Fare Oneway (1 adult)"
+          },
+          {
+            "Waived": "false",
+            "Status": "",
+            "PriceIndex": "",
+            "CurrencyCode": "USD",
+            "PriceType": "",
+            "DisplayType": "TOTAL",
+            "DisplayValue": "133.60",
+            "TotalBaseFare": "",
+            "TotalOtherTaxes": "",
+            "FormattedDisplayValue": "$133.60",
+            "Value": "133.6",
+            "PriceTypeDescription": "total"
+          },
+          {
+            "Waived": "false",
+            "Status": "",
+            "PriceIndex": "",
+            "CurrencyCode": "USD",
+            "PriceType": "GRAND TOTAL",
+            "DisplayType": "GRAND TOTAL",
+            "DisplayValue": "0.00",
+            "TotalBaseFare": "",
+            "TotalOtherTaxes": "",
+            "FormattedDisplayValue": "$0.00",
+            "Value": "0"
+          },
+          {
+            "Waived": "false",
+            "Status": "",
+            "PriceIndex": "",
+            "CurrencyCode": "USD",
+            "PriceType": "",
+            "DisplayType": "TOTALPRICEFORUPLIFT",
+            "DisplayValue": "133.60",
+            "TotalBaseFare": "",
+            "TotalOtherTaxes": "",
+            "FormattedDisplayValue": "$133.60",
+            "Value": "133.6"
+          },
+          {
+            "Waived": "false",
+            "Status": "",
+            "PriceIndex": "",
+            "CurrencyCode": "USD",
+            "PriceType": "FFC",
+            "DisplayType": "FFC",
+            "DisplayValue": "133.60",
+            "TotalBaseFare": "",
+            "TotalOtherTaxes": "",
+            "FormattedDisplayValue": "-$133.60",
+            "Value": "133.6",
+            "PriceTypeDescription": "Future Flight Credit"
+          },
+          {
+            "Waived": "false",
+            "Status": "RESIDUALCREDIT",
+            "PriceIndex": "",
+            "CurrencyCode": "USD",
+            "PriceType": "REFUNDPRICE",
+            "DisplayType": "REFUNDPRICE",
+            "DisplayValue": "915.00",
+            "TotalBaseFare": "",
+            "TotalOtherTaxes": "",
+            "FormattedDisplayValue": "$915.00",
+            "Value": "915",
+            "PriceTypeDescription": "Total Credit"
+          }
+        ]
+      },
+      "Taxes": "",
+      "TravelerKeys": {
+        "string": [
+          "0"
+        ]
+      },
+      "TravelersCSL": {
+        "item": {
+          "key": {
+            "string": [
+              "0"
+            ]
+          },
+          "value": {
+            "MOBCPTraveler": [
+              {
+                "TotalFFCNewValueAfterRedeem": "$915.00",
+                "FutureFlightCredits": {
+                  "MOBFOPFutureFlightCredit": {
+                    "IsEligibleToRedeem": "false",
+                    "IsNameMatch": "false",
+                    "IsNameMatchWaiverApplied": "false",
+                    "IsTravelDateBeginsBeforeCertExpiry": "false",
+                    "PromoCode": "22FFCR",
+                    "PaxId": "1",
+                    "CreditAmount": "$1,048.60",
+                    "RecordLocator": "N997RK",
+                    "ExpiryDate": "February 07, 2023",
+                    "IsRemove": "false",
+                    "IsCertificateApplied": "true",
+                    "Index": "1",
+                    "NewValueAfterRedeem": "915",
+                    "RedeemAmount": "133.6",
+                    "DisplayRedeemAmount": "$133.60",
+                    "DisplayNewValueAfterRedeem": "$915.00",
+                    "CurrentValue": "133.6",
+                    "InitialValue": "1048.6",
+                    "PinCode": "9HK36U36AB",
+                    "RecipientsLastName": "Jeste",
+                    "RecipientsFirstName": "testsam",
+                    "TravelerNameIndex": "1.1"
+                  }
+                },
+                "CslReservationPaxTypeCode": "ADT",
+                "IndividualTotalAmount": "133.6",
+                "PTCDescription": "Adult (18-64)",
+                "IsEligibleForSeatSelection": "true",
+                "Nationality": "MX",
+                "CountryOfResidence": "MX",
+                "EmployeeId": "",
+                "Title": "Mr.",
+                "FirstName": "test",
+                "MiddleName": "sam",
+                "LastName": "Jeste",
+                "Suffix": "",
+                "GenderCode": "M",
+                "BirthDate": "08/31/1988",
+                "IsProfileOwner": "true",
+                "IsDeceased": "false",
+                "IsExecutive": "false",
+                "CurrentEliteLevel": "2",
+                "Key": "tfdC5fd7RINqhNIAk8jrdkJdERtajz5xw68N0FyEN88=",
+                "CustomerId": "122891368",
+                "ProfileId": "59273512",
+                "ProfileOwnerId": "122891368",
+                "MileagePlus": {
+                  "AccountBalance": "600000",
+                  "ActiveStatusCode": "A",
+                  "ActiveStatusDescription": "ACTIVE",
+                  "AllianceEliteLevel": "1",
+                  "ClosedStatusCode": "O",
+                  "ClosedStatusDescription": "OPEN",
+                  "CurrentEliteLevel": "2",
+                  "CurrentEliteLevelDescription": "Premier Gold",
+                  "CurrentYearMoneySpent": "0.0",
+                  "EliteMileageBalance": "0",
+                  "EliteSegmentBalance": "0",
+                  "EliteSegmentDecimalPlaceValue": "0",
+                  "EncryptedPin": "",
+                  "EnrollDate": "11/12/2014",
+                  "EnrollSourceCode": "IN15",
+                  "EnrollSourceDescription": "2002 CO.COM NEW BOOKING SITE",
+                  "FlexPqmBalance": "0",
+                  "FutureEliteLevel": "0",
+                  "FutureEliteDescription": "Premier Gold",
+                  "InstantEliteExpirationDate": "Premier Gold",
+                  "IsCEO": "false",
+                  "IsClosedPermanently": "false",
+                  "IsClosedTemporarily": "false",
+                  "IsCurrentTrialEliteMember": "false",
+                  "IsFlexPqm": "false",
+                  "IsInfiniteElite": "false",
+                  "IsLifetimeCompanion": "false",
+                  "IsLockedOut": "false",
+                  "IsMergePending": "false",
+                  "IsUnitedClubMember": "false",
+                  "IsPresidentialPlus": "false",
+                  "Key": "ono93YORwA+uRMQOPqinEA==",
+                  "LastActivityDate": "2/25/2022 12:00:00 AM",
+                  "LastExpiredMile": "0",
+                  "LastFlightDate": "",
+                  "LastStatementBalance": "0",
+                  "LastStatementDate": "12/31/2019",
+                  "LifetimeEliteLevel": "0",
+                  "LifetimeEliteMileageBalance": "0",
+                  "MileageExpirationDate": "8/31/2023 12:00:00 AM",
+                  "NextYearEliteLevel": "0",
+                  "NextYearEliteLevelDescription": "",
+                  "MileagePlusId": "CF207075",
+                  "MileagePlusPin": "",
+                  "PriorUnitedAccountNumber": "",
+                  "StarAllianceEliteLevel": "0",
+                  "MpCustomerId": "122891368",
+                  "TravelBankBalance": "0"
+                },
+                "SecureTravelers": {
+                  "MOBCPSecureTraveler": {
+                    "BirthDate": "08/31/1988",
+                    "CustomerId": "122891368",
+                    "Description": "",
+                    "DecumentType": "C",
+                    "FirstName": "test",
+                    "Gender": "M",
+                    "Key": "vSoqadMmDmaYqqVQzRz+kQ==",
+                    "LastName": "jeste",
+                    "MiddleName": "sam",
+                    "Suffix": "",
+                    "KnownTravelerNumber": "135628698",
+                    "RedressNumber": "",
+                    "SequenceNumber": "1"
+                  }
+                },
+                "AirRewardPrograms": {
+                  "MOBBKLoyaltyProgramProfile": {
+                    "RewardProgramKey": "QFPc/Vsw0BPec+//PogL8w==",
+                    "CarrierCode": "UA",
+                    "ProgramId": "7",
+                    "ProgramName": "United MileagePlus",
+                    "MemberId": "CF207075",
+                    "MemberTierDescription": "",
+                    "MemberTierLevel": "",
+                    "MPEliteLevel": "2",
+                    "StarEliteLevel": ""
+                  }
+                },
+                "Addresses": {
+                  "MOBAddress": [
+                    {
+                      "Key": "MIROPH4pgvFGyqGBayTtCSHxzCCJ8NLfHgqWUK1N3pVNRrdZfMVjTE/IMUlMlqOe",
+                      "Channel": {
+                        "ChannelCode": "A",
+                        "ChannelDescription": "Address",
+                        "ChannelTypeCode": "H",
+                        "ChannelTypeDescription": "Home"
+                      },
+                      "CompanyName": "",
+                      "JobTitle": "",
+                      "Line1": "395 Lane",
+                      "Line2": "",
+                      "Line3": "",
+                      "ApartmentNumber": "",
+                      "City": "Chicago",
+                      "State": {
+                        "Code": "IL",
+                        "Name": ""
+                      },
+                      "Country": {
+                        "Code": "US",
+                        "Name": "United States",
+                        "PhoneCode": ""
+                      },
+                      "IsPrivate": "false",
+                      "IsDefault": "false",
+                      "IsPrimary": "true",
+                      "PostalCode": "60606",
+                      "IsCorporate": "false",
+                      "IsValidForTPIPurchase": "true"
+                    },
+                    {
+                      "Key": "yRwLiOCXms22zv47fCEJDhJzL4J5ogrBCbxR0R4JyXxPi8yBG8mVWULVYWbLxhE4",
+                      "Channel": {
+                        "ChannelCode": "A",
+                        "ChannelDescription": "Address",
+                        "ChannelTypeCode": "H",
+                        "ChannelTypeDescription": "Home"
+                      },
+                      "CompanyName": "",
+                      "JobTitle": "",
+                      "Line1": "1600 smith st",
+                      "Line2": "",
+                      "Line3": "",
+                      "ApartmentNumber": "",
+                      "City": "houston",
+                      "State": {
+                        "Code": "TX",
+                        "Name": ""
+                      },
+                      "Country": {
+                        "Code": "US",
+                        "Name": "United States",
+                        "PhoneCode": ""
+                      },
+                      "IsPrivate": "false",
+                      "IsDefault": "false",
+                      "IsPrimary": "false",
+                      "PostalCode": "77002-7362",
+                      "IsCorporate": "false",
+                      "IsValidForTPIPurchase": "true"
+                    }
+                  ]
+                },
+                "AirPreferences": {
+                  "MOBPrefAirPreference": {
+                    "CustomerId": "122891368",
+                    "ProfileId": "59273512",
+                    "AirPreferenceId": "62541626",
+                    "Key": "tfdC5fd7RINqhNIAk8jrdu5s2n0cSxYM7zffl4Up7/k=",
+                    "MealId": "1",
+                    "MealCode": "--",
+                    "MealDescription": "No Preference",
+                    "SeatFrontBack": "0",
+                    "SeatSide": "0",
+                    "SeatSideDescription": "No Preference",
+                    "NumOfFlightsDisplay": "10",
+                    "SearchPreferenceId": "1",
+                    "SearchPreferenceDescription": "Price",
+                    "EquipmentId": "1",
+                    "EquipmentCode": "NONE",
+                    "EquipmentDesc": "No Preference",
+                    "ClassId": "1",
+                    "ClassDescription": "No Preference",
+                    "AirportCode": "",
+                    "AirportNameLong": "",
+                    "AirportNameShort": "",
+                    "VendorId": "1106",
+                    "VendorCode": "UA",
+                    "VendorDescription": "United",
+                    "IsNew": "false",
+                    "IsSelected": "false",
+                    "IsActive": "true",
+                    "LanguageCode": "",
+                    "AirRewardPrograms": {
+                      "MOBPrefRewardProgram": {
+                        "CustomerId": "122891368",
+                        "ProfileId": "59273512",
+                        "PreferenceId": "0",
+                        "Key": "",
+                        "ProgramMemberId": "CF207075",
+                        "SourceDescription": "",
+                        "SourceCode": "",
+                        "VendorCode": "UA",
+                        "VendorDescription": "United",
+                        "ProgramId": "0",
+                        "ProgramCode": "",
+                        "ProgramDescription": "",
+                        "ProgramType": "",
+                        "IsSelected": "false",
+                        "IsNew": "false",
+                        "IsValidNumber": "false"
+                      }
+                    }
+                  }
+                },
+                "EmailAddresses": {
+                  "MOBEmail": {
+                    "Key": "h/fmFjS05wKPIGp7alom77KPNNOW4NIzdSFZzr/vrMden8NhJcifc4bQLKlSfvp5",
+                    "Channel": {
+                      "ChannelCode": "E",
+                      "ChannelDescription": "Email",
+                      "ChannelTypeCode": "O",
+                      "ChannelTypeDescription": "Other"
+                    },
+                    "EmailAddress": "sundar.busi@united.com",
+                    "IsPrivate": "false",
+                    "IsDefault": "false",
+                    "IsPrimary": "false",
+                    "IsDayOfTravel": "true"
+                  }
+                },
+                "CreditCards": {
+                  "MOBCreditCard": [
+                    {
+                      "Key": "F1C1ZvA6IlIhWkK0ZfmAIQBUjuUSZyEYW6yQLwyc9RJZ9LoRYIUirmJXP8+kzE+VmZ+6Uy1UIpltsTqx1IkJIH7DcjNVLtsJhExoMOMr3Ww=",
+                      "CardType": "VI",
+                      "CardTypeDescription": "Visa",
+                      "Description": "",
+                      "ExpireMonth": "5",
+                      "ExpireYear": "2022",
+                      "IsPrimary": "true",
+                      "UnencryptedCardNumber": "XXXXXXXXXXXX5678",
+                      "EncryptedCardNumber": "",
+                      "DisplayCardNumber": "XXXXXXXXXXXX5678",
+                      "CIDCVV2": "",
+                      "CCName": "Test card",
+                      "AddressKey": "MIROPH4pgvFGyqGBayTtCSHxzCCJ8NLfHgqWUK1N3pVNRrdZfMVjTE/IMUlMlqOe",
+                      "PhoneKey": "",
+                      "Message": "",
+                      "AccountNumberToken": "517d920a-86bd-42dd-8a21-753654dd54c3",
+                      "PersistentToken": "9808016830015678",
+                      "SecurityCodeToken": "",
+                      "BarCode": "",
+                      "IsCorporate": "false",
+                      "IsMandatory": "false",
+                      "IsValidForTPIPurchase": "true",
+                      "IsOAEPPaddingCatalogEnabled": "false"
+                    },
+                    {
+                      "Key": "F1C1ZvA6IlIhWkK0ZfmAIeqxJh7eywBAKFRzA+mMw/C+gp5q7NX2//58VBVDYwgfrpooEfmKSFEmIS2yck8ngyBIP/ouiZSn8bqTuvTkCSE=",
+                      "CardType": "DC",
+                      "CardTypeDescription": "Diners Club",
+                      "Description": "",
+                      "ExpireMonth": "5",
+                      "ExpireYear": "2022",
+                      "IsPrimary": "false",
+                      "UnencryptedCardNumber": "XXXXXXXXXXXX1111",
+                      "EncryptedCardNumber": "",
+                      "DisplayCardNumber": "XXXXXXXXXXXX1111",
+                      "CIDCVV2": "",
+                      "CCName": "Testcard",
+                      "AddressKey": "yRwLiOCXms22zv47fCEJDhJzL4J5ogrBCbxR0R4JyXxPi8yBG8mVWULVYWbLxhE4",
+                      "PhoneKey": "",
+                      "Message": "",
+                      "AccountNumberToken": "4c8c5b20-2c2d-4f0c-9f93-3a4d90b207c4",
+                      "PersistentToken": "21402208361111",
+                      "SecurityCodeToken": "",
+                      "BarCode": "",
+                      "IsCorporate": "false",
+                      "IsMandatory": "false",
+                      "IsValidForTPIPurchase": "false",
+                      "IsOAEPPaddingCatalogEnabled": "false"
+                    },
+                    {
+                      "Key": "F1C1ZvA6IlIhWkK0ZfmAIXdJPi1CXn88nRauvBeMXegdg438uJlcSP0SlXGUGQYniefAIWPAAB8M/2SH/aPUFl9mtrT9Db6YANuGemkBmSw=",
+                      "CardType": "JC",
+                      "CardTypeDescription": "JCB",
+                      "Description": "",
+                      "ExpireMonth": "5",
+                      "ExpireYear": "2022",
+                      "IsPrimary": "false",
+                      "UnencryptedCardNumber": "XXXXXXXXXXXX7510",
+                      "EncryptedCardNumber": "",
+                      "DisplayCardNumber": "XXXXXXXXXXXX7510",
+                      "CIDCVV2": "",
+                      "CCName": "Testcard",
+                      "AddressKey": "yRwLiOCXms22zv47fCEJDhJzL4J5ogrBCbxR0R4JyXxPi8yBG8mVWULVYWbLxhE4",
+                      "PhoneKey": "",
+                      "Message": "",
+                      "AccountNumberToken": "c98dece9-c05e-4fd1-b9f5-733312b99a3c",
+                      "PersistentToken": "9053312884007510",
+                      "SecurityCodeToken": "",
+                      "BarCode": "",
+                      "IsCorporate": "false",
+                      "IsMandatory": "false",
+                      "IsValidForTPIPurchase": "false",
+                      "IsOAEPPaddingCatalogEnabled": "false"
+                    }
+                  ]
+                },
+                "TravelerTypeCode": "ADT",
+                "TravelerTypeDescription": "Adults (age 18 to 64)",
+                "TravelProgramMemberId": "",
+                "KnownTravelerNumber": "135628698",
+                "RedressNumber": "",
+                "OwnerFirstName": "test",
+                "OwnerLastName": "Jeste",
+                "OwnerMiddleName": "sam",
+                "OwnerSuffix": "",
+                "OwnerTitle": "Mr.",
+                "PaxIndex": "0",
+                "Seats": {
+                  "MOBSeat": {
+                    "PriceBeforeCouponApplied": "0",
+                    "Adjustments": "",
+                    "PriceAfterCouponApplied": "0",
+                    "IsCouponApplied": "false",
+                    "LimitedRecline": "false",
+                    "SeatAssignment": "9E",
+                    "Origin": "ORD",
+                    "Destination": "IAH",
+                    "TravelerSharesIndex": "0",
+                    "Key": "0",
+                    "UAOperated": "true",
+                    "Price": "0",
+                    "PriceAfterTravelerCompanionRules": "0",
+                    "Currency": "USD",
+                    "ProgramCode": "EPU",
+                    "SeatType": "EPLUSPRIMEPLUS",
+                    "OldSeatPrice": "0",
+                    "IsEPA": "false",
+                    "IsEPAFreeCompanion": "false",
+                    "Miles": "0",
+                    "MilesAfterTravelerCompanionRules": "0",
+                    "OldSeatMiles": "0",
+                    "MilesBeforeCouponApplied": "0",
+                    "MilesAfterCouponApplied": "0"
+                  }
+                },
+                "Subscriptions": {
+                  "MPAccountNumber": "CF207075",
+                  "SubscriptionTypes": ""
+                },
+                "TravelerNameIndex": "1.1",
+                "IsTSAFlagON": "false",
+                "Message": "",
+                "MPNameNotMatchMessage": "",
+                "ISMPNameMisMatch": "false",
+                "ReservationEmailAddresses": {
+                  "MOBEmail": {
+                    "Key": "ONp1Ze55mWzPi8Es02ipmhCupOCrAwlj1NbFwr8TKwSRFlBEktTAGkYfQHuj8fED",
+                    "Channel": {
+                      "ChannelCode": "E",
+                      "ChannelDescription": "Email",
+                      "ChannelTypeCode": "O",
+                      "ChannelTypeDescription": "Other"
+                    },
+                    "EmailAddress": "ramhari.nayak@united.com",
+                    "IsPrivate": "false",
+                    "IsDefault": "true",
+                    "IsPrimary": "true",
+                    "IsDayOfTravel": "false"
+                  }
+                },
+                "ReservationPhones": {
+                  "MOBCPPhone": {
+                    "AreaNumber": "872",
+                    "Attention": "",
+                    "ChannelCode": "P",
+                    "ChannelCodeDescription": "Phone",
+                    "ChannelTypeCode": "H",
+                    "ChannelTypeDescription": "Home",
+                    "ChannelTypeSeqNumber": "4",
+                    "CountryCode": "US",
+                    "CountryNumber": "",
+                    "CountryPhoneNumber": "1",
+                    "CustomerId": "122891368",
+                    "Description": "",
+                    "DiscontinuedDate": "1/1/3001 9:00:00 AM",
+                    "EffectiveDate": "12/10/2021 1:31:49 AM",
+                    "ExtensionNumber": "",
+                    "IsPrimary": "true",
+                    "IsPrivate": "false",
+                    "IsProfileOwner": "true",
+                    "Key": "oHU0Ry2UU6EbEJwZoS+OLMl/i7fOTP5e+CY0UcaMHeXlZZaASZYrmYDFdXjYRRUv",
+                    "LanguageCode": "EN",
+                    "MileagePlusId": "",
+                    "PagerPinNumber": "",
+                    "PhoneNumber": "8722422",
+                    "SharesCountryCode": "",
+                    "WrongPhoneDate": "",
+                    "DeviceTypeCode": "PH",
+                    "DeviceTypeDescription": "Phone",
+                    "IsDayOfTravel": "false",
+                    "IsSMSEnabled": "false"
+                  }
+                },
+                "CustomerMetrics": {
+                  "PTCCode": ""
+                },
+                "PaxID": "1",
+                "IsPaxSelected": "true",
+                "SelectedSpecialNeeds": "",
+                "SelectedSpecialNeedMessages": "",
+                "IsMustRideTraveler": "false"
+              }
+            ]
+          }
+        }
+      },
+      "SeatPrices": "",
+      "CreditCards": {
+        "MOBCreditCard": [
+          {
+            "Key": "F1C1ZvA6IlIhWkK0ZfmAIQBUjuUSZyEYW6yQLwyc9RJZ9LoRYIUirmJXP8+kzE+VmZ+6Uy1UIpltsTqx1IkJIH7DcjNVLtsJhExoMOMr3Ww=",
+            "CardType": "VI",
+            "CardTypeDescription": "Visa",
+            "Description": "",
+            "ExpireMonth": "5",
+            "ExpireYear": "2022",
+            "IsPrimary": "true",
+            "UnencryptedCardNumber": "XXXXXXXXXXXX5678",
+            "EncryptedCardNumber": "",
+            "DisplayCardNumber": "XXXXXXXXXXXX5678",
+            "CIDCVV2": "",
+            "CCName": "Test card",
+            "AddressKey": "MIROPH4pgvFGyqGBayTtCSHxzCCJ8NLfHgqWUK1N3pVNRrdZfMVjTE/IMUlMlqOe",
+            "PhoneKey": "",
+            "Message": "",
+            "AccountNumberToken": "517d920a-86bd-42dd-8a21-753654dd54c3",
+            "PersistentToken": "9808016830015678",
+            "SecurityCodeToken": "",
+            "BarCode": "",
+            "IsCorporate": "false",
+            "IsMandatory": "false",
+            "IsValidForTPIPurchase": "true",
+            "IsOAEPPaddingCatalogEnabled": "false"
+          }
+        ]
+      },
+      "CSLReservationJSONFormat": "[{\"Characteristic\":[{\"Code\":\"SELECTED_FARE_TYPE\",\"Value\":\"ECONOMY\"}],\"SegmentNumber\":1,\"TripNumber\":\"1\",\"FlightSegment\":{\"ArrivalAirport\":{\"IATACode\":\"IAH\",\"IATACountryCode\":{\"CountryCode\":\"US\"},\"Name\":\"Houston, TX, US (IAH)\",\"StateProvince\":{\"StateProvinceCode\":\"TX\"}},\"ArrivalDateTime\":\"2022-04-20 08:38\",\"AvailBookingClasses\":[{\"Code\":\"J\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"JN\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"C\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"D\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"Z\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"ZN\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"P\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"PN\",\"Counts\":{\"Value\":\"6\"}},{\"Code\":\"PZ\",\"Counts\":{\"Value\":\"0\"}},{\"Code\":\"IN\",\"Counts\":{\"Value\":\"6\"}},{\"Code\":\"I\",\"Counts\":{\"Value\":\"0\"}},{\"Code\":\"Y\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"YN\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"B\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"M\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"E\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"U\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"H\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"HN\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"Q\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"V\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"W\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"S\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"T\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"L\",\"Counts\":{\"Value\":\"0\"}},{\"Code\":\"K\",\"Counts\":{\"Value\":\"0\"}},{\"Code\":\"G\",\"Counts\":{\"Value\":\"0\"}},{\"Code\":\"N\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"XN\",\"Counts\":{\"Value\":\"9\"}},{\"Code\":\"X\",\"Counts\":{\"Value\":\"0\"}}],\"BookingClasses\":[{\"Cabin\":{\"Key\":\"UE\",\"Layout\":\"2\",\"Name\":\"United Economy\"},\"Code\":\"T\"}],\"Characteristic\":[{\"Code\":\"PET_COUNT\",\"Value\":\"0\"}],\"DepartureAirport\":{\"IATACode\":\"ORD\",\"IATACountryCode\":{\"CountryCode\":\"US\"},\"Name\":\"Chicago, IL, US (ORD)\",\"StateProvince\":{\"StateProvinceCode\":\"IL\"}},\"DepartureDateTime\":\"2022-04-20 05:45\",\"Distance\":925,\"Equipment\":{\"CabinCount\":2,\"Model\":{\"Description\":\"Boeing 737-900\",\"Fleet\":\"739\"},\"SeatmapLegendList\":null},\"FlightNumber\":\"2246\",\"FlightSegmentType\":\"NN\",\"InstantUpgradable\":false,\"IsInternational\":\"False\",\"MarketedFlightSegment\":[{\"FlightNumber\":\"2246\",\"MarketingAirlineCode\":\"UA\"}],\"MarriageGroup\":\"N\",\"Message\":[{\"Code\":\"ARRDAYDIFF\"},{\"Code\":\"BASIS_CODE\",\"Text\":\"TAX2PFEN\"},{\"Code\":\"PETS_DISALLOWED\",\"Text\":\"False\"},{\"Code\":\"OPERATINGCARRIERDESC\",\"Text\":\"United Airlines\"},{\"Code\":\"OB\",\"Text\":\"OBY\"}],\"OperatingAirlineCode\":\"UA\",\"SegmentNumber\":1,\"UpgradeEligibilityStatus\":0,\"UpgradeVisibilityType\":0},\"IsConnection\":\"False\"}]",
+      "TravelOptions": "",
+      "NumberOfTravelers": "1",
+      "TravelersRegistered": "false",
+      "CreditCardsAddress": {
+        "MOBAddress": [
+          {
+            "Key": "MIROPH4pgvFGyqGBayTtCSHxzCCJ8NLfHgqWUK1N3pVNRrdZfMVjTE/IMUlMlqOe",
+            "Channel": {
+              "ChannelCode": "A",
+              "ChannelDescription": "Address",
+              "ChannelTypeCode": "H",
+              "ChannelTypeDescription": "Home"
+            },
+            "CompanyName": "",
+            "JobTitle": "",
+            "Line1": "224 Lane",
+            "Line2": "",
+            "Line3": "",
+            "ApartmentNumber": "",
+            "City": "Chicago",
+            "State": {
+              "Code": "IL",
+              "Name": ""
+            },
+            "Country": {
+              "Code": "US",
+              "Name": "United States",
+              "PhoneCode": ""
+            },
+            "IsPrivate": "false",
+            "IsDefault": "false",
+            "IsPrimary": "true",
+            "PostalCode": "60606",
+            "IsCorporate": "false",
+            "IsValidForTPIPurchase": "true"
+          }
+        ]
+      },
+      "FareRules": "",
+      "ReservationPhone": {
+        "AreaNumber": "872",
+        "Attention": "",
+        "ChannelTypeSeqNumber": "4",
+        "CountryCode": "US",
+        "CountryNumber": "",
+        "CountryPhoneNumber": "1",
+        "CustomerId": "122891368",
+        "Description": "",
+        "DiscontinuedDate": "1/1/3001 9:00:00 AM",
+        "EffectiveDate": "12/10/2021 1:31:49 AM",
+        "ExtensionNumber": "",
+        "IsPrimary": "true",
+        "IsPrivate": "false",
+        "IsProfileOwner": "true",
+        "Key": "oHU0Ry2UU6EbEJwZoS+OLMl/i7fOTP5e+CY0UcaMHeXlZZaASZYrmYDFdXjYRRUv",
+        "LanguageCode": "EN",
+        "MileagePlusId": "",
+        "PagerPinNumber": "",
+        "PhoneNumber": "722422",
+        "SharesCountryCode": "",
+        "WrongPhoneDate": "",
+        "DeviceTypeCode": "PH",
+        "DeviceTypeDescription": "Phone",
+        "IsDayOfTravel": "false",
+        "IsSMSEnabled": "false"
+      },
+      "ReservationEmail": {
+        "Key": "ONp1Ze55mWzPi8Es02ipmhCupOCrAwlj1NbFwr8TKwSRFlBEktTAGkYfQHuj8fED",
+        "Channel": {
+          "ChannelCode": "E",
+          "ChannelDescription": "Email",
+          "ChannelTypeCode": "O",
+          "ChannelTypeDescription": "Other"
+        },
+        "EmailAddress": "ramhari.nayak@united.com",
+        "IsPrivate": "false",
+        "IsDefault": "true",
+        "IsPrimary": "true",
+        "IsDayOfTravel": "false"
+      },
+      "EPAMessageTitle": "",
+      "EPAMessage": "Your Premier® Gold status entitles you to 2 Economy Plus® seats or preferred seating for you and 8 companions.",
+      "LMXTravelers": "",
+      "PointOfSale": "US",
+      "FareLock": {
+        "FareLockHoldButtonText": "Hold fare",
+        "FareLockTextTop": "United’s FareLock service lets you hold your fare and complete the purchase of your itinerary at a later time.",
+        "FareLockTextBottom": "FareLock fees are nonrefundable and not applied toward the price of the ticket.",
+        "FareLockPurchaseButtonText": "Purchase now",
+        "FareLockPurchaseButtonAmount": "133.6",
+        "FareLockPurchaseButtonAmountDisplayText": "$133.60",
+        "FareLockMinAmount": "3",
+        "FareLockDisplayMinAmount": "$3",
+        "FareLockTitleText": "Hold fare with FareLock℠",
+        "FareLockDescriptionText": "Hold Reservation Using FareLock",
+        "FareLockDisclaimerText": "",
+        "FareLockTermsAndConditions": "",
+        "FareLockProducts": {
+          "MOBSHOPFareLockProduct": [
+            {
+              "FareLockProductTitle": "3 days",
+              "FareLockProductAmountDisplayText": "$3.00",
+              "FareLockProductAmount": "3",
+              "FareLockProductCode": "0AA",
+              "ProductCode": "FLK",
+              "ProductId": "SOL1OD1S10"
+            },
+            {
+              "FareLockProductTitle": "7 days",
+              "FareLockProductAmountDisplayText": "$7.00",
+              "FareLockProductAmount": "7",
+              "FareLockProductCode": "0AB",
+              "ProductCode": "FLK",
+              "ProductId": "SOL1OD1S10"
+            },
+            {
+              "FareLockProductTitle": "14 days",
+              "FareLockProductAmountDisplayText": "$14.00",
+              "FareLockProductAmount": "14",
+              "FareLockProductCode": "0AC",
+              "ProductCode": "FLK",
+              "ProductId": "SOL1OD1S10"
+            }
+          ]
+        }
+      },
+      "UnregisterFareLock": "false",
+      "AwardTravel": "false",
+      "LMXFlights": "",
+      "TCDAdvisoryMessages": {
+        "MOBItem": [
+          {
+            "Id": "PhoneEmail",
+            "CurrentValue": "Providing a traveler’s mobile number and/or email address indicates that he or she consents to receive SMS and/or email messages via the contact information provided concerning flight status updates or notifications, and as otherwise permitted by our privacy policy. Standard messaging and data rates may apply. Messaging frequency varies based on customer preferences and the status of flight operations.",
+            "SaveToPersist": "false"
+          },
+          {
+            "Id": "PurchaseTnC",
+            "CurrentValue": "Purchase of this ticket means you understand and agree to all fare rules associated with this ticket, all terms and conditions associated with any additional offer/product purchases made, United’s dangerous goods policy, and the terms and conditions in United’s Contract of Carriage.",
+            "SaveToPersist": "false"
+          },
+          {
+            "Id": "TCDmessage",
+            "CurrentValue": "View text messaging terms and conditions. U.S. supported carriers are AT&T, U.S. Cellular®, Verizon Wireless, Sprint, Cricket, Boost, Virgin Mobile USA , T-Mobile® and MetroPCS. Canadian supported carriers are Aliant Mobility, Bell Mobility, Eastlink, Fido, Mobilicity, MTS, NorthernTel Mobility, Public Mobile, Rogers Wireless, SaskTel Mobility, Télébec Mobilité, TELUS Mobility, Vidéotron, Virgin Mobile Canada, WIND Mobile. The wireless carriers are not liable for delayed or undelivered messages. U.S. and Canadian customers may opt out at any time by texting STOP to 26266 from their mobile device. For more information, text HELP to 26266 or call 1-800-UNITED-1 (1-800-864-8331).",
+            "SaveToPersist": "false"
+          }
+        ]
+      },
+      "IsRefundable": "false",
+      "ISInternational": "false",
+      "IneligibleToEarnCreditMessage": "This itinerary includes one or more flights that are ineligible to earn mileage or Premier qualifying credit.",
+      "OaIneligibleToEarnCreditMessage": "Ineligible to accrue mileage or Premier qualifying credit.",
+      "ISFlexibleSegmentExist": "false",
+      "GetALLSavedTravelers": "true",
+      "IsELF": "false",
+      "IsMetaSearch": "false",
+      "IsUpgradedFromEntryLevelFare": "false",
+      "IsGetProfileCalledForProfileOwner": "true",
+      "IsCubaTravel": "false",
+      "FormOfPaymentType": "CreditCard",
+      "FOPOptions": {
+        "MOBTypeOption": [
+          {
+            "Key": "ApplePay",
+            "Value": "Apple Pay"
+          },
+          {
+            "Key": "PayPal",
+            "Value": "PayPal"
+          },
+          {
+            "Key": "PayPalCredit",
+            "Value": "PayPal Credit"
+          },
+          {
+            "Key": "Masterpass",
+            "Value": "Masterpass"
+          }
+        ]
+      },
+      "ELFMessagesForRTI": "",
+      "IsReshopChange": "false",
+      "ReshopTrips": "",
+      "ReshopUsedTrips": "",
+      "IsSSA": "true",
+      "SeatAssignmentMessage": "",
+      "AboveGoldMembers": "0",
+      "GoldMembers": "1",
+      "SilverMembers": "0",
+      "NoOfFreeEplusWithSubscriptions": "0",
+      "TripInsuranceFile": {
+        "AccountNumberToken": "",
+        "ConfirmationResponseDetailMessage1": "",
+        "ConfirmationResponseDetailMessage2": "",
+        "TripInsuranceBookingInfo": {
+          "TPIAIGReturnedMessageContentList": {
+            "MOBItem": [
+              {
+                "Id": "COVID19EmergencyAlert",
+                "CurrentValue": "Due to the World Health Organization (WHO) announcement declaring Coronavirus (COVID-19) a pandemic, please note that as of, at the latest, March 11, 2020, COVID-19 is a foreseen event and certain coverages will not apply. <a href =\"https://www-130.aig.com/us/en/covid19notification\" target=\"_blank\">Please read the details here</a>",
+                "SaveToPersist": "false"
+              }
+            ]
+          },
+          "QuoteId": "f2a72461-933c-4a54-a8da-b268f24a30cc",
+          "Amount": "14",
+          "Title": "Travel Guard® Insurance",
+          "Header": "Purchase travel insurance to <b>cover the unexpected:</b>",
+          "Content": {
+            "string": [
+              "- Trip cancellations",
+              "- Missed flight connections",
+              "- Lost baggage"
+            ]
+          },
+          "Tnc": "Coverage is offered by Travel Guard Group, Inc. and <a href =\"https://webservices.travelguard.com/Product/FileRetrieval.aspx?CountryCode=US&amp;StateCode=NW&amp;ProductCode=009324&amp;PlanCode=NW&amp;FileType=PROD_PLAN_GM\" target=\"_blank\">limitations will apply;</a> read <a href =\"https://www-130.aig.com/us/en/important-disclosures\" target=\"_blank\">Important Disclosures.</a><br/>Plan not available to Washington and New York residents.",
+          "CoverCostText": "Travel insurance coverage is based on total cost of trip",
+          "CoverCost": "Covers total trip cost of <b>$133.60</b>",
+          "CoverCostStatus": "",
+          "Img": "https://container.travelguard.com/content/dam/tg-container/uausa/mobileappmb-mr/walking-airport-960x280.jpg",
+          "ButtonTextInProdPage": "Add travel insurance for $14.00",
+          "IsRegistered": "false",
+          "LegalInformation": "",
+          "LegalInformationText": "By selecting the add travel insurance button, I acknowledge that I have read, understand and agree to the terms and conditions of the <a href =\"https://webservices.travelguard.com/Product/FileRetrieval.aspx?CountryCode=US&amp;StateCode=NW&amp;ProductCode=009324&amp;PlanCode=NW&amp;FileType=PROD_PLAN_GM\" target=\"_blank\">Policy of Insurance</a> and <a href =\"https://www-130.aig.com/us/en/important-disclosures\" target=\"_blank\">Important Disclosures.</a>",
+          "PopUpMessage": "",
+          "OldAmount": "0",
+          "OldQuoteId": "",
+          "TncSecondaryFOPPage": "By adding trip insurance, I acknowledge I have read, understand and agree to the terms and conditions of the <a href =\"https://webservices.travelguard.com/Product/FileRetrieval.aspx?CountryCode=US&amp;StateCode=NW&amp;ProductCode=009324&amp;PlanCode=NW&amp;FileType=PROD_PLAN_GM\" target=\"_blank\">Policy of Insurance</a> and <a href =\"https://www-130.aig.com/us/en/important-disclosures\" target=\"_blank\">Important Disclosures.</a>",
+          "DisplayAmount": "$14.00",
+          "ConfirmationMsg": "You have purchased Travel Guard® trip insurance from AIG Travel. Insurance details, along with applicable definitions and terms of coverage, are fully described in your Policy of Insurance. It  is your responsibility to read and understand the details of your coverage.\n\nTo ask about a Travel Guard product or file a claim, please call 1-877-934-8308.",
+          "IsTPIIncludedInCart": "false"
+        }
+      },
+      "ShopReservationInfo2": {
+        "IsDisplayCart": "false",
+        "IsYATravel": "false",
+        "IsCovidTestFlight": "false",
+        "AlertMessages": {
+          "MOBSection": {
+            "Order": "FACECOVERING",
+            "Text1": "Face masks required for all travelers",
+            "Text2": "Federal law requires all travelers to wear a face mask with no vents or openings that fully covers their nose and mouth. Masks must be worn in the airport and during the entire flight, and between bites and sips if travelers are eating or drinking. Travelers who aren't wearing their masks in the airport or on board may be refused transport, be subject to fines, and could also lose their travel privileges on future United flights. Children younger than 2 years old are exempt. <a class=\"external-link\" href=\"https://www.cdc.gov/coronavirus/2019-ncov/travelers/face-masks-public-transportation.html\">Learn more</a>",
+            "IsDefaultOpen": "true"
+          }
+        },
+        "ConfirmationPageAlertMessages": "",
+        "ShowSelectDifferentFOPAtRTI": "false",
+        "IsArrangerBooking": "false",
+        "DisplayTravelTypes": {
+          "MOBDisplayTravelType": {
+            "PaxID": "1",
+            "PaxType": "ADT",
+            "TravelerDescription": "Adult (18-64)",
+            "TravelerType": "Adult"
+          }
+        },
+        "TravelOptionEligibleTravelersCount": "1",
+        "TravelerTypes": {
+          "MOBTravelerType": {
+            "Count": "1",
+            "TravelerType": "Adult"
+          }
+        },
+        "ChaseCreditStatement": {
+          "initialDisplayPrice": "$133.60",
+          "statementCreditDisplayPrice": "$250.00",
+          "finalAfterStatementDisplayPrice": "-$116.40",
+          "bannerImage": {
+            "PhoneUrl": "https://smartphone-qa.united.com/REST20PQA/Images/ChasePromo/Chase_Ad/chase_ad_phone_25k_old_arch_9_30.png",
+            "TabletUrl": "https://smartphone-qa.united.com/REST20PQA/Images/ChasePromo/Chase_Ad/chase_ad_tablet_25k_old_arch_9_30.png"
+          },
+          "ccImage": "https://smartphone-qa.united.com/REST20PQA/Images/ChasePromo/Chase_Ad/cc_old_arch.png",
+          "chaseBanner": {
+            "MessageKey": "480.P.25K2KAFW250SC.250SC25KBM.RTI",
+            "BannerImage": {
+              "PhoneUrl": "https://media.united.com/images/Media%20Database/SDL/locations/Chase/Campaigns_2022/01-January/01-26-22-DMM/012622_Explorer_250_25K_RTI_828X272_MATH.png",
+              "TabletUrl": "https://media.united.com/images/Media%20Database/SDL/locations/Chase/Campaigns_2022/01-January/01-26-22-DMM/012622_Explorer_250_25K_RTI_TABLET_3072X369_MATH.png"
+            },
+            "MakeFeedBackCall": "false",
+            "DisplayPriceCalculation": "true",
+            "PlacementLandingPageURL": "https://united.chase-stage3.archer-group.com/25k250afwic?CELL=D1W&int_source=loyalty&mode=d&int_medium=mob&int_campaign=0480_25k2kafw250sc&alm=511294&int_content=250sc25kbm&partner_category=cc&partner_name=chase_acq&asset_type=shopping_path&asset_position=rti&promo_code=cell_d1w&targeting=pnc&launch_date=2022-01-19&rpc=0480&campaign_type=cce&offer_trackingid=null&source_code=null"
+          },
+          "styledInitialDisplayPrice": "<span>$133.60</span>",
+          "styledInitialDisplayText": "<span>You Pay Today</span>",
+          "styledStatementCreditDisplayPrice": "<span style=color:#1B7742><strong>-$250.00</strong></span>",
+          "styledStatementCreditDisplayText": "<span style=color:#1B7742><strong>Card Statement Credit</strong></span>",
+          "styledFinalAfterStatementDisplayPrice": "<span>-$116.40</span>",
+          "styledFinalAfterStatementDisplayText": "<span>Total After Statement Credit</span>"
+        },
+        "InfoNationalityAndResidence": {
+          "ComplianceTaxes": {
+            "ArrayOfMOBSHOPTax": [
+              {
+                "MOBSHOPTax": [
+                  {
+                    "Amount": "22.9",
+                    "DisplayAmount": "$22.90",
+                    "CurrencyCode": "USD",
+                    "NewAmount": "0",
+                    "DisplayNewAmount": "",
+                    "TaxCode": "PERPERSONTAX",
+                    "TaxCodeDescription": "1 adult (18-64): $22.90 per person"
+                  },
+                  {
+                    "Amount": "8.3",
+                    "DisplayAmount": "$8.30",
+                    "CurrencyCode": "USD",
+                    "NewAmount": "0",
+                    "DisplayNewAmount": "",
+                    "TaxCode": "US",
+                    "TaxCodeDescription": "U.S. Transportation Tax"
+                  },
+                  {
+                    "Amount": "4.5",
+                    "DisplayAmount": "$4.50",
+                    "CurrencyCode": "USD",
+                    "NewAmount": "0",
+                    "DisplayNewAmount": "",
+                    "TaxCode": "XF",
+                    "TaxCodeDescription": "U.S. Passenger Facility Charge"
+                  },
+                  {
+                    "Amount": "4.5",
+                    "DisplayAmount": "$4.50",
+                    "CurrencyCode": "USD",
+                    "NewAmount": "0",
+                    "DisplayNewAmount": "",
+                    "TaxCode": "ZP",
+                    "TaxCodeDescription": "U.S. Flight Segment Tax"
+                  },
+                  {
+                    "Amount": "5.6",
+                    "DisplayAmount": "$5.60",
+                    "CurrencyCode": "USD",
+                    "NewAmount": "0",
+                    "DisplayNewAmount": "",
+                    "TaxCode": "AY",
+                    "TaxCodeDescription": "September 11th Security Fee"
+                  }
+                ]
+              },
+              {
+                "MOBSHOPTax": [
+                  {
+                    "Amount": "22.9",
+                    "DisplayAmount": "$22.90",
+                    "CurrencyCode": "USD",
+                    "NewAmount": "0",
+                    "DisplayNewAmount": "",
+                    "TaxCode": "TOTALTAX",
+                    "TaxCodeDescription": "Taxes and fees total"
+                  }
+                ]
+              }
+            ]
+          },
+          "IsRequireNationalityAndResidence": "false"
+        },
+        "IsForceSeatMapInRTI": "false",
+        "IsForceSeatMap": "false",
+        "IsPaxRegisterd": "false",
+        "EnableFinalBookingAgreenPurchaseButton": "true",
+        "InfoWarningMessages": "",
+        "RTIMandateContentsToDisplayByMarket": "",
+        "AllEligibleTravelersCSL": {
+          "MOBCPTraveler": [
+            {
+              "TotalFFCNewValueAfterRedeem": "",
+              "IndividualTotalAmount": "0",
+              "PTCDescription": "Adult (18-64)",
+              "IsEligibleForSeatSelection": "true",
+              "Nationality": "MX",
+              "CountryOfResidence": "MX",
+              "EmployeeId": "",
+              "Title": "Mr.",
+              "FirstName": "test",
+              "MiddleName": "sam",
+              "LastName": "Jeste",
+              "Suffix": "",
+              "GenderCode": "M",
+              "BirthDate": "08/31/1988",
+              "IsProfileOwner": "true",
+              "IsDeceased": "false",
+              "IsExecutive": "false",
+              "CurrentEliteLevel": "2",
+              "Key": "tfdC5fd7RINqhNIAk8jrdkJdERtajz5xw68N0FyEN88=",
+              "CustomerId": "122891368",
+              "ProfileId": "59273512",
+              "ProfileOwnerId": "122891368",
+              "MileagePlus": {
+                "AccountBalance": "600000",
+                "ActiveStatusCode": "A",
+                "ActiveStatusDescription": "ACTIVE",
+                "AllianceEliteLevel": "1",
+                "ClosedStatusCode": "O",
+                "ClosedStatusDescription": "OPEN",
+                "CurrentEliteLevel": "2",
+                "CurrentEliteLevelDescription": "Premier Gold",
+                "CurrentYearMoneySpent": "0.0",
+                "EliteMileageBalance": "0",
+                "EliteSegmentBalance": "0",
+                "EliteSegmentDecimalPlaceValue": "0",
+                "EncryptedPin": "",
+                "EnrollDate": "11/12/2014",
+                "EnrollSourceCode": "IN15",
+                "EnrollSourceDescription": "2002 CO.COM NEW BOOKING SITE",
+                "FlexPqmBalance": "0",
+                "FutureEliteLevel": "0",
+                "FutureEliteDescription": "Premier Gold",
+                "InstantEliteExpirationDate": "Premier Gold",
+                "IsCEO": "false",
+                "IsClosedPermanently": "false",
+                "IsClosedTemporarily": "false",
+                "IsCurrentTrialEliteMember": "false",
+                "IsFlexPqm": "false",
+                "IsInfiniteElite": "false",
+                "IsLifetimeCompanion": "false",
+                "IsLockedOut": "false",
+                "IsMergePending": "false",
+                "IsUnitedClubMember": "false",
+                "IsPresidentialPlus": "false",
+                "Key": "ono93YORwA+uRMQOPqinEA==",
+                "LastActivityDate": "2/25/2022 12:00:00 AM",
+                "LastExpiredMile": "0",
+                "LastFlightDate": "",
+                "LastStatementBalance": "0",
+                "LastStatementDate": "12/31/2019",
+                "LifetimeEliteLevel": "0",
+                "LifetimeEliteMileageBalance": "0",
+                "MileageExpirationDate": "8/31/2023 12:00:00 AM",
+                "NextYearEliteLevel": "0",
+                "NextYearEliteLevelDescription": "",
+                "MileagePlusId": "CF207075",
+                "MileagePlusPin": "",
+                "PriorUnitedAccountNumber": "",
+                "StarAllianceEliteLevel": "0",
+                "MpCustomerId": "122891368",
+                "TravelBankBalance": "0"
+              },
+              "SecureTravelers": {
+                "MOBCPSecureTraveler": {
+                  "BirthDate": "08/31/1988",
+                  "CustomerId": "122891368",
+                  "Description": "",
+                  "DecumentType": "C",
+                  "FirstName": "test",
+                  "Gender": "M",
+                  "Key": "vSoqadMmDmaYqqVQzRz+kQ==",
+                  "LastName": "jeste",
+                  "MiddleName": "sam",
+                  "Suffix": "",
+                  "KnownTravelerNumber": "135628698",
+                  "RedressNumber": "",
+                  "SequenceNumber": "1"
+                }
+              },
+              "AirRewardPrograms": {
+                "MOBBKLoyaltyProgramProfile": {
+                  "RewardProgramKey": "QFPc/Vsw0BPec+//PogL8w==",
+                  "CarrierCode": "UA",
+                  "ProgramId": "7",
+                  "ProgramName": "United MileagePlus",
+                  "MemberId": "CF207075",
+                  "MemberTierDescription": "",
+                  "MemberTierLevel": "",
+                  "MPEliteLevel": "2",
+                  "StarEliteLevel": ""
+                }
+              },
+              "Addresses": {
+                "MOBAddress": [
+                  {
+                    "Key": "MIROPH4pgvFGyqGBayTtCSHxzCCJ8NLfHgqWUK1N3pVNRrdZfMVjTE/IMUlMlqOe",
+                    "Channel": {
+                      "ChannelCode": "A",
+                      "ChannelDescription": "Address",
+                      "ChannelTypeCode": "H",
+                      "ChannelTypeDescription": "Home"
+                    },
+                    "CompanyName": "",
+                    "JobTitle": "",
+                    "Line1": "395 Lane",
+                    "Line2": "",
+                    "Line3": "",
+                    "ApartmentNumber": "",
+                    "City": "Chicago",
+                    "State": {
+                      "Code": "IL",
+                      "Name": ""
+                    },
+                    "Country": {
+                      "Code": "US",
+                      "Name": "United States",
+                      "PhoneCode": ""
+                    },
+                    "IsPrivate": "false",
+                    "IsDefault": "false",
+                    "IsPrimary": "true",
+                    "PostalCode": "60606",
+                    "IsCorporate": "false",
+                    "IsValidForTPIPurchase": "true"
+                  },
+                  {
+                    "Key": "yRwLiOCXms22zv47fCEJDhJzL4J5ogrBCbxR0R4JyXxPi8yBG8mVWULVYWbLxhE4",
+                    "Channel": {
+                      "ChannelCode": "A",
+                      "ChannelDescription": "Address",
+                      "ChannelTypeCode": "H",
+                      "ChannelTypeDescription": "Home"
+                    },
+                    "CompanyName": "",
+                    "JobTitle": "",
+                    "Line1": "1600 smith st",
+                    "Line2": "",
+                    "Line3": "",
+                    "ApartmentNumber": "",
+                    "City": "houston",
+                    "State": {
+                      "Code": "TX",
+                      "Name": ""
+                    },
+                    "Country": {
+                      "Code": "US",
+                      "Name": "United States",
+                      "PhoneCode": ""
+                    },
+                    "IsPrivate": "false",
+                    "IsDefault": "false",
+                    "IsPrimary": "false",
+                    "PostalCode": "77002-7362",
+                    "IsCorporate": "false",
+                    "IsValidForTPIPurchase": "true"
+                  }
+                ]
+              },
+              "AirPreferences": {
+                "MOBPrefAirPreference": {
+                  "CustomerId": "122891368",
+                  "ProfileId": "59273512",
+                  "AirPreferenceId": "62541626",
+                  "Key": "tfdC5fd7RINqhNIAk8jrdu5s2n0cSxYM7zffl4Up7/k=",
+                  "MealId": "1",
+                  "MealCode": "--",
+                  "MealDescription": "No Preference",
+                  "SeatFrontBack": "0",
+                  "SeatSide": "0",
+                  "SeatSideDescription": "No Preference",
+                  "NumOfFlightsDisplay": "10",
+                  "SearchPreferenceId": "1",
+                  "SearchPreferenceDescription": "Price",
+                  "EquipmentId": "1",
+                  "EquipmentCode": "NONE",
+                  "EquipmentDesc": "No Preference",
+                  "ClassId": "1",
+                  "ClassDescription": "No Preference",
+                  "AirportCode": "",
+                  "AirportNameLong": "",
+                  "AirportNameShort": "",
+                  "VendorId": "1106",
+                  "VendorCode": "UA",
+                  "VendorDescription": "United",
+                  "IsNew": "false",
+                  "IsSelected": "false",
+                  "IsActive": "true",
+                  "LanguageCode": "",
+                  "AirRewardPrograms": {
+                    "MOBPrefRewardProgram": {
+                      "CustomerId": "122891368",
+                      "ProfileId": "59273512",
+                      "PreferenceId": "0",
+                      "Key": "",
+                      "ProgramMemberId": "CF207075",
+                      "SourceDescription": "",
+                      "SourceCode": "",
+                      "VendorCode": "UA",
+                      "VendorDescription": "United",
+                      "ProgramId": "0",
+                      "ProgramCode": "",
+                      "ProgramDescription": "",
+                      "ProgramType": "",
+                      "IsSelected": "false",
+                      "IsNew": "false",
+                      "IsValidNumber": "false"
+                    }
+                  }
+                }
+              },
+              "EmailAddresses": {
+                "MOBEmail": {
+                  "Key": "h/fmFjS05wKPIGp7alom77KPNNOW4NIzdSFZzr/vrMden8NhJcifc4bQLKlSfvp5",
+                  "Channel": {
+                    "ChannelCode": "E",
+                    "ChannelDescription": "Email",
+                    "ChannelTypeCode": "O",
+                    "ChannelTypeDescription": "Other"
+                  },
+                  "EmailAddress": "sundar.busi@united.com",
+                  "IsPrivate": "false",
+                  "IsDefault": "false",
+                  "IsPrimary": "false",
+                  "IsDayOfTravel": "true"
+                }
+              },
+              "CreditCards": {
+                "MOBCreditCard": [
+                  {
+                    "Key": "F1C1ZvA6IlIhWkK0ZfmAIQBUjuUSZyEYW6yQLwyc9RJZ9LoRYIUirmJXP8+kzE+VmZ+6Uy1UIpltsTqx1IkJIH7DcjNVLtsJhExoMOMr3Ww=",
+                    "CardType": "VI",
+                    "CardTypeDescription": "Visa",
+                    "Description": "",
+                    "ExpireMonth": "5",
+                    "ExpireYear": "2022",
+                    "IsPrimary": "true",
+                    "UnencryptedCardNumber": "XXXXXXXXXXXX5678",
+                    "EncryptedCardNumber": "",
+                    "DisplayCardNumber": "XXXXXXXXXXXX5678",
+                    "CIDCVV2": "",
+                    "CCName": "Test card",
+                    "AddressKey": "MIROPH4pgvFGyqGBayTtCSHxzCCJ8NLfHgqWUK1N3pVNRrdZfMVjTE/IMUlMlqOe",
+                    "PhoneKey": "",
+                    "Message": "",
+                    "AccountNumberToken": "517d920a-86bd-42dd-8a21-753654dd54c3",
+                    "PersistentToken": "9808016830015678",
+                    "SecurityCodeToken": "",
+                    "BarCode": "",
+                    "IsCorporate": "false",
+                    "IsMandatory": "false",
+                    "IsValidForTPIPurchase": "true",
+                    "IsOAEPPaddingCatalogEnabled": "false"
+                  },
+                  {
+                    "Key": "F1C1ZvA6IlIhWkK0ZfmAIeqxJh7eywBAKFRzA+mMw/C+gp5q7NX2//58VBVDYwgfrpooEfmKSFEmIS2yck8ngyBIP/ouiZSn8bqTuvTkCSE=",
+                    "CardType": "DC",
+                    "CardTypeDescription": "Diners Club",
+                    "Description": "",
+                    "ExpireMonth": "5",
+                    "ExpireYear": "2022",
+                    "IsPrimary": "false",
+                    "UnencryptedCardNumber": "XXXXXXXXXXXX1111",
+                    "EncryptedCardNumber": "",
+                    "DisplayCardNumber": "XXXXXXXXXXXX1111",
+                    "CIDCVV2": "",
+                    "CCName": "Testcard",
+                    "AddressKey": "yRwLiOCXms22zv47fCEJDhJzL4J5ogrBCbxR0R4JyXxPi8yBG8mVWULVYWbLxhE4",
+                    "PhoneKey": "",
+                    "Message": "",
+                    "AccountNumberToken": "4c8c5b20-2c2d-4f0c-9f93-3a4d90b207c4",
+                    "PersistentToken": "21402208361111",
+                    "SecurityCodeToken": "",
+                    "BarCode": "",
+                    "IsCorporate": "false",
+                    "IsMandatory": "false",
+                    "IsValidForTPIPurchase": "false",
+                    "IsOAEPPaddingCatalogEnabled": "false"
+                  },
+                  {
+                    "Key": "F1C1ZvA6IlIhWkK0ZfmAIXdJPi1CXn88nRauvBeMXegdg438uJlcSP0SlXGUGQYniefAIWPAAB8M/2SH/aPUFl9mtrT9Db6YANuGemkBmSw=",
+                    "CardType": "JC",
+                    "CardTypeDescription": "JCB",
+                    "Description": "",
+                    "ExpireMonth": "5",
+                    "ExpireYear": "2022",
+                    "IsPrimary": "false",
+                    "UnencryptedCardNumber": "XXXXXXXXXXXX7510",
+                    "EncryptedCardNumber": "",
+                    "DisplayCardNumber": "XXXXXXXXXXXX7510",
+                    "CIDCVV2": "",
+                    "CCName": "Testcard",
+                    "AddressKey": "yRwLiOCXms22zv47fCEJDhJzL4J5ogrBCbxR0R4JyXxPi8yBG8mVWULVYWbLxhE4",
+                    "PhoneKey": "",
+                    "Message": "",
+                    "AccountNumberToken": "c98dece9-c05e-4fd1-b9f5-733312b99a3c",
+                    "PersistentToken": "9053312884007510",
+                    "SecurityCodeToken": "",
+                    "BarCode": "",
+                    "IsCorporate": "false",
+                    "IsMandatory": "false",
+                    "IsValidForTPIPurchase": "false",
+                    "IsOAEPPaddingCatalogEnabled": "false"
+                  }
+                ]
+              },
+              "TravelerTypeCode": "ADT",
+              "TravelerTypeDescription": "Adults (age 18 to 64)",
+              "TravelProgramMemberId": "",
+              "KnownTravelerNumber": "135628698",
+              "RedressNumber": "",
+              "OwnerFirstName": "test",
+              "OwnerLastName": "Jeste",
+              "OwnerMiddleName": "sam",
+              "OwnerSuffix": "",
+              "OwnerTitle": "Mr.",
+              "PaxIndex": "0",
+              "IsTSAFlagON": "false",
+              "Message": "",
+              "MPNameNotMatchMessage": "",
+              "ISMPNameMisMatch": "false",
+              "ReservationEmailAddresses": {
+                "MOBEmail": {
+                  "Key": "ONp1Ze55mWzPi8Es02ipmhCupOCrAwlj1NbFwr8TKwSRFlBEktTAGkYfQHuj8fED",
+                  "Channel": {
+                    "ChannelCode": "E",
+                    "ChannelDescription": "Email",
+                    "ChannelTypeCode": "O",
+                    "ChannelTypeDescription": "Other"
+                  },
+                  "EmailAddress": "ramhari.nayak@united.com",
+                  "IsPrivate": "false",
+                  "IsDefault": "true",
+                  "IsPrimary": "true",
+                  "IsDayOfTravel": "false"
+                }
+              },
+              "ReservationPhones": {
+                "MOBCPPhone": {
+                  "AreaNumber": "872",
+                  "Attention": "",
+                  "ChannelCode": "P",
+                  "ChannelCodeDescription": "Phone",
+                  "ChannelTypeCode": "H",
+                  "ChannelTypeDescription": "Home",
+                  "ChannelTypeSeqNumber": "4",
+                  "CountryCode": "US",
+                  "CountryNumber": "",
+                  "CountryPhoneNumber": "1",
+                  "CustomerId": "122891368",
+                  "Description": "",
+                  "DiscontinuedDate": "1/1/3001 9:00:00 AM",
+                  "EffectiveDate": "12/10/2021 1:31:49 AM",
+                  "ExtensionNumber": "",
+                  "IsPrimary": "true",
+                  "IsPrivate": "false",
+                  "IsProfileOwner": "true",
+                  "Key": "oHU0Ry2UU6EbEJwZoS+OLMl/i7fOTP5e+CY0UcaMHeXlZZaASZYrmYDFdXjYRRUv",
+                  "LanguageCode": "EN",
+                  "MileagePlusId": "",
+                  "PagerPinNumber": "",
+                  "PhoneNumber": "8722422",
+                  "SharesCountryCode": "",
+                  "WrongPhoneDate": "",
+                  "DeviceTypeCode": "PH",
+                  "DeviceTypeDescription": "Phone",
+                  "IsDayOfTravel": "false",
+                  "IsSMSEnabled": "false"
+                }
+              },
+              "CustomerMetrics": {
+                "PTCCode": ""
+              },
+              "PaxID": "1",
+              "IsPaxSelected": "true",
+              "SelectedSpecialNeeds": "",
+              "SelectedSpecialNeedMessages": "",
+              "IsMustRideTraveler": "false"
+            },
+            {
+              "TotalFFCNewValueAfterRedeem": "",
+              "IndividualTotalAmount": "0",
+              "PTCDescription": "Infant (under 2)",
+              "IsEligibleForSeatSelection": "true",
+              "EmployeeId": "",
+              "Title": "",
+              "FirstName": "Tester",
+              "MiddleName": "",
+              "LastName": "Jester",
+              "Suffix": "",
+              "GenderCode": "M",
+              "BirthDate": "02/10/2021",
+              "IsProfileOwner": "false",
+              "IsDeceased": "false",
+              "IsExecutive": "false",
+              "CurrentEliteLevel": "0",
+              "Key": "fHIDX/Hdr+ON9mTlyWXZlOi4M5luroi0DATydKZD7sY=",
+              "CustomerId": "163694032",
+              "ProfileId": "59273512",
+              "ProfileOwnerId": "122891368",
+              "SecureTravelers": {
+                "MOBCPSecureTraveler": {
+                  "BirthDate": "05/05/2020",
+                  "CustomerId": "163694032",
+                  "Description": "",
+                  "DecumentType": "C",
+                  "FirstName": "Tester",
+                  "Gender": "M",
+                  "Key": "iz12p4hAQADiIRM++rqwqw==",
+                  "LastName": "Jester",
+                  "MiddleName": "",
+                  "Suffix": "",
+                  "KnownTravelerNumber": "",
+                  "RedressNumber": "",
+                  "SequenceNumber": "1"
+                }
+              },
+              "Phones": {
+                "MOBCPPhone": {
+                  "AreaNumber": "872",
+                  "Attention": "",
+                  "ChannelCode": "P",
+                  "ChannelCodeDescription": "Phone",
+                  "ChannelTypeCode": "H",
+                  "ChannelTypeDescription": "Home",
+                  "ChannelTypeSeqNumber": "1",
+                  "CountryCode": "US",
+                  "CountryNumber": "",
+                  "CountryPhoneNumber": "1",
+                  "CustomerId": "163694032",
+                  "Description": "",
+                  "DiscontinuedDate": "1/1/3001 12:00:00 AM",
+                  "EffectiveDate": "11/12/2021 7:00:21 AM",
+                  "ExtensionNumber": "",
+                  "IsPrimary": "true",
+                  "IsPrivate": "false",
+                  "IsProfileOwner": "false",
+                  "Key": "k3wR9SGgcaMp5WcnT3QXZy/eCu71FTENf276pbbi4rcu+QwyWTgXohL65GgfDu5v",
+                  "LanguageCode": "EN",
+                  "MileagePlusId": "",
+                  "PagerPinNumber": "",
+                  "PhoneNumber": "8721104",
+                  "SharesCountryCode": "",
+                  "WrongPhoneDate": "",
+                  "DeviceTypeCode": "PH",
+                  "DeviceTypeDescription": "Phone",
+                  "IsDayOfTravel": "true",
+                  "IsSMSEnabled": "false"
+                }
+              },
+              "AirPreferences": {
+                "MOBPrefAirPreference": {
+                  "CustomerId": "163694032",
+                  "ProfileId": "59273512",
+                  "AirPreferenceId": "98649783",
+                  "Key": "fHIDX/Hdr+ON9mTlyWXZlHB6CGQonu5BMwcxU9WPR68=",
+                  "MealId": "1",
+                  "MealCode": "--",
+                  "MealDescription": "No Preference",
+                  "SeatFrontBack": "0",
+                  "SeatSide": "0",
+                  "SeatSideDescription": "No Preference",
+                  "NumOfFlightsDisplay": "10",
+                  "SearchPreferenceId": "1",
+                  "SearchPreferenceDescription": "Price",
+                  "EquipmentId": "1",
+                  "EquipmentCode": "NONE",
+                  "EquipmentDesc": "No Preference",
+                  "ClassId": "1",
+                  "ClassDescription": "No Preference",
+                  "AirportCode": "",
+                  "AirportNameLong": "",
+                  "AirportNameShort": "",
+                  "VendorId": "1106",
+                  "VendorCode": "UA",
+                  "VendorDescription": "United",
+                  "IsNew": "false",
+                  "IsSelected": "false",
+                  "IsActive": "true",
+                  "LanguageCode": ""
+                }
+              },
+              "EmailAddresses": {
+                "MOBEmail": {
+                  "Key": "0919zAmKExYFBvFmvDzQR1hV92v0zQFVnfvDAhJ/mX6thZd0zZe1RKyOLNiYXAPn",
+                  "Channel": {
+                    "ChannelCode": "E",
+                    "ChannelDescription": "Email",
+                    "ChannelTypeCode": "U",
+                    "ChannelTypeDescription": "Unknown"
+                  },
+                  "EmailAddress": "kishore.thumati@united.com",
+                  "IsPrivate": "false",
+                  "IsDefault": "false",
+                  "IsPrimary": "false",
+                  "IsDayOfTravel": "true"
+                }
+              },
+              "TravelerTypeCode": "INF",
+              "TravelerTypeDescription": "Infants (under age 2) in adult's lap",
+              "TravelProgramMemberId": "",
+              "KnownTravelerNumber": "",
+              "RedressNumber": "",
+              "OwnerFirstName": "",
+              "OwnerLastName": "",
+              "OwnerMiddleName": "",
+              "OwnerSuffix": "",
+              "OwnerTitle": "",
+              "PaxIndex": "1",
+              "IsTSAFlagON": "false",
+              "Message": "",
+              "MPNameNotMatchMessage": "",
+              "ISMPNameMisMatch": "false",
+              "CustomerMetrics": {
+                "PTCCode": ""
+              },
+              "PaxID": "2",
+              "IsPaxSelected": "false",
+              "SelectedSpecialNeeds": "",
+              "SelectedSpecialNeedMessages": "",
+              "IsMustRideTraveler": "false"
+            },
+            {
+              "TotalFFCNewValueAfterRedeem": "",
+              "IndividualTotalAmount": "0",
+              "PTCDescription": "Child (15-17)",
+              "IsEligibleForSeatSelection": "true",
+              "EmployeeId": "",
+              "Title": "",
+              "FirstName": "Kranti",
+              "MiddleName": "",
+              "LastName": "Justin",
+              "Suffix": "",
+              "GenderCode": "M",
+              "BirthDate": "04/12/2006",
+              "IsProfileOwner": "false",
+              "IsDeceased": "false",
+              "IsExecutive": "false",
+              "CurrentEliteLevel": "0",
+              "Key": "3vVNdPuidayo48XPuoq2dUGzb9//Vt1sLTUbOP2WfYI=",
+              "CustomerId": "170117348",
+              "ProfileId": "59273512",
+              "ProfileOwnerId": "122891368",
+              "SecureTravelers": {
+                "MOBCPSecureTraveler": {
+                  "BirthDate": "04/12/2008",
+                  "CustomerId": "170117348",
+                  "Description": "",
+                  "DecumentType": "C",
+                  "FirstName": "Kranti",
+                  "Gender": "M",
+                  "Key": "WqV8nf9skomPR2pVvqBQUg==",
+                  "LastName": "Justin",
+                  "MiddleName": "",
+                  "Suffix": "",
+                  "KnownTravelerNumber": "",
+                  "RedressNumber": "",
+                  "SequenceNumber": "1"
+                }
+              },
+              "AirPreferences": {
+                "MOBPrefAirPreference": {
+                  "CustomerId": "170117348",
+                  "ProfileId": "59273512",
+                  "AirPreferenceId": "103557722",
+                  "Key": "3vVNdPuidayo48XPuoq2dTsHWRofTE3yjiW9ylk7Rng=",
+                  "MealId": "1",
+                  "MealCode": "--",
+                  "MealDescription": "No Preference",
+                  "SeatFrontBack": "0",
+                  "SeatSide": "0",
+                  "SeatSideDescription": "No Preference",
+                  "NumOfFlightsDisplay": "10",
+                  "SearchPreferenceId": "1",
+                  "SearchPreferenceDescription": "Price",
+                  "EquipmentId": "1",
+                  "EquipmentCode": "NONE",
+                  "EquipmentDesc": "No Preference",
+                  "ClassId": "1",
+                  "ClassDescription": "No Preference",
+                  "AirportCode": "",
+                  "AirportNameLong": "",
+                  "AirportNameShort": "",
+                  "VendorId": "1106",
+                  "VendorCode": "UA",
+                  "VendorDescription": "United",
+                  "IsNew": "false",
+                  "IsSelected": "false",
+                  "IsActive": "true",
+                  "LanguageCode": ""
+                }
+              },
+              "TravelerTypeCode": "C17",
+              "TravelerTypeDescription": "Children (age 15 to 17)",
+              "TravelProgramMemberId": "",
+              "KnownTravelerNumber": "",
+              "RedressNumber": "",
+              "OwnerFirstName": "",
+              "OwnerLastName": "",
+              "OwnerMiddleName": "",
+              "OwnerSuffix": "",
+              "OwnerTitle": "",
+              "PaxIndex": "2",
+              "IsTSAFlagON": "false",
+              "Message": "",
+              "MPNameNotMatchMessage": "",
+              "ISMPNameMisMatch": "false",
+              "CustomerMetrics": {
+                "PTCCode": ""
+              },
+              "PaxID": "3",
+              "IsPaxSelected": "false",
+              "SelectedSpecialNeeds": "",
+              "SelectedSpecialNeedMessages": "",
+              "IsMustRideTraveler": "false"
+            },
+            {
+              "TotalFFCNewValueAfterRedeem": "",
+              "IndividualTotalAmount": "0",
+              "PTCDescription": "Senior (65+)",
+              "IsEligibleForSeatSelection": "true",
+              "EmployeeId": "",
+              "Title": "",
+              "FirstName": "Naveen",
+              "MiddleName": "",
+              "LastName": "Justin",
+              "Suffix": "",
+              "GenderCode": "M",
+              "BirthDate": "04/12/1950",
+              "IsProfileOwner": "false",
+              "IsDeceased": "false",
+              "IsExecutive": "false",
+              "CurrentEliteLevel": "0",
+              "Key": "m/zb2afQc4Qk2XZ9ysgAet6Ihb7LrcpG3obYaBeefTg=",
+              "CustomerId": "169988854",
+              "ProfileId": "59273512",
+              "ProfileOwnerId": "122891368",
+              "SecureTravelers": {
+                "MOBCPSecureTraveler": {
+                  "BirthDate": "04/12/1984",
+                  "CustomerId": "169988854",
+                  "Description": "",
+                  "DecumentType": "C",
+                  "FirstName": "Naveen",
+                  "Gender": "M",
+                  "Key": "uijeRlsiPO7P9ZR4t59D2A==",
+                  "LastName": "Justin",
+                  "MiddleName": "",
+                  "Suffix": "",
+                  "KnownTravelerNumber": "",
+                  "RedressNumber": "",
+                  "SequenceNumber": "1"
+                }
+              },
+              "AirPreferences": {
+                "MOBPrefAirPreference": {
+                  "CustomerId": "169988854",
+                  "ProfileId": "59273512",
+                  "AirPreferenceId": "103556396",
+                  "Key": "m/zb2afQc4Qk2XZ9ysgAemKJUKLGjeIG5nZA76sYkqs=",
+                  "MealId": "1",
+                  "MealCode": "--",
+                  "MealDescription": "No Preference",
+                  "SeatFrontBack": "0",
+                  "SeatSide": "0",
+                  "SeatSideDescription": "No Preference",
+                  "NumOfFlightsDisplay": "10",
+                  "SearchPreferenceId": "1",
+                  "SearchPreferenceDescription": "Price",
+                  "EquipmentId": "1",
+                  "EquipmentCode": "NONE",
+                  "EquipmentDesc": "No Preference",
+                  "ClassId": "1",
+                  "ClassDescription": "No Preference",
+                  "AirportCode": "",
+                  "AirportNameLong": "",
+                  "AirportNameShort": "",
+                  "VendorId": "1106",
+                  "VendorCode": "UA",
+                  "VendorDescription": "United",
+                  "IsNew": "false",
+                  "IsSelected": "false",
+                  "IsActive": "true",
+                  "LanguageCode": ""
+                }
+              },
+              "TravelerTypeCode": "SNR",
+              "TravelerTypeDescription": "Senior (age 65 and older)",
+              "TravelProgramMemberId": "",
+              "KnownTravelerNumber": "",
+              "RedressNumber": "",
+              "OwnerFirstName": "",
+              "OwnerLastName": "",
+              "OwnerMiddleName": "",
+              "OwnerSuffix": "",
+              "OwnerTitle": "",
+              "PaxIndex": "3",
+              "IsTSAFlagON": "false",
+              "Message": "",
+              "MPNameNotMatchMessage": "",
+              "ISMPNameMisMatch": "false",
+              "CustomerMetrics": {
+                "PTCCode": ""
+              },
+              "PaxID": "4",
+              "IsPaxSelected": "false",
+              "SelectedSpecialNeeds": "",
+              "SelectedSpecialNeedMessages": "",
+              "IsMustRideTraveler": "false"
+            }
+          ]
+        },
+        "NextViewName": "RTI",
+        "ReservationAgeBoundInfo": {
+          "MinimumAge": "14",
+          "UpBoundAge": "18",
+          "ErrorMessage": "Children under the age of 5 cannot travel unless they’re accompanied by a parent, legal guardian or someone who is at least 18 years old. Children ages 5-14 who are traveling unaccompanied must use our unaccompanied minor service, which cannot be booked with the United app. Please go to united.com to book."
+        },
+        "IsShowBookingBundles": "true",
+        "ShouldHideBackButton": "false",
+        "IsUnfinihedBookingPath": "false",
+        "IsIBELite": "false",
+        "IsIBE": "false",
+        "SpecialNeeds": {
+          "HighTouchItems": "",
+          "SpecialMeals": "",
+          "SpecialMealsMessages": {
+            "MOBItem": [
+              {
+                "Id": "",
+                "CurrentValue": "We're unable to book a  meal on this route.",
+                "SaveToPersist": "false"
+              }
+            ]
+          },
+          "SpecialRequests": {
+            "MOBTravelSpecialNeed": [
+              {
+                "Value": "19",
+                "Code": "BSCT",
+                "DisplayDescription": "Bassinet/cot",
+                "RegisterServiceDescription": "Bassinet/cot",
+                "Type": "SpecialRequest"
+              },
+              {
+                "Value": "6",
+                "Code": "BLND",
+                "DisplayDescription": "Blind",
+                "RegisterServiceDescription": "Blind",
+                "Type": "SpecialRequest"
+              },
+              {
+                "Value": "7",
+                "Code": "DEAF",
+                "DisplayDescription": "Deaf",
+                "RegisterServiceDescription": "Deaf",
+                "Type": "SpecialRequest"
+              },
+              {
+                "Value": "20",
+                "Code": "DPNA_1",
+                "DisplayDescription": "Cognitive disability",
+                "RegisterServiceDescription": "Cognitive disability",
+                "Type": "SpecialRequest",
+                "Messages": {
+                  "MOBItem": [
+                    {
+                      "Id": "",
+                      "CurrentValue": "After booking your flight, you must call the Accessibility Desk at 1-800-228-2744 to complete your request for assistance.",
+                      "SaveToPersist": "false"
+                    }
+                  ]
+                }
+              },
+              {
+                "Value": "21",
+                "Code": "DPNA_2",
+                "DisplayDescription": "Other disability requiring assistance",
+                "RegisterServiceDescription": "Other disability requiring assistance",
+                "Type": "SpecialRequest",
+                "Messages": {
+                  "MOBItem": [
+                    {
+                      "Id": "",
+                      "CurrentValue": "After booking your flight, you must call the Accessibility Desk at 1-800-228-2744 to complete your request for assistance.",
+                      "SaveToPersist": "false"
+                    }
+                  ]
+                }
+              },
+              {
+                "Value": "",
+                "Code": "Bringing a wheelchair",
+                "DisplayDescription": "Bringing a wheelchair",
+                "RegisterServiceDescription": "Bringing a wheelchair",
+                "Type": "SpecialRequest",
+                "SubOptions": {
+                  "MOBTravelSpecialNeed": [
+                    {
+                      "Value": "16",
+                      "Code": "WCBD",
+                      "DisplayDescription": "Dry cell battery",
+                      "RegisterServiceDescription": "Dry cell battery",
+                      "Type": "SpecialRequest"
+                    },
+                    {
+                      "Value": "17",
+                      "Code": "WCBW",
+                      "DisplayDescription": "Wet cell battery",
+                      "RegisterServiceDescription": "Wet cell battery",
+                      "Type": "SpecialRequest"
+                    },
+                    {
+                      "Value": "22",
+                      "Code": "WCLB",
+                      "DisplayDescription": "Lithium-ion battery",
+                      "RegisterServiceDescription": "Lithium-ion battery",
+                      "Type": "SpecialRequest"
+                    },
+                    {
+                      "Value": "18",
+                      "Code": "WCMP",
+                      "DisplayDescription": "Manual power",
+                      "RegisterServiceDescription": "Manual power",
+                      "Type": "SpecialRequest"
+                    }
+                  ]
+                },
+                "SubOptionHeader": "Select power type"
+              },
+              {
+                "Value": "4",
+                "Code": "WCHR",
+                "DisplayDescription": "Cannot walk long distance",
+                "RegisterServiceDescription": "Cannot walk long distance",
+                "Type": "SpecialRequest"
+              },
+              {
+                "Value": "3",
+                "Code": "WCHS",
+                "DisplayDescription": "Cannot ascend or descend stairs",
+                "RegisterServiceDescription": "Cannot ascend or descend stairs",
+                "Type": "SpecialRequest"
+              },
+              {
+                "Value": "14",
+                "Code": "WCHC",
+                "DisplayDescription": "Cannot walk",
+                "RegisterServiceDescription": "Cannot walk",
+                "Type": "SpecialRequest"
+              },
+              {
+                "Value": "23",
+                "Code": "OTHS",
+                "DisplayDescription": "Service Animal",
+                "RegisterServiceDescription": "Service Animal",
+                "Type": "SpecialRequest"
+              }
+            ]
+          },
+          "SpecialRequestsMessages": "",
+          "ServiceAnimals": {
+            "MOBTravelSpecialNeed": [
+              {
+                "Value": "9",
+                "Code": "SVAN",
+                "DisplayDescription": "Balance-assistance dog",
+                "RegisterServiceDescription": "Balance-assistance dog",
+                "Type": "ServiceAnimalType"
+              },
+              {
+                "Value": "3",
+                "Code": "SVAN",
+                "DisplayDescription": "Guide dog",
+                "RegisterServiceDescription": "Guide dog",
+                "Type": "ServiceAnimalType"
+              },
+              {
+                "Value": "2",
+                "Code": "SVAN",
+                "DisplayDescription": "Hearing dog",
+                "RegisterServiceDescription": "Hearing dog",
+                "Type": "ServiceAnimalType"
+              },
+              {
+                "Value": "10",
+                "Code": "SVAN",
+                "DisplayDescription": "Psychiatric assistance dog",
+                "RegisterServiceDescription": "Psychiatric assistance dog",
+                "Type": "ServiceAnimalType"
+              },
+              {
+                "Value": "99",
+                "Code": "ESAN",
+                "DisplayDescription": "",
+                "Type": "TravelSpecialNeedInfo",
+                "Messages": {
+                  "MOBItem": [
+                    {
+                      "Id": "",
+                      "CurrentValue": "United requires the <a href=\"https://media.united.com/images/Media%20Database/SDL/Travel/special%20needs/disabilities/0091_WE_Service-Animal-Health-Behavior-Training-Form.pdf\">Training and Behavior Form</a> and, if applicable, the <a href=\"https://media.united.com/images/Media%20Database/SDL/Travel/special%20needs/disabilities/0091_WE_Service-Animal-Relief-Formmm.pdf\">Relief Form</a> to be completed, printed, and carried with you during your trip.\n<br /><br />\nWe no longer accept emotional support animals due to new Department of Transportation regulations.\n<br /><br /><a href=\"https://www.united.com/ual/en/US/fly/travel/special-needs/disabilities/assistance-animals.html\">Review our service animal policy</a>",
+                      "SaveToPersist": "false"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "ServiceAnimalsMessages": ""
+        },
+        "PurchaseToTravelTimeIsWithinSevenDays": "false",
+        "Characteristics": {
+          "MOBItem": [
+            {
+              "Id": "Refundable",
+              "CurrentValue": "False",
+              "SaveToPersist": "false"
+            },
+            {
+              "Id": "ContentLookupID",
+              "CurrentValue": "Messages:63",
+              "SaveToPersist": "false"
+            },
+            {
+              "Id": "BBXID",
+              "CurrentValue": "jMY0JicwiwwauWjny0bCcp",
+              "SaveToPersist": "false"
+            },
+            {
+              "Id": "TRIP_TYPE",
+              "CurrentValue": "OW",
+              "SaveToPersist": "false"
+            },
+            {
+              "Id": "StationCode",
+              "CurrentValue": "HOU",
+              "SaveToPersist": "false"
+            }
+          ]
+        },
+        "HideSelectSeatOnRTI": "false",
+        "HideTravelOptionsOnRTI": "false",
+        "IsMultipleTravelerEtcFeatureClientToggleEnabled": "true",
+        "TravelType": "RA",
+        "SeatRemoveCouponPopupCount": "0",
+        "IsSelectSeatsFromRTI": "false",
+        "IsOmniCartSavedTrip": "false",
+        "IsOmniCartSavedTripFlow": "false",
+        "IsCallRegisterOffersForBundle": "true"
+      },
+      "IsRedirectToSecondaryPayment": "false",
+      "RecordLocator": "",
+      "CheckedbagChargebutton": "",
+      "IsBookingCommonFOPEnabled": "true",
+      "IsReshopCommonFOPEnabled": "false",
+      "IsPostBookingCommonFOPEnabled": "false",
+      "_xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+    }
+  }
+]

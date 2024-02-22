@@ -1,0 +1,174 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "additionalData": "",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.69",
+        "minor": "4.1.69"
+      }
+    },
+    "cartId": "7B0CB23F-DFCE-4B2D-B2FB-C3ED04EB5F5B",
+    "cartKey": "",
+    "deviceId": "3f00a702-a143-4d6c-9e4d-16a10a0d7798",
+    "fareLockAutoTicket": false,
+    "flow": "VIEWRES",
+    "formofPaymentDetails": {
+      "billingAddress": {
+        "apartmentNumber": "",
+        "channel": {
+          "channelCode": "A",
+          "channelDescription": "Address",
+          "channelTypeCode": "H"
+        },
+        "city": "Chicago",
+        "companyName": "",
+        "country": {
+          "code": "US",
+          "phoneCode": ""
+        },
+        "isCorporate": false,
+        "isDefault": true,
+        "isPrimary": true,
+        "isPrivate": false,
+        "isTemparory": false,
+        "isValidForTPIPurchase": true,
+        "jobTitle": "",
+        "key": "4VvWXjmLQtpCrD+WH39SZaigEjpP6Uciu+6+2BCHrkT9B9nlDk0VIuZEr36HKfX5",
+        "line1": "213 lane test",
+        "line2": "",
+        "line3": "",
+        "postalCode": "60606",
+        "state": {
+          "code": "IL",
+          "name": ""
+        }
+      },
+      "creditCard": {
+        "accountNumberToken": "f8e7e1c3-e529-47b1-aaaa-a95aba447e8b",
+        "addressKey": "4vXdTCisFbrep36UiA37qdAfFlSEmdpfTVf1PYSd+GkEQxwgOoAnCGV81VlM1Nmh",
+        "cardDescription": 0,
+        "cardType": "MC",
+        "cardTypeDescription": "MasterCard",
+        "cCName": "master",
+        "cIDCVV2": "",
+        "creditCardTypeCode": 0,
+        "description": "",
+        "displayCardNumber": "XXXXXXXXXXXX0007",
+        "encryptedCardNumber": "",
+        "expireMonth": "1",
+        "expireYear": "2039",
+        "groupPaymentType": 0,
+        "inputCapability": 0,
+        "isCorporate": false,
+        "isMandatory": false,
+        "isOAEPPaddingCatalogEnabled": false,
+        "isPrimary": false,
+        "isTemparory": false,
+        "isValidForTPIPurchase": true,
+        "key": "wbre4agJwULaf2OtVekNQpRdYnCQWvq9vMRbaTjz9DJ8WepcB3GgjNELVh/QDBb6tQqd2QAID1b8Rzq4+q+0f+xyGS7ASRVhnYLXpMHvv0g=",
+        "message": "",
+        "persistentToken": "7066583965040007",
+        "phoneKey": "",
+        "pinEntryCapability": 0,
+        "terminalAttended": 0,
+        "terminalCardholderActivated": 0,
+        "unencryptedCardNumber": "XXXXXXXXXXXX0007",
+        "walletCategory": 0
+      },
+      "email": {
+        "channel": {
+          "channelCode": "E",
+          "channelDescription": "Email",
+          "channelTypeCode": "H"
+        },
+        "emailAddress": "maqbool.sheik@united.com",
+        "isDefault": true,
+        "isPrimary": true,
+        "isPrivate": false,
+        "key": "tqyI3IMtRkTKqkjI24/5PelZzMDGXLD3uBJVzJi/Lbmo76jtkxuT68tAJT6zeKqO"
+      },
+      "emailAddress": "maqbool.sheik@united.com",
+      "formOfPaymentType": "CreditCard",
+      "isOtherFOPRequired": false,
+      "phone": {
+        "areaNumber": "872",
+        "attention": "",
+        "channelCode": "P",
+        "channelCodeDescription": "Phone",
+        "channelTypeCode": "H",
+        "channelTypeDescription": "",
+        "channelTypeSeqNumber": 23,
+        "countryCode": "US",
+        "countryNumber": "",
+        "countryPhoneNumber": "1",
+        "customerId": 123723799,
+        "description": "",
+        "deviceTypeCode": "PH",
+        "discontinuedDate": "1/1/3001 9:00:00 AM",
+        "effectiveDate": "11/23/2022 1:01:43 PM",
+        "extensionNumber": "",
+        "isPrimary": true,
+        "isPrivate": false,
+        "isProfileOwner": true,
+        "key": "0DKUJGICBCrGiMHT0X1GXNZftEZwI4GklaeK/BJ3wm85C/lHBWi/FSnjUIM36ElX",
+        "languageCode": "",
+        "mileagePlusId": "",
+        "pagerPinNumber": "",
+        "phoneNumber": "8721109",
+        "sharesCountryCode": "",
+        "wrongPhoneDate": ""
+      },
+      "travelCertificate": {
+        "allowedETCAmount": 56,
+        "displayTotalRedeemAmountText": "0.00",
+        "maxAmountOfETCsAllowed": 9999.99,
+        "maxNumberOfETCsAllowed": 10,
+        "notAllowedETCAmount": 0,
+        "removeAllCertificateAlertMessage": {
+          "isDefaultOpen": true,
+          "text1": "All applied travel certificates will be removed from the purchase.",
+          "text2": "Cancel",
+          "text3": "Continue"
+        },
+        "reviewETCMessages": [
+          {
+            "contentFull": "A credit card,debit card or additional travel certificate(s) will be needed for the remaining balances.<a href=\"https://www.united.com/ual/en/us/fly/booking/flight/travel-credits.html\" target=\"_blank\">Learn more about travel certificates</a>.",
+            "contentShort": "",
+            "headLine": "TravelCertificate_Combinability_ReviewETCAlertMsgs_OtherFopRequiredMessage",
+            "locationCode": "",
+            "title": ""
+          },
+          {
+            "contentFull": "You'll have a remaining balance of <b>${0}</b>. This will be combined into a new travel certificate that you'll receive via email once you complete your purchase. The latest expiration date will become your new travel certificate's expiration date",
+            "contentShort": "",
+            "headLine": "TravelCertificate_Combinability_ReviewETCAlertMsgs_ETCBalanceAttentionmessage",
+            "locationCode": "",
+            "title": ""
+          }
+        ],
+        "savedETCMessages": [
+          {
+            "contentFull": "The maximum value of your available travel certificates has been applied.If you're also purchasing non-ticket items,a debit or credit card will be needed for the remaining balance.",
+            "contentShort": "",
+            "headLine": "Attention",
+            "locationCode": "",
+            "title": ""
+          }
+        ],
+        "totalRedeemAmount": "0.0"
+      }
+    },
+    "isSecondaryPayment": false,
+    "isTPI": false,
+    "languageCode": "en-US",
+    "mileagePlusNumber": "",
+    "paymentAmount": "56.00",
+    "pointOfSale": "",
+    "sessionId": "1687574C19F24A38BAAE10D6939190AE",
+    "transactionId": "3f00a702-a143-4d6c-9e4d-16a10a0d7798|be819e9e-d41a-4a70-a4a6-863173ebcb62"
+  }
+]

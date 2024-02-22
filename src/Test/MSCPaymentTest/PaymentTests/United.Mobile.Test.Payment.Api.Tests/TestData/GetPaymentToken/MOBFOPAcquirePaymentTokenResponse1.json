@@ -1,0 +1,13 @@
+{
+  "callDuration": 1087,
+  "cartId": "85C527B0-0381-41FE-B4D0-47288563CAB2",
+  "cslSessionId": "",
+  "exception": null,
+  "flow": "VIEWRES",
+  "languageCode": "en-US",
+  "machineName": "ip-10-37-150-195",
+  "objectName": "United.Definition.MOBFOPAcquirePaymentTokenResponse",
+  "sessionId": "87CA0339808D42489609D64421E628D9",
+  "token": "https://www.sandbox.paypal.com/checkoutnow?token=EC-0BH3448720952472T",
+  "transactionId": "910e2370-9d70-4689-861f-9687c2380be7|5a283e54-d0f5-4778-8f25-3dc73e0d5ceb"
+}

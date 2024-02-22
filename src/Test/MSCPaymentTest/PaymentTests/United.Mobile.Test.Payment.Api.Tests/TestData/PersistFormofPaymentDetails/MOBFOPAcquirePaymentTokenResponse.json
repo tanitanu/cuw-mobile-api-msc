@@ -1,0 +1,55 @@
+[
+  {
+    "shoppingCart": {
+      "promoCodeDetails": {
+        "promoCodes": [
+          {
+            "promoCode": "testcode",
+            "isRemove": true
+
+          }
+        ]
+      }
+    },
+    "reservation": {
+
+    },
+    "eligibleFormofPayments": [
+      {
+
+      }
+    ],
+    "maxCountMessage": "",
+    "promoCodeRemovalAlertMessage": {
+
+    }
+  },
+  {
+    "shoppingCart": {
+      "promoCodeDetails": {
+        "promoCodes": [
+          {
+            "promoCode": "testcode",
+            "isRemove": true
+
+          }
+        ]
+      }
+    },
+    "reservation": {
+
+    },
+    "eligibleFormofPayments": [
+      {
+
+      }
+    ],
+    "maxCountMessage": "",
+    "promoCodeRemovalAlertMessage": {
+
+    }
+  }
+]
+
+
+

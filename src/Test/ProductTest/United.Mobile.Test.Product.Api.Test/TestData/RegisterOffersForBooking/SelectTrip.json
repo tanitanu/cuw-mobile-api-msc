@@ -1,0 +1,935 @@
+﻿[
+  {
+    "SelectTrip": {
+      "ObjectName": "United.Persist.Definition.Shopping.SelectTrip",
+      "Requests": {
+        "item": {
+          "key": {
+            "string": "0EATGMCXbDDFTHbQD5Y1j86"
+          },
+          "value": {
+            "MOBSHOPSelectTripRequest": {
+              "AccessCode": "ACCESSCODE",
+              "TransactionId": "faad5311-dd06-479c-a19c-4fb9f1a4afae|5fb7ee92-d032-4447-bf23-713f8bb34ae3",
+              "LanguageCode": "en-US",
+              "Application": {
+                "Id": "2",
+                "Name": "Android",
+                "Version": {
+                  "Major": "4.1.51",
+                  "Minor": "4.1.51"
+                },
+                "IsProduction": "false"
+              },
+              "DeviceId": "faad5311-dd06-479c-a19c-4fb9f1a4afae",
+              "CartId": "",
+              "LengthOfCalendar": "6",
+              "SessionId": "E00A45EDC7A94840B04A5A13D7440B9A",
+              "TripId": "0EATGMCXbDDFTHbQD5Y1j86",
+              "FlightId": "Gp2ZyNjMnOWSqBY2",
+              "ProductId": "E1xrrG2W2KERkVpEhK1BZH007",
+              "RewardId": "-1",
+              "UseFilters": "false",
+              "Filters": {
+                "CabinCountMax": "0",
+                "CabinCountMin": "0",
+                "CarrierDefault": "false",
+                "CarrierExpress": "false",
+                "CarrierPartners": "false",
+                "CarrierStar": "false",
+                "DurationMax": "0",
+                "DurationMin": "0",
+                "DurationStopMax": "0",
+                "DurationStopMin": "0",
+                "PriceMax": "0",
+                "PriceMin": "0",
+                "StopCountExcl": "0",
+                "StopCountMax": "0",
+                "StopCountMin": "0",
+                "PageNumber": "0",
+                "ShowPriceFilters": "false",
+                "ShowDepartureFilters": "false",
+                "ShowArrivalFilters": "false",
+                "ShowDurationFilters": "false",
+                "ShowLayOverFilters": "false",
+                "ShowSortingandFilters": "false",
+                "FilterSortPaging": "false",
+                "ShowRefundableFaresToggle": "false",
+                "RefundableFaresToggle": {
+                  "Key": "RefundableFares",
+                  "Value": "Refundable Fares",
+                  "DisplayValue": "Refundable fares from $295",
+                  "Amount": "",
+                  "Currency": "",
+                  "IsSelected": "false"
+                }
+              },
+              "BackButtonClick": "false",
+              "ISProductSelected": "true",
+              "GetNonStopFlightsOnly": "false",
+              "GetFlightsWithStops": "false",
+              "CatalogItems": {
+                "MOBItem": [
+                  {
+                    "Id": "21388",
+                    "CurrentValue": "1",
+                    "SaveToPersist": "false"
+                  },
+                  {
+                    "Id": "21389",
+                    "CurrentValue": "0",
+                    "SaveToPersist": "false"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "Responses": {
+        "item": {
+          "key": {
+            "string": "0EATGMCXbDDFTHbQD5Y1j86"
+          },
+          "value": {
+            "MOBSHOPSelectTripResponse": {
+              "TransactionId": "faad5311-dd06-479c-a19c-4fb9f1a4afae|5fb7ee92-d032-4447-bf23-713f8bb34ae3",
+              "LanguageCode": "en-US",
+              "MachineName": "03",
+              "CallDuration": "0",
+              "Request": {
+                "AccessCode": "ACCESSCODE",
+                "TransactionId": "faad5311-dd06-479c-a19c-4fb9f1a4afae|5fb7ee92-d032-4447-bf23-713f8bb34ae3",
+                "LanguageCode": "en-US",
+                "Application": {
+                  "Id": "2",
+                  "Name": "Android",
+                  "Version": {
+                    "Major": "4.1.51",
+                    "Minor": "4.1.51"
+                  },
+                  "IsProduction": "false"
+                },
+                "DeviceId": "faad5311-dd06-479c-a19c-4fb9f1a4afae",
+                "CartId": "",
+                "LengthOfCalendar": "6",
+                "SessionId": "E00A45EDC7A94840B04A5A13D7440B9A",
+                "TripId": "0EATGMCXbDDFTHbQD5Y1j86",
+                "FlightId": "Gp2ZyNjMnOWSqBY2",
+                "ProductId": "E1xrrG2W2KERkVpEhK1BZH007",
+                "RewardId": "-1",
+                "UseFilters": "false",
+                "Filters": {
+                  "CabinCountMax": "0",
+                  "CabinCountMin": "0",
+                  "CarrierDefault": "false",
+                  "CarrierExpress": "false",
+                  "CarrierPartners": "false",
+                  "CarrierStar": "false",
+                  "DurationMax": "0",
+                  "DurationMin": "0",
+                  "DurationStopMax": "0",
+                  "DurationStopMin": "0",
+                  "PriceMax": "0",
+                  "PriceMin": "0",
+                  "StopCountExcl": "0",
+                  "StopCountMax": "0",
+                  "StopCountMin": "0",
+                  "PageNumber": "0",
+                  "ShowPriceFilters": "false",
+                  "ShowDepartureFilters": "false",
+                  "ShowArrivalFilters": "false",
+                  "ShowDurationFilters": "false",
+                  "ShowLayOverFilters": "false",
+                  "ShowSortingandFilters": "false",
+                  "FilterSortPaging": "false",
+                  "ShowRefundableFaresToggle": "false",
+                  "RefundableFaresToggle": {
+                    "Key": "RefundableFares",
+                    "Value": "Refundable Fares",
+                    "DisplayValue": "Refundable fares from $295",
+                    "Amount": "",
+                    "Currency": "",
+                    "IsSelected": "false"
+                  }
+                },
+                "BackButtonClick": "false",
+                "ISProductSelected": "true",
+                "GetNonStopFlightsOnly": "false",
+                "GetFlightsWithStops": "false",
+                "CatalogItems": {
+                  "MOBItem": [
+                    {
+                      "Id": "21388",
+                      "CurrentValue": "1",
+                      "SaveToPersist": "false"
+                    },
+                    {
+                      "Id": "21389",
+                      "CurrentValue": "0",
+                      "SaveToPersist": "false"
+                    }
+                  ]
+                }
+              },
+              "Availability": {
+                "MaxTPFlightSelectCount": "0",
+                "HideFareWheel": "false",
+                "TravelerCount": "1",
+                "AwardTravel": "false",
+                "SessionId": "E00A45EDC7A94840B04A5A13D7440B9A",
+                "CartId": "E00A45ED-C7A9-4840-B04A-5A13D7440B9A",
+                "CloseInBookingFee": "0",
+                "Reservation": {
+                  "IsReshopChange": "false",
+                  "FormOfPaymentType": "CreditCard",
+                  "IsCubaTravel": "false",
+                  "OverMileageLimitMessage": "You can earn up to 75,000 award miles per ticket. The 75,000 award miles cap may be applied to your posted flight activity in an order different than shown.",
+                  "OverMileageLimitAmount": "75000",
+                  "AwardTravel": "false",
+                  "IsRefundable": "false",
+                  "ISInternational": "false",
+                  "ISFlexibleSegmentExist": "false",
+                  "PointOfSale": "US",
+                  "SeatMessage": "",
+                  "TravelOptionMessage": "",
+                  "SessionId": "E00A45EDC7A94840B04A5A13D7440B9A",
+                  "RecordLocator": "",
+                  "SearchType": "OW",
+                  "CartId": "",
+                  "IsSignedInWithMP": "false",
+                  "Trips": {
+                    "MOBSHOPTrip": {
+                      "Index": "0",
+                      "Origin": "IAH",
+                      "OriginAllAirports": "-1",
+                      "Destination": "DEN",
+                      "DestinationAllAirports": "-1",
+                      "DepartDate": "05/29/2022",
+                      "ArrivalDate": "05/29/2022",
+                      "Cabin": "",
+                      "UseFilters": "false",
+                      "SearchNearbyOriginAirports": "false",
+                      "SearchNearbyDestinationAirports": "false",
+                      "ShareMessage": "",
+                      "ChangeType": "ChangeFlight",
+                      "DisableEplus": "false",
+                      "DestinationDecodedWithCountry": "Denver, CO, US (DEN)",
+                      "OriginDecodedWithCountry": "Houston, TX, US (IAH)",
+                      "YqyrMessage": "",
+                      "TripId": "0EATGMCXbDDFTHbQD5Y1j86",
+                      "OriginDecoded": "Houston, TX (IAH)",
+                      "DestinationDecoded": "Denver, CO (DEN)",
+                      "ShowOriginDestinationForFlights": "false",
+                      "FlattenedFlights": {
+                        "MOBSHOPFlattenedFlight": {
+                          "TripId": "0EATGMCXbDDFTHbQD5Y1j86",
+                          "FlightId": "Gp2ZyNjMnOWSqBY2",
+                          "CabinMessage": "",
+                          "ProductId": "",
+                          "Flights": {
+                            "MOBSHOPFlight": {
+                              "ReshopFees": "",
+                              "ReshopCreditColor": "NONE",
+                              "IsChangeFeeWaiver": "false",
+                              "IsCovidTestFlight": "false",
+                              "DestinationDecodedWithCountry": "Denver, CO, US (DEN)",
+                              "OriginDecodedWithCountry": "Houston, TX, US (IAH)",
+                              "OriginStateCode": "TX",
+                              "DestinationStateCode": "CO",
+                              "YaDiscount": "",
+                              "IsAddcollectWaived": "false",
+                              "CorporateFareIndicator": "",
+                              "MilesDisplayValue": "",
+                              "CabinDisclaimer": "",
+                              "AvailSeatsDisclaimer": "",
+                              "PreferredCabinName": "",
+                              "PreferredCabinMessage": "",
+                              "OvernightConnection": "",
+                              "AirportChange": "",
+                              "ShowSeatMap": "false",
+                              "IsStopOver": "false",
+                              "TripId": "0EATGMCXbDDFTHbQD5Y1j86",
+                              "FlightId": "Gp2ZyNjMnOWSqBY2",
+                              "ProductId": "",
+                              "Airfare": "245.0",
+                              "AirfareDisplayValue": "$245",
+                              "SeatsRemaining": "0",
+                              "Cabin": "Coach",
+                              "ChangeOfGauge": "false",
+                              "ConnectTimeMinutes": "",
+                              "DepartDate": "Sun., May 29, 2022",
+                              "DepartTime": "8:12am",
+                              "Destination": "DEN",
+                              "DestinationDate": "Sun., May 29, 2022",
+                              "DestinationTime": "9:45am",
+                              "DestinationDescription": "Denver, CO (DEN)",
+                              "DestinationCountryCode": "US",
+                              "EquipmentDisclosures": {
+                                "EquipmentDescription": "Boeing 737-800",
+                                "EquipmentType": "738",
+                                "IsSingleCabin": "false",
+                                "NoBoardingAssistance": "false",
+                                "NonJetEquipment": "false",
+                                "WheelchairsNotAllowed": "false"
+                              },
+                              "FareBasisCode": "VAA0AKEN",
+                              "FlightNumber": "2053",
+                              "GroundTime": "0",
+                              "InternationalCity": "",
+                              "IsCheapestAirfare": "false",
+                              "IsConnection": "false",
+                              "MarketingCarrier": "UA",
+                              "MarketingCarrierDescription": "United Airlines",
+                              "Miles": "861",
+                              "OperatingCarrier": "UA",
+                              "OperatingCarrierDescription": "",
+                              "Origin": "IAH",
+                              "OriginDescription": "Houston, TX (IAH)",
+                              "OriginCountryCode": "US",
+                              "Selected": "false",
+                              "StopDestination": "",
+                              "Stops": "0",
+                              "TravelTime": "2h 33m",
+                              "TotalTravelTime": "2h 33m",
+                              "Messages": {
+                                "MOBSHOPMessage": [
+                                  {
+                                    "TripId": "",
+                                    "FlightId": "",
+                                    "ConnectionIndex": "",
+                                    "FlightNumberField": "",
+                                    "MessageCode": "United Economy (V)"
+                                  },
+                                  {
+                                    "TripId": "",
+                                    "FlightId": "",
+                                    "ConnectionIndex": "",
+                                    "FlightNumberField": "",
+                                    "MessageCode": "Snacks for Purchase"
+                                  }
+                                ]
+                              },
+                              "Meal": "Snacks for Purchase",
+                              "FPWSAir": "false",
+                              "ServiceClass": "V",
+                              "ServiceClassDescription": "United Economy",
+                              "EPAMessageTitle": "",
+                              "EPAMessage": "",
+                              "ShowEPAMessage": "false",
+                              "IsCheckInWindow": "false",
+                              "CheckInWindowText": "",
+                              "DepartureDateTime": "05/29/2022 08:12 AM",
+                              "ArrivalDateTime": "05/29/2022 09:45 AM",
+                              "DepartureDateTimeGMT": "05/29/2022 01:12 PM",
+                              "ArrivalDateTimeGMT": "05/29/2022 03:45 PM",
+                              "IsReshopCredit": "false",
+                              "MatchServiceClassRequested": "false",
+                              "HasInSeatPower": "false",
+                              "HasWifi": "false",
+                              "HasDirecTV": "false",
+                              "HasAVOnDemand": "false",
+                              "HasBeverageService": "false",
+                              "HasEconomyLieFlatSeating": "false",
+                              "HasEconomyMeal": "false",
+                              "HasFirstClassMeal": "false",
+                              "HasFirstClassLieFlatSeating": "false",
+                              "ShoppingProducts": {
+                                "MOBSHOPShoppingProduct": {
+                                  "ProductId": "E1xrrG2W2KERkVpEhK1BZH007",
+                                  "Type": "ECONOMY",
+                                  "SubType": "",
+                                  "LongCabin": "",
+                                  "ReshopFees": "",
+                                  "IsReshopCredit": "false",
+                                  "ReshopCreditColor": "NONE",
+                                  "Cabin": "",
+                                  "Description": "",
+                                  "Price": "$245",
+                                  "MilesDisplayValue": "",
+                                  "PriceAmount": "245.0",
+                                  "MilesDisplayAmount": "0",
+                                  "Meal": "Snacks for Purchase",
+                                  "ProductDetail": {
+                                    "Title": "",
+                                    "Header": "",
+                                    "Body": "",
+                                    "PqdText": "",
+                                    "PqmText": "",
+                                    "RdmText": "",
+                                    "ProductCabinMessages": ""
+                                  },
+                                  "IsMixedCabin": "false",
+                                  "AwardType": "",
+                                  "AllCabinButtonText": "",
+                                  "IsSelectedCabin": "false",
+                                  "MileageButton": "-1",
+                                  "SeatsRemaining": "0",
+                                  "PqdText": "",
+                                  "PqmText": "",
+                                  "RdmText": "",
+                                  "ISPremierCabinSaver": "false",
+                                  "IsUADiscount": "false",
+                                  "IsELF": "false",
+                                  "CabinType": "Coach",
+                                  "PriceFromText": "for",
+                                  "IsIBELite": "false",
+                                  "IsIBE": "false",
+                                  "ProductCode": "",
+                                  "CabinDescription": "United Economy",
+                                  "BookingCode": "V"
+                                }
+                              },
+                              "SegID": "",
+                              "SegmentNumber": "0",
+                              "FlightDepartureDays": "",
+                              "FlightArrivalDays": "",
+                              "PqdText": "",
+                              "PqmText": "",
+                              "RdmText": "",
+                              "YqyrMessage": "",
+                              "GovtMessage": "",
+                              "IsAwardSaver": "false",
+                              "RedEyeFlightDepDate": "",
+                              "NextDayFlightArrDate": "",
+                              "FlightDateChanged": "false",
+                              "TripIndex": "1",
+                              "FlightHash": "149-2053-UA",
+                              "OperatingCarrierFlightNumber": "2053",
+                              "LineOfFlightMessage": "United Economy (V) / Snacks for Purchase",
+                              "ChangeOfPlane": "false",
+                              "IsThroughFlight": "false"
+                            }
+                          },
+                          "TripDays": "",
+                          "IsUADiscount": "false",
+                          "IsAddcollectWaived": "false",
+                          "FlightHash": "149-2053-UA",
+                          "AirPortChange": "",
+                          "IsIBELite": "false",
+                          "IsIBE": "false",
+                          "IsElf": "false",
+                          "IsChangeFeeWaiver": "false",
+                          "IsCovidTestFlight": "false"
+                        }
+                      },
+                      "FlightCount": "1",
+                      "TotalFlightCount": "0",
+                      "LastTripIndexRequested": "0",
+                      "CallDurationText": "",
+                      "PageCount": "0",
+                      "FlightDateChangeMessage": "Please note this flight involves a date change",
+                      "TripHasNonStopflightsOnly": "false"
+                    }
+                  },
+                  "Prices": {
+                    "MOBSHOPPrice": [
+                      {
+                        "PaxTypeCode": "ADT",
+                        "Waived": "false",
+                        "PriceIndex": "",
+                        "CurrencyCode": "USD",
+                        "PriceType": "",
+                        "DisplayType": "TRAVELERPRICE",
+                        "DisplayValue": "213.95",
+                        "TotalBaseFare": "",
+                        "TotalOtherTaxes": "",
+                        "FormattedDisplayValue": "$213.95",
+                        "Value": "213.95",
+                        "PriceTypeDescription": "Fare Oneway (1 adult)",
+                        "ProductId": "",
+                        "PaxTypeDescription": "1 adult (18-64)"
+                      },
+                      {
+                        "Waived": "false",
+                        "PriceIndex": "",
+                        "CurrencyCode": "USD",
+                        "PriceType": "",
+                        "DisplayType": "TOTAL",
+                        "DisplayValue": "244.60",
+                        "TotalBaseFare": "",
+                        "TotalOtherTaxes": "",
+                        "FormattedDisplayValue": "$244.60",
+                        "Value": "244.6",
+                        "PriceTypeDescription": "total",
+                        "ProductId": "",
+                        "PaxTypeDescription": "0 total"
+                      },
+                      {
+                        "Waived": "false",
+                        "Status": "",
+                        "PriceIndex": "",
+                        "CurrencyCode": "USD",
+                        "PriceType": "GRAND TOTAL",
+                        "DisplayType": "GRAND TOTAL",
+                        "DisplayValue": "244.60",
+                        "TotalBaseFare": "",
+                        "TotalOtherTaxes": "",
+                        "FormattedDisplayValue": "$244.60",
+                        "Value": "244.6",
+                        "ProductId": ""
+                      },
+                      {
+                        "Waived": "false",
+                        "Status": "",
+                        "PriceIndex": "",
+                        "CurrencyCode": "USD",
+                        "PriceType": "",
+                        "DisplayType": "TOTALPRICEFORUPLIFT",
+                        "DisplayValue": "244.60",
+                        "TotalBaseFare": "",
+                        "TotalOtherTaxes": "",
+                        "FormattedDisplayValue": "$244.60",
+                        "Value": "244.6",
+                        "ProductId": ""
+                      }
+                    ]
+                  },
+                  "NumberOfTravelers": "1",
+                  "CreditCards": "",
+                  "CreditCards2": "",
+                  "TravelersRegistered": "false",
+                  "CreditCardsAddress": "",
+                  "UnregisterFareLock": "true",
+                  "FareLock": {
+                    "FareLockHoldButtonText": "Hold fare",
+                    "FareLockTextTop": "United’s FareLock service lets you hold your fare and complete the purchase of your itinerary at a later time.",
+                    "FareLockTextBottom": "FareLock fees are nonrefundable and not applied toward the price of the ticket.",
+                    "FareLockPurchaseButtonText": "Purchase now",
+                    "FareLockPurchaseButtonAmount": "244.6",
+                    "FareLockPurchaseButtonAmountDisplayText": "244.6",
+                    "FareLockMinAmount": "999999.9",
+                    "FareLockDisplayMinAmount": "999999.9",
+                    "FareLockTitleText": "Hold fare with FareLock℠",
+                    "FareLockDescriptionText": "Hold Reservation Using FareLock",
+                    "FareLockDisclaimerText": "",
+                    "FareLockTermsAndConditions": "",
+                    "FareLockProducts": ""
+                  },
+                  "TCDAdvisoryMessages": {
+                    "MOBItem": [
+                      {
+                        "Id": "PhoneEmail",
+                        "CurrentValue": "Providing a traveler’s mobile number and/or email address indicates that he or she consents to receive SMS and/or email messages via the contact information provided concerning flight status updates or notifications, and as otherwise permitted by our privacy policy. Standard messaging and data rates may apply. Messaging frequency varies based on customer preferences and the status of flight operations.",
+                        "SaveToPersist": "false"
+                      },
+                      {
+                        "Id": "PurchaseTnC",
+                        "CurrentValue": "Purchase of this ticket means you understand and agree to all fare rules associated with this ticket, all terms and conditions associated with any additional offer/product purchases made, United’s dangerous goods policy, and the terms and conditions in United’s Contract of Carriage.",
+                        "SaveToPersist": "false"
+                      },
+                      {
+                        "Id": "TCDmessage",
+                        "CurrentValue": "View text messaging terms and conditions. U.S. supported carriers are AT&T, U.S. Cellular®, Verizon Wireless, Sprint, Cricket, Boost, Virgin Mobile USA , T-Mobile® and MetroPCS. Canadian supported carriers are Aliant Mobility, Bell Mobility, Eastlink, Fido, Mobilicity, MTS, NorthernTel Mobility, Public Mobile, Rogers Wireless, SaskTel Mobility, Télébec Mobilité, TELUS Mobility, Vidéotron, Virgin Mobile Canada, WIND Mobile. The wireless carriers are not liable for delayed or undelivered messages. U.S. and Canadian customers may opt out at any time by texting STOP to 26266 from their mobile device. For more information, text HELP to 26266 or call 1-800-UNITED-1 (1-800-864-8331).",
+                        "SaveToPersist": "false"
+                      }
+                    ]
+                  },
+                  "FlightShareMessage": "United itinerary: May 29, 1 traveler, one way, Economy. Flight 2053 from IAH to DEN .",
+                  "PKDispenserPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiS5xQZAwPM5WEdqcuOnwDLap9GWCD6+sthlWDpwTs4W9zpkc/esXfRAD9hq6KP6QcLm1Xg0Qc2CYMOpmqQAC8CdGxsn4RC+eRzr9UvdGsRyGWOADcIdtPXaUMyhue3MfWguifVHFeuMdFsK10BtAsBTIEnTeqpJHLUxfAdcmHgMo6LEDGKYQxp1aeN0TtrlvFg2qeeV7YrkRdL85P1ghgGc6yGoO+WzmID2NwxHMVgrJJl2ICkyNyXqnyu+UAk70NmvVu8MJwSfCWgVB7caGxQaPRfVb7dv4OQpnlSl6vFe60A8lzXZPThP96168Xc7tZB2q4otoFuzJxQp39S5uMwIDAQAB",
+                  "IneligibleToEarnCreditMessage": "This itinerary includes one or more flights that are ineligible to earn mileage or Premier qualifying credit.",
+                  "OaIneligibleToEarnCreditMessage": "Ineligible to accrue mileage or Premier qualifying credit.",
+                  "GetALLSavedTravelers": "true",
+                  "IsEmp20": "false",
+                  "IsELF": "false",
+                  "IsMetaSearch": "false",
+                  "IsUpgradedFromEntryLevelFare": "false",
+                  "IsSSA": "true",
+                  "ShopReservationInfo2": {
+                    "IsDisplayCart": "true",
+                    "IsCovidTestFlight": "false",
+                    "ShowSelectDifferentFOPAtRTI": "false",
+                    "IsArrangerBooking": "false",
+                    "IsYATravel": "false",
+                    "DisplayTravelTypes": {
+                      "MOBDisplayTravelType": {
+                        "PaxID": "1",
+                        "PaxType": "ADT",
+                        "TravelerDescription": "Adult (18-64)",
+                        "TravelerType": "Adult"
+                      }
+                    },
+                    "TravelOptionEligibleTravelersCount": "0",
+                    "TravelerTypes": {
+                      "MOBTravelerType": [
+                        {
+                          "Count": "1",
+                          "TravelerType": "Adult"
+                        },
+                        {
+                          "Count": "0",
+                          "TravelerType": "Senior"
+                        },
+                        {
+                          "Count": "0",
+                          "TravelerType": "Child15To17"
+                        },
+                        {
+                          "Count": "0",
+                          "TravelerType": "Child12To14"
+                        },
+                        {
+                          "Count": "0",
+                          "TravelerType": "Child5To11"
+                        },
+                        {
+                          "Count": "0",
+                          "TravelerType": "Child2To4"
+                        },
+                        {
+                          "Count": "0",
+                          "TravelerType": "InfantSeat"
+                        },
+                        {
+                          "Count": "0",
+                          "TravelerType": "InfantLap"
+                        }
+                      ]
+                    },
+                    "InfoNationalityAndResidence": {
+                      "ComplianceTaxes": {
+                        "ArrayOfMOBSHOPTax": [
+                          {
+                            "MOBSHOPTax": [
+                              {
+                                "Amount": "30.65",
+                                "DisplayAmount": "$30.65",
+                                "CurrencyCode": "USD",
+                                "NewAmount": "0",
+                                "DisplayNewAmount": "",
+                                "TaxCode": "PERPERSONTAX",
+                                "TaxCodeDescription": "1 adult (18-64): $30.65/person"
+                              },
+                              {
+                                "Amount": "16.05",
+                                "DisplayAmount": "$16.05",
+                                "CurrencyCode": "USD",
+                                "NewAmount": "0",
+                                "DisplayNewAmount": "",
+                                "TaxCode": "US",
+                                "TaxCodeDescription": "U.S. Transportation Tax"
+                              },
+                              {
+                                "Amount": "4.5",
+                                "DisplayAmount": "$4.50",
+                                "CurrencyCode": "USD",
+                                "NewAmount": "0",
+                                "DisplayNewAmount": "",
+                                "TaxCode": "XF",
+                                "TaxCodeDescription": "U.S. Passenger Facility Charge"
+                              },
+                              {
+                                "Amount": "4.5",
+                                "DisplayAmount": "$4.50",
+                                "CurrencyCode": "USD",
+                                "NewAmount": "0",
+                                "DisplayNewAmount": "",
+                                "TaxCode": "ZP",
+                                "TaxCodeDescription": "U.S. Flight Segment Tax"
+                              },
+                              {
+                                "Amount": "5.6",
+                                "DisplayAmount": "$5.60",
+                                "CurrencyCode": "USD",
+                                "NewAmount": "0",
+                                "DisplayNewAmount": "",
+                                "TaxCode": "AY",
+                                "TaxCodeDescription": "September 11th Security Fee"
+                              }
+                            ]
+                          },
+                          {
+                            "MOBSHOPTax": {
+                              "Amount": "30.65",
+                              "DisplayAmount": "$30.65",
+                              "CurrencyCode": "USD",
+                              "NewAmount": "0",
+                              "DisplayNewAmount": "",
+                              "TaxCode": "TOTALTAX",
+                              "TaxCodeDescription": "Taxes and fees total"
+                            }
+                          }
+                        ]
+                      },
+                      "IsRequireNationalityAndResidence": "false"
+                    },
+                    "IsForceSeatMapInRTI": "false",
+                    "IsForceSeatMap": "false",
+                    "IsPaxRegisterd": "false",
+                    "EnableFinalBookingAgreenPurchaseButton": "true",
+                    "NextViewName": "",
+                    "ReservationAgeBoundInfo": {
+                      "MinimumAge": "14",
+                      "UpBoundAge": "18",
+                      "ErrorMessage": "Children under the age of 5 cannot travel unless they’re accompanied by a parent, legal guardian or someone who is at least 18 years old. Children ages 5-14 who are traveling unaccompanied must use our unaccompanied minor service, which cannot be booked with the United app. Please go to united.com to book."
+                    },
+                    "IsShowBookingBundles": "true",
+                    "ShouldHideBackButton": "false",
+                    "IsUnfinihedBookingPath": "false",
+                    "IsIBELite": "false",
+                    "IsIBE": "false",
+                    "SpecialNeeds": {
+                      "SpecialMealsMessages": {
+                        "MOBItem": {
+                          "Id": "",
+                          "CurrentValue": "We're unable to book a  meal on this route.",
+                          "SaveToPersist": "false"
+                        }
+                      },
+                      "SpecialRequests": {
+                        "MOBTravelSpecialNeed": [
+                          {
+                            "Value": "19",
+                            "Code": "BSCT",
+                            "DisplayDescription": "Bassinet/cot",
+                            "RegisterServiceDescription": "Bassinet/cot",
+                            "Type": "SpecialRequest"
+                          },
+                          {
+                            "Value": "6",
+                            "Code": "BLND",
+                            "DisplayDescription": "Blind",
+                            "RegisterServiceDescription": "Blind",
+                            "Type": "SpecialRequest"
+                          },
+                          {
+                            "Value": "7",
+                            "Code": "DEAF",
+                            "DisplayDescription": "Deaf",
+                            "RegisterServiceDescription": "Deaf",
+                            "Type": "SpecialRequest"
+                          },
+                          {
+                            "Value": "20",
+                            "Code": "DPNA_1",
+                            "DisplayDescription": "Cognitive disability",
+                            "RegisterServiceDescription": "Cognitive disability",
+                            "Type": "SpecialRequest",
+                            "Messages": {
+                              "MOBItem": {
+                                "Id": "",
+                                "CurrentValue": "After booking your flight, you must call the Accessibility Desk at 1-800-228-2744 to complete your request for assistance.",
+                                "SaveToPersist": "false"
+                              }
+                            }
+                          },
+                          {
+                            "Value": "21",
+                            "Code": "DPNA_2",
+                            "DisplayDescription": "Other disability requiring assistance",
+                            "RegisterServiceDescription": "Other disability requiring assistance",
+                            "Type": "SpecialRequest",
+                            "Messages": {
+                              "MOBItem": {
+                                "Id": "",
+                                "CurrentValue": "After booking your flight, you must call the Accessibility Desk at 1-800-228-2744 to complete your request for assistance.",
+                                "SaveToPersist": "false"
+                              }
+                            }
+                          },
+                          {
+                            "Value": "",
+                            "Code": "Bringing a wheelchair",
+                            "DisplayDescription": "Bringing a wheelchair",
+                            "RegisterServiceDescription": "Bringing a wheelchair",
+                            "Type": "SpecialRequest",
+                            "SubOptions": {
+                              "MOBTravelSpecialNeed": [
+                                {
+                                  "Value": "16",
+                                  "Code": "WCBD",
+                                  "DisplayDescription": "Dry cell battery",
+                                  "RegisterServiceDescription": "Dry cell battery",
+                                  "Type": "SpecialRequest"
+                                },
+                                {
+                                  "Value": "17",
+                                  "Code": "WCBW",
+                                  "DisplayDescription": "Wet cell battery",
+                                  "RegisterServiceDescription": "Wet cell battery",
+                                  "Type": "SpecialRequest"
+                                },
+                                {
+                                  "Value": "22",
+                                  "Code": "WCLB",
+                                  "DisplayDescription": "Lithium-ion battery",
+                                  "RegisterServiceDescription": "Lithium-ion battery",
+                                  "Type": "SpecialRequest"
+                                },
+                                {
+                                  "Value": "18",
+                                  "Code": "WCMP",
+                                  "DisplayDescription": "Manual power",
+                                  "RegisterServiceDescription": "Manual power",
+                                  "Type": "SpecialRequest"
+                                }
+                              ]
+                            },
+                            "SubOptionHeader": "Select power type"
+                          },
+                          {
+                            "Value": "4",
+                            "Code": "WCHR",
+                            "DisplayDescription": "Cannot walk long distance",
+                            "RegisterServiceDescription": "Cannot walk long distance",
+                            "Type": "SpecialRequest"
+                          },
+                          {
+                            "Value": "3",
+                            "Code": "WCHS",
+                            "DisplayDescription": "Cannot ascend or descend stairs",
+                            "RegisterServiceDescription": "Cannot ascend or descend stairs",
+                            "Type": "SpecialRequest"
+                          },
+                          {
+                            "Value": "14",
+                            "Code": "WCHC",
+                            "DisplayDescription": "Cannot walk",
+                            "RegisterServiceDescription": "Cannot walk",
+                            "Type": "SpecialRequest"
+                          },
+                          {
+                            "Value": "23",
+                            "Code": "OTHS",
+                            "DisplayDescription": "Service Animal",
+                            "RegisterServiceDescription": "Service Animal",
+                            "Type": "SpecialRequest"
+                          }
+                        ]
+                      },
+                      "ServiceAnimals": {
+                        "MOBTravelSpecialNeed": [
+                          {
+                            "Value": "9",
+                            "Code": "SVAN",
+                            "DisplayDescription": "Balance-assistance dog",
+                            "RegisterServiceDescription": "Balance-assistance dog",
+                            "Type": "ServiceAnimalType"
+                          },
+                          {
+                            "Value": "3",
+                            "Code": "SVAN",
+                            "DisplayDescription": "Guide dog",
+                            "RegisterServiceDescription": "Guide dog",
+                            "Type": "ServiceAnimalType"
+                          },
+                          {
+                            "Value": "2",
+                            "Code": "SVAN",
+                            "DisplayDescription": "Hearing dog",
+                            "RegisterServiceDescription": "Hearing dog",
+                            "Type": "ServiceAnimalType"
+                          },
+                          {
+                            "Value": "10",
+                            "Code": "SVAN",
+                            "DisplayDescription": "Psychiatric assistance dog",
+                            "RegisterServiceDescription": "Psychiatric assistance dog",
+                            "Type": "ServiceAnimalType"
+                          },
+                          {
+                            "Value": "99",
+                            "Code": "ESAN",
+                            "DisplayDescription": "",
+                            "Type": "TravelSpecialNeedInfo",
+                            "Messages": {
+                              "MOBItem": {
+                                "Id": "",
+                                "CurrentValue": "United requires the <a href=\"https://media.united.com/images/Media%20Database/SDL/Travel/special%20needs/disabilities/0091_WE_Service-Animal-Health-Behavior-Training-Form.pdf\">Training and Behavior Form</a> and, if applicable, the <a href=\"https://media.united.com/images/Media%20Database/SDL/Travel/special%20needs/disabilities/0091_WE_Service-Animal-Relief-Formmm.pdf\">Relief Form</a> to be completed, printed, and carried with you during your trip.\n<br /><br />\nWe no longer accept emotional support animals due to new Department of Transportation regulations.\n<br /><br /><a href=\"https://www.united.com/ual/en/US/fly/travel/special-needs/disabilities/assistance-animals.html\">Review our service animal policy</a>",
+                                "SaveToPersist": "false"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "PurchaseToTravelTimeIsWithinSevenDays": "false",
+                    "Characteristics": {
+                      "MOBItem": [
+                        {
+                          "Id": "Refundable",
+                          "CurrentValue": "False",
+                          "SaveToPersist": "false"
+                        },
+                        {
+                          "Id": "ContentLookupID",
+                          "CurrentValue": "Messages:63",
+                          "SaveToPersist": "false"
+                        },
+                        {
+                          "Id": "BBXID",
+                          "CurrentValue": "bYx29zS0gfMk9mvzL0beIq",
+                          "SaveToPersist": "false"
+                        },
+                        {
+                          "Id": "TRIP_TYPE",
+                          "CurrentValue": "OW",
+                          "SaveToPersist": "false"
+                        },
+                        {
+                          "Id": "StationCode",
+                          "CurrentValue": "HOU",
+                          "SaveToPersist": "false"
+                        }
+                      ]
+                    },
+                    "HideSelectSeatOnRTI": "false",
+                    "HideTravelOptionsOnRTI": "false",
+                    "IsMultipleTravelerEtcFeatureClientToggleEnabled": "false",
+                    "TravelType": "RA",
+                    "SeatRemoveCouponPopupCount": "0",
+                    "IsSelectSeatsFromRTI": "false",
+                    "IsOmniCartSavedTrip": "false",
+                    "IsOmniCartSavedTripFlow": "false",
+                    "HideBackButtonOnSelectTraveler": "false",
+                    "IsNonRefundableNonChangable": "false"
+                  },
+                  "IsRedirectToSecondaryPayment": "false",
+                  "CheckedbagChargebutton": "View checked bag charges",
+                  "IsBookingCommonFOPEnabled": "false",
+                  "IsReshopCommonFOPEnabled": "false",
+                  "IsPostBookingCommonFOPEnabled": "false",
+                  "TripInsuranceInfoBookingPath": {
+                    "amount": 56.89,
+                    "title": "Booking",
+                    "TPIAIGReturnedMessageContentList": [
+                      {
+                        "Id": "1",
+                        "CurrentValue": "234",
+                        "SaveToPersist": false
+                      },
+                      {
+                        "Id": "2",
+                        "CurrentValue": "1000",
+                        "SaveToPersist": false
+                      }
+                    ]
+                  }
+                },
+                "CallDuration": "",
+                "UaDiscount": "",
+                "OfferMetaSearchElfUpsell": "false",
+                "DisablePricingBySlice": "false",
+                "PriceTextDescription": "",
+                "FSRFareDescription": "Fares are for the entire one-way trip, per person. <a href='https://www.united.com/web/en-US/content/travel/baggage/checked-baggage.aspx'>Additional bag charges may apply.</a>",
+                "SortDisclaimerText": "United flights may be listed first.",
+                "IsShopRefreshRequired": "false"
+              },
+              "Disclaimer": {
+                "string": "*Miles shown are the actual miles flown for this segment. Mileage accrued will vary depending on the terms and conditions of your frequent flyer program.  United MileagePlus mileage accrual is subject to the rules of the MileagePlus program."
+              },
+              "IsTokenAuthenticated": "false",
+              "CartId": "E00A45ED-C7A9-4840-B04A-5A13D7440B9A",
+              "RefreshResultsData": "05/29/2022,0EATGMCXbDDFTHbQD5Y1j86,E1xrrG2W2KERkVpEhK1BZH007",
+              "IsDefaultPaymentOption": "false"
+            }
+          }
+        }
+      },
+      "LastSelectTripKey": "0EATGMCXbDDFTHbQD5Y1j86",
+      "_xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+    }
+  }
+]
+

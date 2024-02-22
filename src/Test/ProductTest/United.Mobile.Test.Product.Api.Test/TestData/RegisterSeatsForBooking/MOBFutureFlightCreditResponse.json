@@ -1,0 +1,304 @@
+[
+  {
+    "captions": [
+
+      {
+
+      }
+    ],
+    "eligibleFormofPayments": [
+      {
+        "category": "CC",
+        "fullName": "Credit Card",
+        "code": "VI",
+        "fopDescription": "Visa",
+        "deleteOrder": false
+      }
+    ],
+    "shoppingCart": {
+      "cartId": "",
+      "flow": "",
+      "products": null,
+      "totalPrice": "",
+      "displayTotalPrice": "",
+      "displaySubTotalPrice": "",
+      "displayTaxesAndFees": "",
+      "totalMiles": null,
+      "formofPaymentDetails": null,
+      "scTravelers": null,
+      "pointofSale": "",
+      "currencyCode": "",
+      "alertMessages": null,
+      "termsAndConditions": null,
+      "paymentTarget": null,
+      "couponOfferDescription": null,
+      "couponCode": null,
+      "isCouponApplied": false,
+      "disableCouponEditOption": false,
+      "travelers": null,
+      "trips": null,
+      "prices": null,
+      "taxes": null,
+      "captions": null,
+      "isCouponEligibleProduct": false,
+      "elfLimitations": null,
+      "flightShareMessage": "",
+      "displayTotalMiles": null,
+      "partialCouponEligibleMessage": null,
+      "partialCouponEligibleUrl": null,
+      "paymentAlerts": null,
+      "bundleCartId": null,
+      "certificateTravelers": null,
+      "isMultipleTravelerEtcFeatureClientToggleEnabled": false,
+      "profileTravelerCertificates": null,
+      "tripInfoForUplift": null,
+      "confirmationPageAlertMessages": null,
+      "promoCodeDetails": null,
+      "inFlightContactlessPaymentEligibility": null,
+      "cslWorkFlowType": 0,
+      "isHidePaymentMethod": false,
+      "omniCart": null
+    },
+
+    "reservation": {
+      "TravelersCSL": [
+        {
+          "TotalFFCNewValueAfterRedeem": "$11.60",
+          "FutureFlightCredits": [
+
+            {
+              "MOBFOPFutureFlightCredit": {
+                "IsEligibleToRedeem": "false",
+                "IsNameMatch": "false",
+                "IsNameMatchWaiverApplied": "false",
+                "IsTravelDateBeginsBeforeCertExpiry": "false",
+                "PromoCode": "21FFCR",
+                "PaxId": "3",
+                "CreditAmount": "$145.20",
+                "RecordLocator": "BTWJKM",
+                "ExpiryDate": "December 31, 2022",
+                "IsRemove": "false",
+                "IsCertificateApplied": "true",
+                "Index": "1",
+                "NewValueAfterRedeem": "11.6",
+                "RedeemAmount": "133.6",
+                "DisplayRedeemAmount": "$133.60",
+                "DisplayNewValueAfterRedeem": "$11.60",
+                "CurrentValue": "133.6",
+                "InitialValue": "580",
+                "PinCode": "51Y9X4CC5B",
+                "RecipientsLastName": "gaurieqa",
+                "RecipientsFirstName": "shankarr",
+                "TravelerNameIndex": "1.1"
+              }
+            }
+          ],
+          "CslReservationPaxTypeCode": "ADT",
+          "IndividualTotalAmount": "133.6",
+          "PTCDescription": "Adult (18-64)",
+          "IsEligibleForSeatSelection": "true",
+          "EmployeeId": "",
+          "Title": "",
+          "FirstName": "shankarr",
+          "MiddleName": "",
+          "LastName": "gaurieqa",
+          "Suffix": "",
+          "GenderCode": "M",
+          "BirthDate": "03/24/1995",
+          "IsProfileOwner": "false",
+          "IsDeceased": "false",
+          "IsExecutive": "false",
+          "CurrentEliteLevel": "0",
+          "Key": "HcVN4rfy9ETF4hBDz9izyUE44KhBcMco05Bbnk4tvBE=",
+          "CustomerId": "170090874",
+          "ProfileId": "59925026",
+          "ProfileOwnerId": "123901727",
+          "SecureTravelers": [
+            {
+              "MOBCPSecureTraveler": {
+                "BirthDate": "03/24/1995",
+                "CustomerId": "170090874",
+                "Description": "",
+                "DecumentType": "C",
+                "FirstName": "shankar",
+                "Gender": "M",
+                "Key": "o7oWYxeppZMYcV/W3Y+80g==",
+                "LastName": "gaurieqa",
+                "MiddleName": "",
+                "Suffix": "",
+                "KnownTravelerNumber": "",
+                "RedressNumber": "",
+                "SequenceNumber": "1"
+              }
+            }
+          ],
+          "Phones": [
+            {
+              "MOBCPPhone": {
+                "AreaNumber": "999",
+                "Attention": "",
+                "ChannelCode": "P",
+                "ChannelCodeDescription": "Phone",
+                "ChannelTypeCode": "H",
+                "ChannelTypeDescription": "Home",
+                "ChannelTypeSeqNumber": "1",
+                "CountryCode": "US",
+                "CountryNumber": "",
+                "CountryPhoneNumber": "1",
+                "CustomerId": "170090874",
+                "Description": "",
+                "DiscontinuedDate": "1/1/3001 12:00:00 AM",
+                "EffectiveDate": "12/1/2021 8:11:09 AM",
+                "ExtensionNumber": "",
+                "IsPrimary": "true",
+                "IsPrivate": "false",
+                "IsProfileOwner": "false",
+                "Key": "BCqtItwndjTvUS9Nz9QYsJBa0kUEymGBZwcm8VO5Hg3QJPWaSMCZQl/KsktQHlT0",
+                "LanguageCode": "EN",
+                "MileagePlusId": "",
+                "PagerPinNumber": "",
+                "PhoneNumber": "9999999",
+                "SharesCountryCode": "",
+                "WrongPhoneDate": "",
+                "DeviceTypeCode": "PH",
+                "DeviceTypeDescription": "",
+                "IsDayOfTravel": "false",
+                "IsSMSEnabled": "false"
+              }
+            }
+          ],
+          "AirPreferences": [
+            {
+              "MOBPrefAirPreference": {
+                "CustomerId": "170090874",
+                "ProfileId": "59925026",
+                "AirPreferenceId": "103557397",
+                "Key": "HcVN4rfy9ETF4hBDz9izyboxNNkefCjHvdS2VSwByps=",
+                "MealId": "1",
+                "MealCode": "--",
+                "MealDescription": "No Preference",
+                "SeatFrontBack": "0",
+                "SeatSide": "0",
+                "SeatSideDescription": "No Preference",
+                "NumOfFlightsDisplay": "10",
+                "SearchPreferenceId": "1",
+                "SearchPreferenceDescription": "Price",
+                "EquipmentId": "1",
+                "EquipmentCode": "NONE",
+                "EquipmentDesc": "No Preference",
+                "ClassId": "1",
+                "ClassDescription": "No Preference",
+                "AirportCode": "",
+                "AirportNameLong": "",
+                "AirportNameShort": "",
+                "VendorId": "1106",
+                "VendorCode": "UA",
+                "VendorDescription": "United",
+                "IsNew": "false",
+                "IsSelected": "false",
+                "IsActive": "true",
+                "LanguageCode": "",
+                "ServiceAnimals": ""
+              }
+            }
+          ],
+          "EmailAddresses": [
+            {
+              "MOBEmail": {
+                "Key": "rZK+Jvdt8MdJ2TD92dZ2iRCAMjayRL+Fn4Ax1SmrTYWxf0xOwt2Elvn7wg7pHJXA",
+                "Channel": {
+                  "ChannelCode": "E",
+                  "ChannelDescription": "Email",
+                  "ChannelTypeCode": "O",
+                  "ChannelTypeDescription": "Other"
+                },
+                "EmailAddress": "aryanakshay.verdu@dxc.com",
+                "IsPrivate": "false",
+                "IsDefault": "false",
+                "IsPrimary": "false",
+                "IsDayOfTravel": "false"
+              }
+            }
+          ],
+          "TravelerTypeCode": "ADT",
+          "TravelerTypeDescription": "Adults (age 18 to 64)",
+          "TravelProgramMemberId": "",
+          "KnownTravelerNumber": "",
+          "RedressNumber": "",
+          "OwnerFirstName": "",
+          "OwnerLastName": "",
+          "OwnerMiddleName": "",
+          "OwnerSuffix": "",
+          "OwnerTitle": "",
+          "PaxIndex": "0",
+          "Seats": [
+            {
+              "MOBSeat": {
+                "PriceBeforeCouponApplied": "0",
+                "Adjustments": "",
+                "PriceAfterCouponApplied": "0",
+                "IsCouponApplied": "false",
+                "LimitedRecline": "false",
+                "SeatAssignment": "",
+                "Origin": "IAH",
+                "Destination": "ORD",
+                "TravelerSharesIndex": "0",
+                "Key": "0",
+                "UAOperated": "true",
+                "Price": "0",
+                "PriceAfterTravelerCompanionRules": "0",
+                "Currency": "",
+                "ProgramCode": "",
+                "SeatType": "",
+                "OldSeatPrice": "0",
+                "IsEPA": "false",
+                "IsEPAFreeCompanion": "false",
+                "Miles": "0",
+                "MilesAfterTravelerCompanionRules": "0",
+                "OldSeatMiles": "0",
+                "MilesBeforeCouponApplied": "0",
+                "MilesAfterCouponApplied": "0"
+              }
+            }
+          ],
+          "TravelerNameIndex": "1.1",
+          "IsTSAFlagON": "false",
+          "Message": "",
+          "MPNameNotMatchMessage": "",
+          "ISMPNameMisMatch": "false",
+          "PaxID": "3",
+          "IsPaxSelected": "true",
+          "SelectedSpecialNeeds": "",
+          "SelectedSpecialNeedMessages": "",
+          "IsMustRideTraveler": "false"
+        }
+      ]
+    },
+
+
+
+
+    "profiles": null,
+    "pkDispenserPublicKey": "12345",
+    "webShareToken": "",
+    "webSessionShareUrl": "",
+    "sessionId": "",
+    "checkinSessionId": "",
+    "flow": "",
+    "transactionId": "",
+    "languageCode": "en-US",
+    "machineName": "03",
+    "callDuration": 1614,
+    "exception": {
+      "code": "9999",
+      "message": "If you have any travel credits, we'll send an email to aa@aa.com.",
+      "errMessage": " -    at United.Mobile.DAL.Providers.FFC.FutureFlightCredit.ManageFutureFlightCredit(MOBFutureFlightCreditRequest mOBFutureFlightCredit, Session session) in D:\\BuildAgent\\work\\80b01633b647c62c\\United.Mobile.DAL\\Providers\\FFC\\FutureFlightCredit.cs:line 53\r\n   at United.Web.API.Controllers.PaymentController.FutureFlightCredit(MOBFutureFlightCreditRequest request) in D:\\BuildAgent\\work\\80b01633b647c62c\\United.Web.API\\Controllers\\PaymentController.cs:line 1354"
+
+    }
+
+  }
+]
+
+  
+
+

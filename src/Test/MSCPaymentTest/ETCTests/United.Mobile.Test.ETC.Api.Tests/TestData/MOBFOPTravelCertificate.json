@@ -1,0 +1,35 @@
+[
+  {
+    "certificates": [
+      {
+        "pinCode": "52100",
+        "yearIssued": "2022",
+        "recipientsLastName": "raj",
+        "recipientsFirstName": "anil",
+        "travelerNameIndex": "2",
+        "redeemAmount": 3.0,
+        "initialValue": 4.0,
+        "currentValue": 2.0,
+        "isForAllTravelers": true,
+        "newValueAfterRedeem": 2.0,
+        "displayRedeemAmount": "yes",
+        "displayNewValueAfterRedeem": "yes",
+        "index": 1,
+        "certificateTraveler": {
+
+          "travelerNameIndex": "1",
+          "name": "raj",
+          "isCertificateApplied": true,
+          "individualTotalAmount": 3.0,
+          "paxID": 0
+        }
+
+      }
+    ],
+    "certificateButtonText": "ABC",
+    "totalRedeemAmount": "2.0",
+    "displayTotalRedeemAmountText": "XYZ",
+    "maxNumberOfETCsAllowed": 1
+
+  }
+]

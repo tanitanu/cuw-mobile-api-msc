@@ -1,0 +1,24 @@
+[
+  {
+    "hashPinCode": "6C34576C019B2C11D08EC825AE227828EFD0E470",
+    "lastName": "EQALOYALTY",
+    "mileagePlusNumber": "AW714108",
+    "override24HrFlex": false,
+    "overrideATREEligible": false,
+    "recordLocator": "F8S4CN",
+    "sessionId": "4CAE49A12AB74B5CA3E06EFE7BE9ECC9",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.41",
+        "minor": "4.1.41"
+      }
+    },
+    "deviceId": "14d2ca06-92a1-48d8-9db6-5ac657e401dc",
+    "languageCode": "en-US",
+    "transactionId": "14d2ca06-92a1-48d8-9db6-5ac657e401dc|f1a9c71a-7714-4864-90ba-3986fa9e1fd8"
+  }
+]

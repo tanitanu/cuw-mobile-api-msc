@@ -1,0 +1,39 @@
+[
+  {
+    "combineCertificates": [
+      {
+        "currentValue": 0.0,
+        "editingIndex": 0,
+        "index": 0,
+        "initialValue": 0.0,
+        "isCertificateApplied": false,
+        "isForAllTravelers": false,
+        "isProfileCertificate": false,
+        "isRemove": false,
+        "newValueAfterRedeem": 0.0,
+        "pinCode": "3TN5GT7Y5B",
+        "recipientsLastName": "test",
+        "redeemAmount": 0.0,
+        "yearIssued": "2020"
+      }
+    ],
+    "isRemove": false,
+    "CheckinSessionId": "",
+    "cartId": "E643FE7E-CC1C-481C-943F-DAC3480D25D3",
+    "flow": "VIEWRES",
+    "sessionId": "E5287D13F7E84E019C398AFEEEC5E324",
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.67",
+        "minor": "4.1.67"
+      }
+    },
+    "deviceId": "b0c6c179-37a3-499f-93d8-850c0fc6df8b",
+    "languageCode": "en-US",
+    "transactionId": "b0c6c179-37a3-499f-93d8-850c0fc6df8b|ed2e4ec8-8817-4f1f-ba91-ce41d61328b0"
+  }
+]

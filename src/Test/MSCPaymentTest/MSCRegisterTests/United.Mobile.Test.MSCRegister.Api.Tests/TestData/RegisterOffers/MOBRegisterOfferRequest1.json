@@ -1,0 +1,44 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.68",
+        "minor": "4.1.68"
+      }
+    },
+    "cartId": "FDE43DBE-8D11-4D99-8AFF-CAFE3EB53672",
+    "cartKey": "",
+    "CheckinSessionId": "",
+    "continueToRegisterAncillary": false,
+    "deviceId": "283321ce-9f14-474d-82f5-504847823bd0",
+    "flow": "POSTBOOKING",
+    "isContinue": false,
+    "languageCode": "en-US",
+    "merchandizingOfferDetails": [
+      {
+        "isAcceptChanges": false,
+        "isOfferRegistered": false,
+        "isReQuote": false,
+        "numberOfPasses": 0,
+        "productCode": "TPI",
+        "productIds": [
+          "S100AB"
+        ],
+        "selectedTripProductIDs": [
+        ],
+        "subProductCode": "",
+        "tripIds": [
+        ]
+      }
+    ],
+    "pointofSale": "",
+    "sessionId": "D72496CE12D749D28489FEE519CBAEA5",
+    "transactionId": "283321ce-9f14-474d-82f5-504847823bd0|c1a839e0-94a4-4b35-8bc3-d601115f465a",
+    "IsOmniCartSavedTripFlow": true
+  }
+
+]

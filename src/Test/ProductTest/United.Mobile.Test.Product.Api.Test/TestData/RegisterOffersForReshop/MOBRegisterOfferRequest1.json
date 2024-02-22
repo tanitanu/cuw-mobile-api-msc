@@ -1,0 +1,47 @@
+[
+  {
+    "accessCode": "ACCESSCODE",
+    "application": {
+      "id": 2,
+      "isProduction": false,
+      "name": "Android",
+      "version": {
+        "major": "4.1.68",
+        "minor": "4.1.68"
+      }
+    },
+    "cartId": "E1417165-C947-43E2-A156-C9575E8EEFE1",
+    "cartKey": "OTP",
+    "CheckinSessionId": "",
+    "clubPassPurchaseRequest": {
+      "amountPaid": 59,
+      "isTestSystem": false,
+      "numberOfPasses": 1
+    },
+    "continueToRegisterAncillary": false,
+    "deviceId": "9fe3cbbb-7e54-48c8-9309-68b2afb04faa",
+    "flow": "RESHOP",
+    "isContinue": false,
+    "languageCode": "en-US",
+    "merchandizingOfferDetails": [
+      {
+        "isAcceptChanges": false,
+        "isOfferRegistered": false,
+        "isReQuote": false,
+        "numberOfPasses": 1,
+        "productCode": "OTP",
+        "productIds": [
+          "1"
+        ],
+        "selectedTripProductIDs": [
+        ],
+        "subProductCode": "",
+        "tripIds": [
+        ]
+      }
+    ],
+    "pointofSale": "US",
+    "sessionId": "E4967FD122A24468BF4A93CDC445265B",
+    "transactionId": "9fe3cbbb-7e54-48c8-9309-68b2afb04faa|1e22a5ac-0fb0-48b9-b891-0f9ca4af45bd"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+
+    "Messages": [
+      {
+        "Title": "RTI.FutureFlightCredits.EmailConfirmation",
+        "ContentFull": "To determine first and second checked baggage service charges for your itinerary, use the baggage calculator below. Please note that as required by U.S. Department of Transportation regulations, baggage service charges for your entire itinerary are determined by the marketing carrier for the first segment of your itinerary. Your originating marketing carrier is the airline whose flight number is assigned to the first segment of your itinerary. If this carrier is not United or United Express, different charges may apply.\n<p>Baggage service charges are based on the date of ticketing and on the ticketed cabin as well as the traveler's status or membership on the date of travel. Eligibility for the checked baggage service charge waiver for travelers on award tickets issued or re-issued on or after April 15, 2015, is based on each traveler’s Premier status at check-in, rather than the status of the member whose miles were used to purchase the award ticket.</p><p>For all United Economy® tickets issued or re-issued before February 1, 2015, Premier® Gold members are eligible for three complimentary checked bags at 70 pounds (32 kg) each. For United Economy tickets issued or re-issued on or after February 1, 2015, Premier Gold members are eligible for two complimentary checked bags at 70 pounds (32 kg) each for travel between the U.S., Canada, Puerto Rico and the U.S. Virgin Islands. For travel to and from select international markets, Premier Gold members are eligible for three complimentary checked bags at 70 pounds (32 kg) each. To determine specific checked baggage service charges, please use the baggage calculator below.</p>",
+        "ContentShort": null,
+        "CallToAction1": null,
+        "CallToActionUrl1": null,
+        "Headline": "Checked baggage",
+        "GroupName": [ "General:BaggageServiceCharges" ],
+        "LocationCode": "Bags:Checked"
+      }
+    ],
+    "MessageItems": [
+      {
+        "Title": "RTI.FutureFlightCredits.EmailConfirmation",
+        "ContentFull": "To determine first and second checked baggage service charges for your itinerary, use the baggage calculator below. Please note that as required by U.S. Department of Transportation regulations, baggage service charges for your entire itinerary are determined by the marketing carrier for the first segment of your itinerary. Your originating marketing carrier is the airline whose flight number is assigned to the first segment of your itinerary. If this carrier is not United or United Express, different charges may apply.\n<p>Baggage service charges are based on the date of ticketing and on the ticketed cabin as well as the traveler's status or membership on the date of travel. Eligibility for the checked baggage service charge waiver for travelers on award tickets issued or re-issued on or after April 15, 2015, is based on each traveler’s Premier status at check-in, rather than the status of the member whose miles were used to purchase the award ticket.</p><p>For all United Economy® tickets issued or re-issued before February 1, 2015, Premier® Gold members are eligible for three complimentary checked bags at 70 pounds (32 kg) each. For United Economy tickets issued or re-issued on or after February 1, 2015, Premier Gold members are eligible for two complimentary checked bags at 70 pounds (32 kg) each for travel between the U.S., Canada, Puerto Rico and the U.S. Virgin Islands. For travel to and from select international markets, Premier Gold members are eligible for three complimentary checked bags at 70 pounds (32 kg) each. To determine specific checked baggage service charges, please use the baggage calculator below.</p>",
+        "ContentShort": null,
+        "CallToAction1": null,
+        "CallToActionUrl1": null,
+        "Headline": "Checked baggage",
+        "ContentText": "Testcontent",
+        "Vanity": "Testvanity",
+        "Created": "2021/12/11"
+      }
+    ],
+    "LastCallDateTime": "2021/07/22",
+    "CallTime": "23:00",
+    "Errors": [
+      {
+        "MajorCode": "4.1.22",
+        "MajorDescription": "not valid",
+        "MinorCode": "2.1.34",
+        "MinorDescription": "not valid",
+        "Message": "failure",
+        "CallTime": "04:00"
+
+      }
+    ],
+    "Status": 12
+
+
+  }
+]
+
+

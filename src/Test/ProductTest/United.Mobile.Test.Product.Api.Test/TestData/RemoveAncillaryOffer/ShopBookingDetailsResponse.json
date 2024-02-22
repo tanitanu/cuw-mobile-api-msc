@@ -1,0 +1,1335 @@
+[
+  {
+    "ShopBookingDetailsResponse": {
+      "ObjectName": "United.Persist.Definition.Shopping.ShopBookingDetailsResponse",
+      "SessionId": "E00A45EDC7A94840B04A5A13D7440B9A",
+      "Reservation": {
+        "Travelers": {
+          "Traveler": {
+            "Person": {
+              "Key": "1.1",
+              "DateOfBirth": "5/27/1997",
+              "Type": "ADT",
+              "InfantIndicator": "",
+              "ReservationIndex": "0",
+              "Age": "25",
+              "PricingPaxType": "ADT"
+            },
+            "LoyaltyProgramProfile": {
+              "LoyaltyProgramCarrierCode": "UA",
+              "LoyaltyProgramID": "UA",
+              "LoyaltyProgramMemberID": "MR722052",
+              "LoyaltyProgramMemberTierLevel": "1",
+              "LoyaltyProgramMemberTierDescription": "PremierSilver",
+              "StarEliteLevelDescription": "StarGold",
+              "MilesBalance": "0",
+              "CompanionCount": "0"
+            },
+            "Tickets": {
+              "ValueDocument": {
+                "SequenceNumber": "0",
+                "TicketingCarrierCode": "UA",
+                "HasPlusPointsAPDEMD": "false",
+                "IsMilesMoney": "false"
+              }
+            }
+          }
+        },
+        "FlightSegments": {
+          "ReservationFlightSegment": {
+            "Characteristic": {
+              "Characteristic": {
+                "Code": "SELECTED_FARE_TYPE",
+                "Value": "ECONOMY"
+              }
+            },
+            "SegmentNumber": "1",
+            "TripNumber": "1",
+            "LOFNumber": "0",
+            "FlightSegment": {
+              "DepartureAirport": {
+                "IATACode": "IAH",
+                "Name": "Houston, TX, US (IAH)",
+                "UTCOffset": "0",
+                "IATACountryCode": {
+                  "CountryCode": "US",
+                  "StateCount": "0",
+                  "IsEUCountry": "false"
+                },
+                "StateProvince": {
+                  "StateProvinceCode": "TX"
+                },
+                "IsRecommendedAirportUsed": "false",
+                "IsAllAirport": "false",
+                "TimeZoneOffSet": "0",
+                "IsTriggeredAirport": "false",
+                "IsTriggerRepricing": "false",
+                "Latitude": "0",
+                "Longitude": "0"
+              },
+              "ArrivalAirport": {
+                "IATACode": "DEN",
+                "Name": "Denver, CO, US (DEN)",
+                "UTCOffset": "0",
+                "IATACountryCode": {
+                  "CountryCode": "US",
+                  "StateCount": "0",
+                  "IsEUCountry": "false"
+                },
+                "StateProvince": {
+                  "StateProvinceCode": "CO"
+                },
+                "IsRecommendedAirportUsed": "false",
+                "IsAllAirport": "false",
+                "TimeZoneOffSet": "0",
+                "IsTriggeredAirport": "false",
+                "IsTriggerRepricing": "false",
+                "Latitude": "0",
+                "Longitude": "0"
+              },
+              "DepartureDateTime": "2022-05-29 08:12",
+              "ArrivalDateTime": "2022-05-29 09:45",
+              "FlightNumber": "2053",
+              "JourneyDuration": "",
+              "OnTimeRate": "0",
+              "OperatingAirlineCode": "UA",
+              "Equipment": {
+                "Model": {
+                  "Description": "Boeing 737-800",
+                  "Fleet": "738"
+                },
+                "CabinCount": "2"
+              },
+              "MarketedFlightSegment": {
+                "MarketedFlightSegment": {
+                  "MarketingAirlineCode": "UA",
+                  "FlightNumber": "2053"
+                }
+              },
+              "MarriageGroup": "N",
+              "Distance": "861",
+              "SegmentNumber": "1",
+              "BookingClasses": {
+                "BookingClass": {
+                  "Code": "V",
+                  "Cabin": {
+                    "Key": "UE",
+                    "Name": "United Economy",
+                    "Layout": "2",
+                    "RowCount": "0",
+                    "ColumnCount": "0",
+                    "TotalSeats": "0"
+                  }
+                }
+              },
+              "FlightSegmentType": "NN",
+              "Message": {
+                "Message": [
+                  {
+                    "Code": {
+                      "_xmlns": "United.Service.Presentation.SegmentModel",
+                      "__text": "ARRDAYDIFF"
+                    }
+                  },
+                  {
+                    "Text": {
+                      "_xmlns": "United.Service.Presentation.SegmentModel",
+                      "__text": "VAA0AKEN"
+                    },
+                    "Code": {
+                      "_xmlns": "United.Service.Presentation.SegmentModel",
+                      "__text": "BASIS_CODE"
+                    }
+                  },
+                  {
+                    "Text": {
+                      "_xmlns": "United.Service.Presentation.SegmentModel",
+                      "__text": "False"
+                    },
+                    "Code": {
+                      "_xmlns": "United.Service.Presentation.SegmentModel",
+                      "__text": "PETS_DISALLOWED"
+                    }
+                  },
+                  {
+                    "Text": {
+                      "_xmlns": "United.Service.Presentation.SegmentModel",
+                      "__text": "United Airlines"
+                    },
+                    "Code": {
+                      "_xmlns": "United.Service.Presentation.SegmentModel",
+                      "__text": "OPERATINGCARRIERDESC"
+                    }
+                  },
+                  {
+                    "Text": {
+                      "_xmlns": "United.Service.Presentation.SegmentModel",
+                      "__text": "OBY"
+                    },
+                    "Code": {
+                      "_xmlns": "United.Service.Presentation.SegmentModel",
+                      "__text": "OB"
+                    }
+                  }
+                ]
+              },
+              "Characteristic": {
+                "Characteristic": {
+                  "Code": "PET_COUNT",
+                  "Value": "0"
+                }
+              },
+              "ScheduledFlightDuration": "",
+              "GroundTime": "",
+              "IsInternational": "False",
+              "NumberofStops": "0",
+              "ArrivalTimeZone": "0",
+              "DepartureTimeZone": "0",
+              "AvailBookingClasses": {
+                "BookingClass": [
+                  {
+                    "Code": "J",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "2"
+                    }
+                  },
+                  {
+                    "Code": "JN",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "2"
+                    }
+                  },
+                  {
+                    "Code": "C",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "1"
+                    }
+                  },
+                  {
+                    "Code": "D",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "1"
+                    }
+                  },
+                  {
+                    "Code": "Z",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "0"
+                    }
+                  },
+                  {
+                    "Code": "ZN",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "0"
+                    }
+                  },
+                  {
+                    "Code": "P",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "0"
+                    }
+                  },
+                  {
+                    "Code": "PN",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "0"
+                    }
+                  },
+                  {
+                    "Code": "PZ",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "0"
+                    }
+                  },
+                  {
+                    "Code": "IN",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "0"
+                    }
+                  },
+                  {
+                    "Code": "I",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "0"
+                    }
+                  },
+                  {
+                    "Code": "Y",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "9"
+                    }
+                  },
+                  {
+                    "Code": "YN",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "9"
+                    }
+                  },
+                  {
+                    "Code": "B",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "9"
+                    }
+                  },
+                  {
+                    "Code": "M",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "9"
+                    }
+                  },
+                  {
+                    "Code": "E",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "9"
+                    }
+                  },
+                  {
+                    "Code": "U",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "9"
+                    }
+                  },
+                  {
+                    "Code": "H",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "7"
+                    }
+                  },
+                  {
+                    "Code": "HN",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "4"
+                    }
+                  },
+                  {
+                    "Code": "Q",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "6"
+                    }
+                  },
+                  {
+                    "Code": "V",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "4"
+                    }
+                  },
+                  {
+                    "Code": "W",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "4"
+                    }
+                  },
+                  {
+                    "Code": "S",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "4"
+                    }
+                  },
+                  {
+                    "Code": "T",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "2"
+                    }
+                  },
+                  {
+                    "Code": "L",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "1"
+                    }
+                  },
+                  {
+                    "Code": "K",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "0"
+                    }
+                  },
+                  {
+                    "Code": "G",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "0"
+                    }
+                  },
+                  {
+                    "Code": "N",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "9"
+                    }
+                  },
+                  {
+                    "Code": "XN",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "0"
+                    }
+                  },
+                  {
+                    "Code": "X",
+                    "Counts": {
+                      "DisplaySequence": "0",
+                      "Value": "0"
+                    }
+                  }
+                ]
+              },
+              "PetCount": "0",
+              "ConnectTime": "0",
+              "IsChangeOfPlane": "false",
+              "UpgradeEligibilityStatus": "Unknown",
+              "UpgradeVisibilityType": "None",
+              "InstantUpgradable": "false"
+            },
+            "LoyaltyAccrual": "0",
+            "IsConnection": "False"
+          }
+        },
+        "Prices": {
+          "Price": {
+            "BasePrice": {
+              "Charge": {
+                "Currency": {
+                  "Code": "USD",
+                  "DecimalPlace": "2",
+                  "ISONumericCode": "0"
+                },
+                "Amount": "213.95",
+                "Count": "0",
+                "IsFeeDeductfromRefund": "false"
+              }
+            },
+            "Taxes": {
+              "Charge": [
+                {
+                  "Code": "US",
+                  "Currency": {
+                    "Code": "USD",
+                    "DecimalPlace": "2",
+                    "ISONumericCode": "0"
+                  },
+                  "Amount": "16.05",
+                  "Description": "U.S. Transportation Tax",
+                  "Status": "APPLIED",
+                  "Count": "0",
+                  "IsFeeDeductfromRefund": "false"
+                },
+                {
+                  "Code": "XF",
+                  "Currency": {
+                    "Code": "USD",
+                    "DecimalPlace": "2",
+                    "ISONumericCode": "0"
+                  },
+                  "Amount": "4.5",
+                  "Description": "U.S. Passenger Facility Charge",
+                  "Status": "APPLIED",
+                  "Count": "0",
+                  "IsFeeDeductfromRefund": "false"
+                },
+                {
+                  "Code": "ZP",
+                  "Currency": {
+                    "Code": "USD",
+                    "DecimalPlace": "2",
+                    "ISONumericCode": "0"
+                  },
+                  "Amount": "4.5",
+                  "Description": "U.S. Flight Segment Tax",
+                  "Status": "APPLIED",
+                  "Count": "0",
+                  "IsFeeDeductfromRefund": "false"
+                },
+                {
+                  "Code": "AY",
+                  "Currency": {
+                    "Code": "USD",
+                    "DecimalPlace": "2",
+                    "ISONumericCode": "0"
+                  },
+                  "Amount": "5.6",
+                  "Description": "September 11th Security Fee",
+                  "Status": "APPLIED",
+                  "Count": "0",
+                  "IsFeeDeductfromRefund": "false"
+                }
+              ]
+            },
+            "Surcharges": "",
+            "Fees": "",
+            "Totals": {
+              "Charge": [
+                {
+                  "Name": "TaxTotal",
+                  "Currency": {
+                    "Code": "USD",
+                    "DecimalPlace": "2",
+                    "ISONumericCode": "0"
+                  },
+                  "Amount": "30.65",
+                  "Count": "0",
+                  "IsFeeDeductfromRefund": "false"
+                },
+                {
+                  "Name": "GrandTotalForMileage",
+                  "Currency": {
+                    "Code": "MIL",
+                    "DecimalPlace": "0",
+                    "ISONumericCode": "0"
+                  },
+                  "Amount": "0",
+                  "Count": "0",
+                  "IsFeeDeductfromRefund": "false"
+                },
+                {
+                  "Name": "GrandTotalForCurrency",
+                  "Currency": {
+                    "Code": "USD",
+                    "DecimalPlace": "2",
+                    "ISONumericCode": "0"
+                  },
+                  "Amount": "244.6",
+                  "Count": "0",
+                  "IsFeeDeductfromRefund": "false"
+                }
+              ]
+            },
+            "BasePriceEquivalent": {
+              "Currency": {
+                "Code": "USD",
+                "DecimalPlace": "2",
+                "ISONumericCode": "0"
+              },
+              "Amount": "213.95",
+              "Count": "0",
+              "IsFeeDeductfromRefund": "false"
+            },
+            "Type": {
+              "Key": "Revenue",
+              "Description": "fareFlavor",
+              "DisplaySequence": "0",
+              "Value": "ADT"
+            },
+            "Rules": {
+              "Restriction": {
+                "Description": "NONREF/0VALUAFTDPT"
+              }
+            },
+            "Discount": "0",
+            "FareCalculation": "HOU UA DEN 213.95VAA0AKEN USD 213.95 END ZP IAH XT 16.05US 4.50ZP 5.60AY 4.50XF IAH4.5",
+            "FareComponents": {
+              "FareComponent": {
+                "AirlineCode": "UA",
+                "OriginCity": "HOU",
+                "DestinationCity": "DEN",
+                "BasisCodes": {
+                  "string": "VAA0AKEN"
+                },
+                "TripType": "ONE-WAY",
+                "BasePrice": {
+                  "Charge": {
+                    "Currency": {
+                      "Code": "USD",
+                      "DecimalPlace": "0",
+                      "ISONumericCode": "0"
+                    },
+                    "Amount": "213.95",
+                    "Count": "0",
+                    "IsFeeDeductfromRefund": "false"
+                  }
+                },
+                "DestinationAirportCode": "DEN",
+                "OriginAirportCode": "IAH",
+                "SequenceNumber": "1",
+                "PassengerTypeCode": "ADT",
+                "Characteristic": "",
+                "IsCancelUpGradeAllowed": "false"
+              }
+            },
+            "Count": {
+              "DisplaySequence": "0",
+              "CountType": "Pax Count",
+              "Value": "1"
+            },
+            "FareType": "Revenue",
+            "PriceFlightSegments": {
+              "PriceFlightSegment": {
+                "DepartureAirport": {
+                  "IATACode": "IAH",
+                  "ShortName": "IAH",
+                  "UTCOffset": "0",
+                  "IsRecommendedAirportUsed": "false",
+                  "IsAllAirport": "false",
+                  "TimeZoneOffSet": "0",
+                  "IsTriggeredAirport": "false",
+                  "IsTriggerRepricing": "false",
+                  "Latitude": "0",
+                  "Longitude": "0"
+                },
+                "ArrivalAirport": {
+                  "IATACode": "DEN",
+                  "ShortName": "DEN",
+                  "UTCOffset": "0",
+                  "IsRecommendedAirportUsed": "false",
+                  "IsAllAirport": "false",
+                  "TimeZoneOffSet": "0",
+                  "IsTriggeredAirport": "false",
+                  "IsTriggerRepricing": "false",
+                  "Latitude": "0",
+                  "Longitude": "0"
+                },
+                "DepartureDateTime": "2022-05-29 08:12",
+                "ArrivalDateTime": "2022-05-29 09:45",
+                "FlightNumber": "2053",
+                "JourneyDuration": "",
+                "OnTimeRate": "0",
+                "MarketedFlightSegment": {
+                  "MarketedFlightSegment": {
+                    "MarketingAirlineCode": "UA"
+                  }
+                },
+                "MarriageGroup": "N",
+                "Distance": "0",
+                "SegmentNumber": "1",
+                "BookingClasses": {
+                  "BookingClass": {
+                    "Code": "V"
+                  }
+                },
+                "ScheduledFlightDuration": "",
+                "GroundTime": "",
+                "Legs": {
+                  "FlightLeg": {
+                    "Equipment": {
+                      "Model": {
+                        "Fleet": "738"
+                      },
+                      "CabinCount": "0"
+                    },
+                    "CabinCount": "2"
+                  }
+                },
+                "NumberofStops": "0",
+                "ArrivalTimeZone": "0",
+                "DepartureTimeZone": "0",
+                "PetCount": "0",
+                "ConnectTime": "0",
+                "IsChangeOfPlane": "false",
+                "UpgradeEligibilityStatus": "Unknown",
+                "UpgradeVisibilityType": "None",
+                "InstantUpgradable": "false",
+                "AuxillaryText": "False",
+                "FareBasisCode": "VAA0AKEN",
+                "TicketDesignator": "",
+                "LOFNumber": "1",
+                "FareComponentSequenceNumber": "1",
+                "GlobalIndicator": ""
+              }
+            },
+            "PassengerTypeCode": "ADT",
+            "Characteristics": "",
+            "PassengerIDs": {
+              "Key": "1.1",
+              "Description": "ADT",
+              "DisplaySequence": "0"
+            },
+            "TotalPremium": "0",
+            "TotalDiscount": "0",
+            "OriginalPrice": "0",
+            "Amount": "0",
+            "DecimalPlace": "0"
+          }
+        },
+        "Type": {
+          "Genre": [
+            {
+              "Key": "NEW",
+              "DisplaySequence": "0"
+            },
+            {
+              "Key": "REVENUE",
+              "DisplaySequence": "0"
+            }
+          ]
+        },
+        "Characteristic": {
+          "Characteristic": [
+            {
+              "Code": "Refundable",
+              "Value": "False"
+            },
+            {
+              "Code": "ContentLookupID",
+              "Value": "Messages:63"
+            },
+            {
+              "Code": "BBXID",
+              "Value": "bYx29zS0gfMk9mvzL0beIq"
+            },
+            {
+              "Code": "TRIP_TYPE",
+              "Value": "OW",
+              "Description": "TRIP_TYPE"
+            },
+            {
+              "Code": "StationCode",
+              "Value": "HOU"
+            }
+          ]
+        },
+        "NumberInParty": "1",
+        "Sponsor": {
+          "Age": "0",
+          "LoyaltyProgramMemberID": "MR722052",
+          "LoyaltyProgramMemberTierLevel": "PremierSilver",
+          "AccountBalances": {
+            "LoyaltyAccountBalance": {
+              "Balance": "149",
+              "BalanceType": "MilesBalance"
+            }
+          }
+        },
+        "GUID": {
+          "ID": "E00A45ED-C7A9-4840-B04A-5A13D7440B9A"
+        },
+        "PointOfSale": {
+          "Country": {
+            "CountryCode": "US",
+            "StateCount": "0",
+            "IsEUCountry": "false"
+          },
+          "CurrencyCode": "USD"
+        },
+        "CartId": "E00A45ED-C7A9-4840-B04A-5A13D7440B9A"
+      },
+      "FareLock": {
+        "Offers": {
+          "Offer": {
+            "ProductInformation": {
+              "ProductDetails": {
+                "ProductDetail": {
+                  "Product": {
+                    "Description": "Hold Reservation Using FareLock",
+                    "Code": "FLK",
+                    "SubProducts": "",
+                    "DisplayName": "FareLock"
+                  },
+                  "InEligibleSegments": {
+                    "InEligibleSegment": {
+                      "Reason": {
+                        "MajorCode": "002",
+                        "MinorCode": "5",
+                        "Description": "Flight is not in Advance purchase range"
+                      },
+                      "Assocatiation": {
+                        "ODMappings": {
+                          "OriginDestinationMapping": {
+                            "SegmentRefIDs": {
+                              "string": "S1"
+                            },
+                            "RefID": "OD1"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "ID": "SOL1",
+            "Warnings": ""
+          }
+        },
+        "Response": {
+          "TransactionID": "1653649486163010232233168777951",
+          "Message": "",
+          "GUIDs": {
+            "UniqueIdentifier": [
+              {
+                "ID": "1653649486163010232233168777951",
+                "Name": "CORRELATIONID"
+              },
+              {
+                "ID": "1653649486163010232233168777951",
+                "Name": "TRANSACTIONID"
+              }
+            ]
+          },
+          "ProcessTime": "51",
+          "TimeStamps": {
+            "TimeStamp": [
+              {
+                "ResponseTime": "",
+                "Time": "5/27/2022 7:04:46 AM",
+                "Type": "Eastern Standard Time",
+                "TransactionId": "00000000-0000-0000-0000-000000000000",
+                "StartTime": "0001-01-01T00:00:00"
+              },
+              {
+                "ResponseTime": "",
+                "Time": "5/27/2022 7:04:46 AM",
+                "Type": "Fms Service Invoke Date Time",
+                "TransactionId": "00000000-0000-0000-0000-000000000000",
+                "StartTime": "0001-01-01T00:00:00"
+              },
+              {
+                "ResponseTime": "",
+                "Time": "1/1/0001 00:00:00",
+                "Type": "PnrCreateDate",
+                "TransactionId": "00000000-0000-0000-0000-000000000000",
+                "StartTime": "0001-01-01T00:00:00"
+              }
+            ]
+          },
+          "RecordLocator": ""
+        },
+        "FlightSegments": {
+          "ProductFlightSegment": {
+            "DepartureAirport": {
+              "IATACode": "IAH",
+              "Name": "Houston, TX, US (IAH)",
+              "UTCOffset": "0",
+              "IATACountryCode": {
+                "CountryCode": "US",
+                "StateCount": "0",
+                "IsEUCountry": "false"
+              },
+              "IsRecommendedAirportUsed": "false",
+              "IsAllAirport": "false",
+              "TimeZoneOffSet": "0",
+              "IsTriggeredAirport": "false",
+              "IsTriggerRepricing": "false",
+              "Latitude": "0",
+              "Longitude": "0"
+            },
+            "ArrivalAirport": {
+              "IATACode": "DEN",
+              "Name": "Denver, CO, US (DEN)",
+              "UTCOffset": "0",
+              "IATACountryCode": {
+                "CountryCode": "US",
+                "StateCount": "0",
+                "IsEUCountry": "false"
+              },
+              "IsRecommendedAirportUsed": "false",
+              "IsAllAirport": "false",
+              "TimeZoneOffSet": "0",
+              "IsTriggeredAirport": "false",
+              "IsTriggerRepricing": "false",
+              "Latitude": "0",
+              "Longitude": "0"
+            },
+            "DepartureDateTime": "2022-05-29 08:12",
+            "ArrivalDateTime": "2022-05-29 09:45",
+            "FlightNumber": "2053",
+            "JourneyDuration": "",
+            "OnTimeRate": "0",
+            "OperatingAirlineCode": "UA",
+            "Equipment": {
+              "Model": {
+                "Description": "Boeing 737-800",
+                "Fleet": "738"
+              },
+              "CabinCount": "2"
+            },
+            "MarketedFlightSegment": {
+              "MarketedFlightSegment": {
+                "MarketingAirlineCode": "UA",
+                "FlightNumber": "2053",
+                "Description": "United Airlines"
+              }
+            },
+            "DirectionIndicator": "",
+            "Distance": "861",
+            "SegmentNumber": "1",
+            "BookingClasses": {
+              "BookingClass": {
+                "Code": "V",
+                "Cabin": {
+                  "Key": "UE",
+                  "Name": "United Economy",
+                  "Description": "United Economy",
+                  "Layout": "2",
+                  "RowCount": "0",
+                  "ColumnCount": "0",
+                  "TotalSeats": "0"
+                }
+              }
+            },
+            "ScheduledFlightDuration": "",
+            "GroundTime": "",
+            "IsInternational": "False",
+            "NumberofStops": "0",
+            "ArrivalTimeZone": "0",
+            "DepartureTimeZone": "0",
+            "OperatingAirline": {
+              "DisplaySequence": "0",
+              "IsGovernmentMustRide": "false",
+              "IsNOCMustRide": "false",
+              "IATACode": "UA"
+            },
+            "AvailBookingClasses": {
+              "BookingClass": [
+                {
+                  "Code": "J",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "2"
+                  }
+                },
+                {
+                  "Code": "JN",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "2"
+                  }
+                },
+                {
+                  "Code": "C",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "1"
+                  }
+                },
+                {
+                  "Code": "D",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "1"
+                  }
+                },
+                {
+                  "Code": "Z",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "0"
+                  }
+                },
+                {
+                  "Code": "ZN",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "0"
+                  }
+                },
+                {
+                  "Code": "P",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "0"
+                  }
+                },
+                {
+                  "Code": "PN",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "0"
+                  }
+                },
+                {
+                  "Code": "PZ",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "0"
+                  }
+                },
+                {
+                  "Code": "IN",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "0"
+                  }
+                },
+                {
+                  "Code": "I",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "0"
+                  }
+                },
+                {
+                  "Code": "Y",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "9"
+                  }
+                },
+                {
+                  "Code": "YN",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "9"
+                  }
+                },
+                {
+                  "Code": "B",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "9"
+                  }
+                },
+                {
+                  "Code": "M",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "9"
+                  }
+                },
+                {
+                  "Code": "E",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "9"
+                  }
+                },
+                {
+                  "Code": "U",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "9"
+                  }
+                },
+                {
+                  "Code": "H",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "7"
+                  }
+                },
+                {
+                  "Code": "HN",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "4"
+                  }
+                },
+                {
+                  "Code": "Q",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "6"
+                  }
+                },
+                {
+                  "Code": "V",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "4"
+                  }
+                },
+                {
+                  "Code": "W",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "4"
+                  }
+                },
+                {
+                  "Code": "S",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "4"
+                  }
+                },
+                {
+                  "Code": "T",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "2"
+                  }
+                },
+                {
+                  "Code": "L",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "1"
+                  }
+                },
+                {
+                  "Code": "K",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "0"
+                  }
+                },
+                {
+                  "Code": "G",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "0"
+                  }
+                },
+                {
+                  "Code": "N",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "9"
+                  }
+                },
+                {
+                  "Code": "XN",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "0"
+                  }
+                },
+                {
+                  "Code": "X",
+                  "Counts": {
+                    "DisplaySequence": "0",
+                    "Value": "0"
+                  }
+                }
+              ]
+            },
+            "PetCount": "0",
+            "ConnectTime": "0",
+            "IsChangeOfPlane": "false",
+            "UpgradeEligibilityStatus": "Unknown",
+            "UpgradeVisibilityType": "None",
+            "InstantUpgradable": "false",
+            "ID": "S1",
+            "ClassOfService": "V",
+            "TripIndicator": "1",
+            "FareBasisCode": "VAA0AKEN",
+            "JourneyInfo": "false"
+          }
+        },
+        "ODOptions": {
+          "ProductOriginDestinationOption": {
+            "ID": "OD1",
+            "FlightSegments": {
+              "ProductFlightSegment": {
+                "DepartureAirport": {
+                  "IATACode": "IAH",
+                  "Name": "Houston, TX, US (IAH)",
+                  "UTCOffset": "0",
+                  "IATACountryCode": {
+                    "CountryCode": "US",
+                    "StateCount": "0",
+                    "IsEUCountry": "false"
+                  },
+                  "IsRecommendedAirportUsed": "false",
+                  "IsAllAirport": "false",
+                  "TimeZoneOffSet": "0",
+                  "IsTriggeredAirport": "false",
+                  "IsTriggerRepricing": "false",
+                  "Latitude": "0",
+                  "Longitude": "0"
+                },
+                "ArrivalAirport": {
+                  "IATACode": "DEN",
+                  "Name": "Denver, CO, US (DEN)",
+                  "UTCOffset": "0",
+                  "IATACountryCode": {
+                    "CountryCode": "US",
+                    "StateCount": "0",
+                    "IsEUCountry": "false"
+                  },
+                  "IsRecommendedAirportUsed": "false",
+                  "IsAllAirport": "false",
+                  "TimeZoneOffSet": "0",
+                  "IsTriggeredAirport": "false",
+                  "IsTriggerRepricing": "false",
+                  "Latitude": "0",
+                  "Longitude": "0"
+                },
+                "DepartureDateTime": "2022-05-29 08:12",
+                "ArrivalDateTime": "2022-05-29 09:45",
+                "JourneyDuration": "",
+                "OnTimeRate": "0",
+                "Distance": "0",
+                "SegmentNumber": "0",
+                "ScheduledFlightDuration": "",
+                "GroundTime": "",
+                "NumberofStops": "0",
+                "ArrivalTimeZone": "0",
+                "DepartureTimeZone": "0",
+                "PetCount": "0",
+                "ConnectTime": "0",
+                "IsChangeOfPlane": "false",
+                "UpgradeEligibilityStatus": "Unknown",
+                "UpgradeVisibilityType": "None",
+                "InstantUpgradable": "false",
+                "ID": "S1",
+                "RefID": "S1",
+                "JourneyInfo": "false"
+              }
+            },
+            "Characteristics": {
+              "Characteristic": {
+                "Code": "SELECTED_FARE_TYPE",
+                "Value": "ECONOMY"
+              }
+            },
+            "JourneyInfo": "false"
+          }
+        },
+        "Travelers": {
+          "ProductTraveler": {
+            "DateOfBirth": "5/27/1997 12:00:00 AM",
+            "CustomerID": "0",
+            "Type": "ADT",
+            "Age": "0",
+            "LoyaltyProgramProfile": {
+              "LoyaltyProgramCarrierCode": "UA",
+              "LoyaltyProgramMemberID": "MR722052",
+              "LoyaltyProgramMemberTierLevel": "Premier Silver",
+              "LoyaltyProgramMemberTierDescription": "PremierSilver",
+              "StarEliteLevelDescription": "StarGold",
+              "MilesBalance": "0",
+              "CompanionCount": "0"
+            },
+            "TravelerNameIndex": "1.1",
+            "TicketNumber": "",
+            "ID": "0",
+            "PassengerTypeCode": "ADT",
+            "TicketingDate": "5/27/2022 11:04:00 AM",
+            "ProductLoyaltyProgramProfile": {
+              "ProductTravelerLoyaltyProfile": {
+                "LoyaltyProgramCarrierCode": "UA",
+                "LoyaltyProgramMemberID": "MR722052",
+                "LoyaltyProgramMemberTierLevel": "Premier Silver",
+                "LoyaltyProgramMemberTierDescription": "PremierSilver",
+                "StarEliteLevelDescription": "StarGold",
+                "MilesBalance": "0",
+                "CompanionCount": "0",
+                "IsPrimary": "true",
+                "CreditCards": ""
+              }
+            },
+            "CompanionCount": "0",
+            "Entitlements": "",
+            "PositionOnUpgradeList": "0"
+          }
+        },
+        "Solutions": {
+          "Solution": {
+            "ID": "SOL1",
+            "ODOptions": {
+              "ProductOriginDestinationOption": {
+                "FlightSegments": {
+                  "ProductFlightSegment": {
+                    "DepartureAirport": {
+                      "IATACode": "IAH",
+                      "Name": "Houston, TX, US (IAH)",
+                      "UTCOffset": "0",
+                      "IATACountryCode": {
+                        "CountryCode": "US",
+                        "StateCount": "0",
+                        "IsEUCountry": "false"
+                      },
+                      "IsRecommendedAirportUsed": "false",
+                      "IsAllAirport": "false",
+                      "TimeZoneOffSet": "0",
+                      "IsTriggeredAirport": "false",
+                      "IsTriggerRepricing": "false",
+                      "Latitude": "0",
+                      "Longitude": "0"
+                    },
+                    "ArrivalAirport": {
+                      "IATACode": "DEN",
+                      "Name": "Denver, CO, US (DEN)",
+                      "UTCOffset": "0",
+                      "IATACountryCode": {
+                        "CountryCode": "US",
+                        "StateCount": "0",
+                        "IsEUCountry": "false"
+                      },
+                      "IsRecommendedAirportUsed": "false",
+                      "IsAllAirport": "false",
+                      "TimeZoneOffSet": "0",
+                      "IsTriggeredAirport": "false",
+                      "IsTriggerRepricing": "false",
+                      "Latitude": "0",
+                      "Longitude": "0"
+                    },
+                    "DepartureDateTime": "2022-05-29 08:12",
+                    "ArrivalDateTime": "2022-05-29 09:45",
+                    "JourneyDuration": "",
+                    "OnTimeRate": "0",
+                    "Distance": "0",
+                    "SegmentNumber": "0",
+                    "ScheduledFlightDuration": "",
+                    "GroundTime": "",
+                    "NumberofStops": "0",
+                    "ArrivalTimeZone": "0",
+                    "DepartureTimeZone": "0",
+                    "PetCount": "0",
+                    "ConnectTime": "0",
+                    "IsChangeOfPlane": "false",
+                    "UpgradeEligibilityStatus": "Unknown",
+                    "UpgradeVisibilityType": "None",
+                    "InstantUpgradable": "false",
+                    "ID": "S1",
+                    "RefID": "S1",
+                    "JourneyInfo": "false"
+                  }
+                },
+                "RefID": "OD1",
+                "JourneyInfo": "false"
+              }
+            }
+          }
+        },
+        "Requester": {
+          "GUIDs": {
+            "UniqueIdentifier": [
+              {
+                "ID": "587724C4-840E-4B63-AB6B-EAE5FE54E4F6",
+                "Name": "AuthorizationToken"
+              },
+              {
+                "ID": "E00A45ED-C7A9-4840-B04A-5A13D7440B9A",
+                "Name": "CartId"
+              },
+              {
+                "ID": "1653649486163010232233168777951",
+                "Name": "CORRELATIONID"
+              }
+            ]
+          },
+          "Requestor": {
+            "Characteristic": {
+              "Characteristic": {
+                "Code": "TransactionLog",
+                "Value": "true"
+              }
+            },
+            "ID": "1653649486163010232233168777951",
+            "ChannelID": "401",
+            "ChannelName": "MBE",
+            "LanguageCode": "en-US"
+          }
+        }
+      },
+      "_xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+    }
+  }
+]
